@@ -1,0 +1,2001 @@
+Transaction ID,Bank,Year,Amount Involved,Fraudulent,Time,Category,Day,Frequency
+TXN00164,Tamilnad Mercantile Bank Limited,2023-24,15.92,0,12:00-16:00,Medium,Weekend,Low
+TXN00407,The Dhanalakshmi Bank Limited,2022-23,10.46,1,20:00-00:00,Medium,Weekday,High
+TXN00002,The Dhanalakshmi Bank Limited,2023-24,19.78,0,12:00-16:00,Medium,Weekday,Low
+TXN00071,ICICI Bank Limited,2023-24,21.122748418653323,1,00:00-04:00,Medium,Weekday,Low
+TXN00065,Bandhan Bank Limited,2022-23,7.38,0,08:00-12:00,Small,Weekday,High
+TXN00303,City Union Bank Limited,2022-23,24.93,0,08:00-12:00,Medium,Weekday,High
+TXN00146,Federal Bank Limited,2022-23,8.363124870190937,1,00:00-04:00,Small,Weekday,High
+TXN00482,DCB Bank Limited,2023-24,25.86,0,16:00-20:00,Medium,Weekday,Medium
+TXN00075,Nainital Bank Limited,2022-23,11.48,1,00:00-04:00,Medium,Weekday,Low
+TXN00482,DCB Bank Limited,2023-24,25.86,0,08:00-12:00,Medium,Weekend,Low
+TXN00064,Jammu and Kashmir Bank Limited,2023-24,50.23,1,00:00-04:00,Large,Weekend,High
+TXN00113,Axis Bank Limited,2023-24,15.08,0,08:00-12:00,Medium,Weekday,Low
+TXN00184,DCB Bank Limited,2022-23,9.14,0,08:00-12:00,Small,Weekday,Medium
+TXN00006,Yes Bank Limited,2022-23,48.503947263388056,1,00:00-04:00,Medium,Weekend,Low
+TXN00430,Bandhan Bank Limited,2023-24,17.51,1,20:00-00:00,Medium,Weekday,Low
+TXN00321,Kotak Mahindra Bank Limited,2021-22,48.52,1,20:00-00:00,Medium,Weekday,Medium
+TXN00294,Tamilnad Mercantile Bank Limited,2021-22,21.845991685082243,1,00:00-04:00,Medium,Weekday,High
+TXN00153,Axis Bank Limited,2021-22,6.26,1,00:00-04:00,Small,Weekend,Medium
+TXN00111,ICICI Bank Limited,2022-23,27.81,0,16:00-20:00,Medium,Weekend,Low
+TXN00404,Kotak Mahindra Bank Limited,2023-24,5.24,0,12:00-16:00,Small,Weekday,Low
+TXN00154,The Dhanalakshmi Bank Limited,2021-22,18.314829699448786,1,00:00-04:00,Medium,Weekend,High
+TXN00164,Tamilnad Mercantile Bank Limited,2023-24,15.92,0,08:00-12:00,Medium,Weekday,High
+TXN00451,Karur Vysya Bank Limited,2023-24,45.31,0,12:00-16:00,Medium,Weekday,Low
+TXN00040,CSB Bank Limited,2021-22,12.44,0,08:00-12:00,Medium,Weekday,Low
+TXN00466,Karnataka Bank Limited,2021-22,24.11,0,12:00-16:00,Medium,Weekday,Low
+TXN00117,Karur Vysya Bank Limited,2022-23,8.05,1,04:00-08:00,Small,Weekday,High
+TXN00230,The Dhanalakshmi Bank Limited,2022-23,2.1,0,16:00-20:00,Small,Weekday,Low
+TXN00140,HDFC Bank Limited,2023-24,17.698398395692536,1,04:00-08:00,Medium,Weekday,High
+TXN00439,IndusInd Bank Limited,2022-23,10.006883380111951,1,00:00-04:00,Medium,Weekday,High
+TXN00034,Tamilnad Mercantile Bank Limited,2022-23,26.74,1,00:00-04:00,Medium,Weekend,High
+TXN00391,Karnataka Bank Limited,2023-24,23.637000884593526,1,00:00-04:00,Medium,Weekend,Medium
+TXN00370,City Union Bank Limited,2023-24,4.581810306461662,1,00:00-04:00,Small,Weekday,High
+TXN00251,CSB Bank Limited,2022-23,11.225982012139474,1,04:00-08:00,Medium,Weekday,High
+TXN00148,Jammu and Kashmir Bank Limited,2021-22,7.450541908347422,1,20:00-00:00,Small,Weekday,High
+TXN00249,RBL Bank Limited,2023-24,4.48,0,16:00-20:00,Small,Weekday,Low
+TXN00179,RBL Bank Limited,2021-22,7.659241836901009,1,04:00-08:00,Small,Weekday,High
+TXN00176,City Union Bank Limited,2021-22,31.52,0,12:00-16:00,Medium,Weekday,Medium
+TXN00114,City Union Bank Limited,2023-24,24.82,0,16:00-20:00,Medium,Weekday,Low
+TXN00087,Axis Bank Limited,2022-23,17.18,0,16:00-20:00,Medium,Weekend,Medium
+TXN00295,CSB Bank Limited,2021-22,7.71,1,00:00-04:00,Small,Weekend,High
+TXN00148,Jammu and Kashmir Bank Limited,2021-22,7.81,1,00:00-04:00,Small,Weekday,Low
+TXN00249,RBL Bank Limited,2023-24,4.48,0,12:00-16:00,Small,Weekend,Medium
+TXN00291,Axis Bank Limited,2022-23,5.47,1,00:00-04:00,Small,Weekday,Medium
+TXN00253,ICICI Bank Limited,2023-24,17.506972824298515,1,20:00-00:00,Medium,Weekday,High
+TXN00361,Jammu and Kashmir Bank Limited,2021-22,9.12,0,16:00-20:00,Small,Weekday,Low
+TXN00055,CSB Bank Limited,2023-24,5.682085145094443,1,04:00-08:00,Small,Weekday,High
+TXN00443,Axis Bank Limited,2021-22,5.547239256749883,1,04:00-08:00,Small,Weekend,High
+TXN00023,Jammu and Kashmir Bank Limited,2023-24,11.35867475501321,1,00:00-04:00,Medium,Weekend,Medium
+TXN00080,Karnataka Bank Limited,2023-24,19.86,1,20:00-00:00,Medium,Weekend,Medium
+TXN00164,Tamilnad Mercantile Bank Limited,2023-24,15.92,0,16:00-20:00,Medium,Weekday,Medium
+TXN00040,CSB Bank Limited,2021-22,12.44,0,16:00-20:00,Medium,Weekday,Low
+TXN00286,ICICI Bank Limited,2023-24,12.45,1,20:00-00:00,Medium,Weekday,Medium
+TXN00040,CSB Bank Limited,2021-22,12.44,0,08:00-12:00,Medium,Weekend,Low
+TXN00247,The Dhanalakshmi Bank Limited,2021-22,10.04,1,00:00-04:00,Medium,Weekday,High
+TXN00364,HDFC Bank Limited,2022-23,31.39583747371797,1,04:00-08:00,Medium,Weekday,High
+TXN00361,Jammu and Kashmir Bank Limited,2021-22,9.12,0,16:00-20:00,Small,Weekday,High
+TXN00489,RBL Bank Limited,2021-22,7.53,0,08:00-12:00,Small,Weekday,Low
+TXN00048,HDFC Bank Limited,2022-23,4.13,0,12:00-16:00,Small,Weekend,Medium
+TXN00002,The Dhanalakshmi Bank Limited,2023-24,19.78,0,16:00-20:00,Medium,Weekday,Low
+TXN00415,Axis Bank Limited,2022-23,14.31,1,00:00-04:00,Medium,Weekday,High
+TXN00002,The Dhanalakshmi Bank Limited,2023-24,19.78,0,08:00-12:00,Medium,Weekend,Medium
+TXN00259,Karur Vysya Bank Limited,2021-22,13.602233430403372,1,04:00-08:00,Medium,Weekday,Low
+TXN00002,The Dhanalakshmi Bank Limited,2023-24,19.78,0,16:00-20:00,Medium,Weekday,Medium
+TXN00230,The Dhanalakshmi Bank Limited,2022-23,2.1,0,16:00-20:00,Small,Weekday,Medium
+TXN00083,Karnataka Bank Limited,2021-22,23.74,0,08:00-12:00,Medium,Weekday,Low
+TXN00427,CSB Bank Limited,2023-24,15.75,0,16:00-20:00,Medium,Weekday,Medium
+TXN00107,Nainital Bank Limited,2022-23,10.68486837477559,1,04:00-08:00,Medium,Weekday,High
+TXN00461,IDBI Bank Limited,2022-23,27.61,0,08:00-12:00,Medium,Weekday,Low
+TXN00132,CSB Bank Limited,2023-24,14.69,1,04:00-08:00,Medium,Weekend,Medium
+TXN00471,IDFC First Bank Limited,2021-22,6.66,0,12:00-16:00,Small,Weekend,Medium
+TXN00279,Jammu and Kashmir Bank Limited,2023-24,5.62,0,12:00-16:00,Small,Weekday,Low
+TXN00439,IndusInd Bank Limited,2022-23,10.8,1,00:00-04:00,Medium,Weekday,Low
+TXN00264,IDBI Bank Limited,2022-23,51.46,0,12:00-16:00,Large,Weekend,Low
+TXN00424,Axis Bank Limited,2021-22,6.66,0,08:00-12:00,Small,Weekend,Medium
+TXN00242,Nainital Bank Limited,2022-23,5.356023577231519,1,04:00-08:00,Small,Weekend,High
+TXN00376,IDFC First Bank Limited,2023-24,24.05,1,04:00-08:00,Medium,Weekend,High
+TXN00088,Jammu and Kashmir Bank Limited,2021-22,14.38,0,08:00-12:00,Medium,Weekday,Medium
+TXN00335,Karnataka Bank Limited,2021-22,15.639990432368181,1,20:00-00:00,Medium,Weekday,High
+TXN00422,IDFC First Bank Limited,2022-23,4.87,1,20:00-00:00,Small,Weekend,High
+TXN00048,HDFC Bank Limited,2022-23,4.13,0,12:00-16:00,Small,Weekday,Low
+TXN00079,Yes Bank Limited,2023-24,16.51,1,04:00-08:00,Medium,Weekday,High
+TXN00413,HDFC Bank Limited,2022-23,84.11805385282132,1,20:00-00:00,Large,Weekend,High
+TXN00313,Axis Bank Limited,2021-22,7.23,0,08:00-12:00,Small,Weekday,Medium
+TXN00002,The Dhanalakshmi Bank Limited,2023-24,19.78,0,16:00-20:00,Medium,Weekday,Medium
+TXN00293,Nainital Bank Limited,2022-23,51.32,0,08:00-12:00,Large,Weekday,Low
+TXN00022,Jammu and Kashmir Bank Limited,2023-24,10.52,0,16:00-20:00,Medium,Weekend,Medium
+TXN00221,ICICI Bank Limited,2023-24,31.69,0,08:00-12:00,Medium,Weekday,Low
+TXN00371,ICICI Bank Limited,2023-24,28.751505826776416,1,00:00-04:00,Medium,Weekday,Medium
+TXN00327,Axis Bank Limited,2022-23,9.92,1,20:00-00:00,Small,Weekend,High
+TXN00466,Karnataka Bank Limited,2021-22,24.11,0,08:00-12:00,Medium,Weekday,Low
+TXN00365,CSB Bank Limited,2023-24,8.38,0,16:00-20:00,Small,Weekday,Low
+TXN00008,Tamilnad Mercantile Bank Limited,2022-23,11.28,0,12:00-16:00,Medium,Weekday,High
+TXN00245,The Dhanalakshmi Bank Limited,2022-23,11.75,1,00:00-04:00,Medium,Weekday,High
+TXN00345,Jammu and Kashmir Bank Limited,2021-22,39.7,1,20:00-00:00,Medium,Weekend,High
+TXN00471,IDFC First Bank Limited,2021-22,6.66,0,16:00-20:00,Small,Weekday,High
+TXN00203,Axis Bank Limited,2023-24,4.1,0,12:00-16:00,Small,Weekday,Medium
+TXN00270,Yes Bank Limited,2023-24,7.495709161289558,1,00:00-04:00,Small,Weekday,High
+TXN00176,City Union Bank Limited,2021-22,31.52,0,08:00-12:00,Medium,Weekday,Medium
+TXN00022,Jammu and Kashmir Bank Limited,2023-24,10.52,0,12:00-16:00,Medium,Weekday,Low
+TXN00276,RBL Bank Limited,2022-23,22.38,0,16:00-20:00,Medium,Weekend,Medium
+TXN00316,IDFC First Bank Limited,2023-24,16.209298979480938,1,04:00-08:00,Medium,Weekend,Medium
+TXN00392,Yes Bank Limited,2021-22,10.7275449228312,1,20:00-00:00,Medium,Weekday,Medium
+TXN00495,CSB Bank Limited,2022-23,14.57,1,20:00-00:00,Medium,Weekend,High
+TXN00230,The Dhanalakshmi Bank Limited,2022-23,2.1,0,16:00-20:00,Small,Weekday,Low
+TXN00277,Axis Bank Limited,2022-23,22.84,1,04:00-08:00,Medium,Weekday,Medium
+TXN00408,DCB Bank Limited,2022-23,15.4892568373205,1,20:00-00:00,Medium,Weekday,High
+TXN00198,Bandhan Bank Limited,2022-23,8.026243507595177,1,20:00-00:00,Small,Weekday,High
+TXN00298,RBL Bank Limited,2023-24,25.53,1,04:00-08:00,Medium,Weekday,Medium
+TXN00041,Karur Vysya Bank Limited,2023-24,17.075674183122814,1,04:00-08:00,Medium,Weekday,High
+TXN00074,Yes Bank Limited,2023-24,9.638027302075985,1,04:00-08:00,Small,Weekday,High
+TXN00262,City Union Bank Limited,2023-24,35.60839517084276,1,04:00-08:00,Medium,Weekday,High
+TXN00072,Karur Vysya Bank Limited,2023-24,3.47,0,12:00-16:00,Small,Weekday,Medium
+TXN00008,Tamilnad Mercantile Bank Limited,2022-23,11.28,0,08:00-12:00,Medium,Weekday,Low
+TXN00279,Jammu and Kashmir Bank Limited,2023-24,5.62,0,08:00-12:00,Small,Weekday,High
+TXN00061,IDFC First Bank Limited,2021-22,33.324780587310556,1,00:00-04:00,Medium,Weekend,High
+TXN00438,Tamilnad Mercantile Bank Limited,2023-24,36.62,1,20:00-00:00,Medium,Weekend,Medium
+TXN00072,Karur Vysya Bank Limited,2023-24,3.47,0,12:00-16:00,Small,Weekend,Low
+TXN00078,Kotak Mahindra Bank Limited,2021-22,4.260581574522614,1,04:00-08:00,Small,Weekday,Medium
+TXN00406,Karur Vysya Bank Limited,2022-23,56.33,1,00:00-04:00,Large,Weekday,High
+TXN00033,DCB Bank Limited,2022-23,14.95,0,16:00-20:00,Medium,Weekday,Medium
+TXN00476,City Union Bank Limited,2021-22,5.04,0,08:00-12:00,Small,Weekday,Low
+TXN00033,DCB Bank Limited,2022-23,14.95,0,16:00-20:00,Medium,Weekday,Medium
+TXN00482,DCB Bank Limited,2023-24,25.86,0,08:00-12:00,Medium,Weekend,Low
+TXN00441,Jammu and Kashmir Bank Limited,2021-22,10.505732023502068,1,04:00-08:00,Medium,Weekend,Medium
+TXN00450,Jammu and Kashmir Bank Limited,2021-22,4.23,1,00:00-04:00,Small,Weekend,Medium
+TXN00427,CSB Bank Limited,2023-24,15.75,0,08:00-12:00,Medium,Weekend,High
+TXN00292,DCB Bank Limited,2021-22,9.42650507536891,1,04:00-08:00,Small,Weekday,High
+TXN00363,DCB Bank Limited,2021-22,4.4962759979546005,1,20:00-00:00,Small,Weekend,High
+TXN00002,The Dhanalakshmi Bank Limited,2023-24,19.78,0,16:00-20:00,Medium,Weekday,Low
+TXN00420,Bandhan Bank Limited,2022-23,4.88,1,00:00-04:00,Small,Weekday,Medium
+TXN00203,Axis Bank Limited,2023-24,4.1,0,16:00-20:00,Small,Weekday,Low
+TXN00230,The Dhanalakshmi Bank Limited,2022-23,2.1,0,16:00-20:00,Small,Weekday,Medium
+TXN00440,DCB Bank Limited,2022-23,12.646865152758368,1,04:00-08:00,Medium,Weekday,Medium
+TXN00242,Nainital Bank Limited,2022-23,4.756647242532866,1,20:00-00:00,Small,Weekday,Medium
+TXN00025,IDFC First Bank Limited,2021-22,7.978511987225718,1,20:00-00:00,Small,Weekday,High
+TXN00116,Kotak Mahindra Bank Limited,2022-23,28.57,0,16:00-20:00,Medium,Weekday,Medium
+TXN00276,RBL Bank Limited,2022-23,22.38,0,12:00-16:00,Medium,Weekday,Low
+TXN00482,DCB Bank Limited,2023-24,25.86,0,12:00-16:00,Medium,Weekday,Medium
+TXN00451,Karur Vysya Bank Limited,2023-24,45.31,0,12:00-16:00,Medium,Weekend,High
+TXN00002,The Dhanalakshmi Bank Limited,2023-24,19.78,0,08:00-12:00,Medium,Weekday,Low
+TXN00048,HDFC Bank Limited,2022-23,4.13,0,16:00-20:00,Small,Weekday,Medium
+TXN00354,Federal Bank Limited,2023-24,31.13,1,20:00-00:00,Medium,Weekday,High
+TXN00120,DCB Bank Limited,2023-24,9.11,0,12:00-16:00,Small,Weekend,Low
+TXN00496,Jammu and Kashmir Bank Limited,2023-24,36.722202120800695,1,20:00-00:00,Medium,Weekday,High
+TXN00424,Axis Bank Limited,2021-22,6.66,0,08:00-12:00,Small,Weekend,High
+TXN00273,ICICI Bank Limited,2021-22,7.77827742629729,1,20:00-00:00,Small,Weekday,Medium
+TXN00366,Federal Bank Limited,2021-22,17.02922528123891,1,04:00-08:00,Medium,Weekday,High
+TXN00120,DCB Bank Limited,2023-24,9.11,0,08:00-12:00,Small,Weekday,Low
+TXN00270,Yes Bank Limited,2023-24,7.23,1,00:00-04:00,Small,Weekend,Low
+TXN00143,IDFC First Bank Limited,2022-23,15.35,1,00:00-04:00,Medium,Weekday,High
+TXN00365,CSB Bank Limited,2023-24,8.38,0,08:00-12:00,Small,Weekday,Medium
+TXN00265,CSB Bank Limited,2022-23,10.911923270400608,1,04:00-08:00,Medium,Weekday,High
+TXN00098,IDFC First Bank Limited,2023-24,8.058192930125662,1,20:00-00:00,Small,Weekend,Medium
+TXN00403,DCB Bank Limited,2021-22,19.89,0,16:00-20:00,Medium,Weekday,Low
+TXN00356,IndusInd Bank Limited,2022-23,9.06,1,04:00-08:00,Small,Weekday,High
+TXN00160,ICICI Bank Limited,2022-23,51.25,1,04:00-08:00,Large,Weekday,High
+TXN00448,Jammu and Kashmir Bank Limited,2022-23,2.1377089310008666,1,04:00-08:00,Small,Weekend,High
+TXN00403,DCB Bank Limited,2021-22,19.89,0,12:00-16:00,Medium,Weekend,Medium
+TXN00298,RBL Bank Limited,2023-24,24.898122763146688,1,20:00-00:00,Medium,Weekday,Low
+TXN00338,Karnataka Bank Limited,2022-23,8.44,0,16:00-20:00,Small,Weekday,Low
+TXN00093,ICICI Bank Limited,2022-23,11.759155701734192,1,20:00-00:00,Medium,Weekend,High
+TXN00269,Karur Vysya Bank Limited,2023-24,23.79845419784585,1,00:00-04:00,Medium,Weekend,High
+TXN00129,HDFC Bank Limited,2022-23,5.46,1,04:00-08:00,Small,Weekday,High
+TXN00445,ICICI Bank Limited,2021-22,43.62,0,16:00-20:00,Medium,Weekday,Low
+TXN00149,The Dhanalakshmi Bank Limited,2023-24,7.32,0,12:00-16:00,Small,Weekday,Low
+TXN00287,Bandhan Bank Limited,2021-22,14.39,0,16:00-20:00,Medium,Weekend,Medium
+TXN00293,Nainital Bank Limited,2022-23,51.32,0,12:00-16:00,Large,Weekend,Medium
+TXN00033,DCB Bank Limited,2022-23,14.95,0,12:00-16:00,Medium,Weekday,Low
+TXN00246,Axis Bank Limited,2021-22,14.8,1,00:00-04:00,Medium,Weekday,Medium
+TXN00365,CSB Bank Limited,2023-24,8.38,0,08:00-12:00,Small,Weekday,Medium
+TXN00314,City Union Bank Limited,2023-24,8.27,0,08:00-12:00,Small,Weekday,Medium
+TXN00260,South Indian Bank Limited,2021-22,21.39270582984655,1,20:00-00:00,Medium,Weekday,Medium
+TXN00008,Tamilnad Mercantile Bank Limited,2022-23,11.28,0,08:00-12:00,Medium,Weekday,Low
+TXN00002,The Dhanalakshmi Bank Limited,2023-24,19.78,0,16:00-20:00,Medium,Weekday,Medium
+TXN00473,IDBI Bank Limited,2021-22,3.14,1,20:00-00:00,Small,Weekend,Medium
+TXN00121,Karur Vysya Bank Limited,2023-24,8.53,0,16:00-20:00,Small,Weekend,Medium
+TXN00191,Federal Bank Limited,2021-22,33.27239660338323,1,04:00-08:00,Medium,Weekend,Medium
+TXN00451,Karur Vysya Bank Limited,2023-24,45.31,0,16:00-20:00,Medium,Weekday,Medium
+TXN00206,Nainital Bank Limited,2023-24,68.25685816022772,1,00:00-04:00,Large,Weekday,Medium
+TXN00120,DCB Bank Limited,2023-24,9.11,0,08:00-12:00,Small,Weekend,Medium
+TXN00361,Jammu and Kashmir Bank Limited,2021-22,9.12,0,16:00-20:00,Small,Weekday,Low
+TXN00189,Yes Bank Limited,2021-22,30.072947353289,1,20:00-00:00,Medium,Weekday,Medium
+TXN00279,Jammu and Kashmir Bank Limited,2023-24,5.62,0,08:00-12:00,Small,Weekday,Low
+TXN00072,Karur Vysya Bank Limited,2023-24,3.47,0,12:00-16:00,Small,Weekday,Medium
+TXN00418,DCB Bank Limited,2022-23,32.78416680264489,1,04:00-08:00,Medium,Weekday,High
+TXN00300,Karur Vysya Bank Limited,2023-24,7.753645387626302,1,04:00-08:00,Small,Weekday,High
+TXN00167,Kotak Mahindra Bank Limited,2021-22,10.57,0,16:00-20:00,Medium,Weekday,Low
+TXN00116,Kotak Mahindra Bank Limited,2022-23,28.57,0,12:00-16:00,Medium,Weekday,Low
+TXN00114,City Union Bank Limited,2023-24,24.82,0,12:00-16:00,Medium,Weekday,Low
+TXN00355,Kotak Mahindra Bank Limited,2021-22,18.82,0,08:00-12:00,Medium,Weekend,Low
+TXN00109,City Union Bank Limited,2023-24,39.73525628981866,1,20:00-00:00,Medium,Weekday,High
+TXN00316,IDFC First Bank Limited,2023-24,17.1,1,04:00-08:00,Medium,Weekend,High
+TXN00330,Nainital Bank Limited,2022-23,20.45,0,16:00-20:00,Medium,Weekday,Low
+TXN00268,Axis Bank Limited,2022-23,7.07,1,04:00-08:00,Small,Weekend,High
+TXN00056,South Indian Bank Limited,2022-23,21.33,1,20:00-00:00,Medium,Weekend,Low
+TXN00364,HDFC Bank Limited,2022-23,33.26633863846267,1,00:00-04:00,Medium,Weekend,High
+TXN00301,Yes Bank Limited,2023-24,21.3,0,16:00-20:00,Medium,Weekday,Medium
+TXN00066,IDFC First Bank Limited,2023-24,50.83395072253793,1,04:00-08:00,Large,Weekday,High
+TXN00214,HDFC Bank Limited,2022-23,15.058354783966676,1,04:00-08:00,Medium,Weekend,High
+TXN00147,Jammu and Kashmir Bank Limited,2021-22,7.4,0,16:00-20:00,Small,Weekend,Low
+TXN00403,DCB Bank Limited,2021-22,19.89,0,16:00-20:00,Medium,Weekday,Low
+TXN00220,South Indian Bank Limited,2021-22,7.529381162207303,1,04:00-08:00,Small,Weekday,Medium
+TXN00202,Nainital Bank Limited,2023-24,12.64,1,20:00-00:00,Medium,Weekday,High
+TXN00405,RBL Bank Limited,2023-24,7.233349360800101,1,20:00-00:00,Small,Weekday,High
+TXN00477,Nainital Bank Limited,2023-24,14.07,1,00:00-04:00,Medium,Weekday,High
+TXN00274,HDFC Bank Limited,2023-24,1.75,1,20:00-00:00,Small,Weekday,Medium
+TXN00287,Bandhan Bank Limited,2021-22,14.39,0,12:00-16:00,Medium,Weekday,Low
+TXN00355,Kotak Mahindra Bank Limited,2021-22,18.82,0,08:00-12:00,Medium,Weekday,Low
+TXN00476,City Union Bank Limited,2021-22,5.04,0,16:00-20:00,Small,Weekday,Medium
+TXN00027,Kotak Mahindra Bank Limited,2021-22,14.25,1,00:00-04:00,Medium,Weekday,Medium
+TXN00222,Axis Bank Limited,2023-24,3.6,0,12:00-16:00,Small,Weekday,Medium
+TXN00073,ICICI Bank Limited,2022-23,6.81,1,20:00-00:00,Small,Weekday,High
+TXN00336,HDFC Bank Limited,2023-24,28.15,1,04:00-08:00,Medium,Weekday,High
+TXN00219,HDFC Bank Limited,2021-22,13.55,1,20:00-00:00,Medium,Weekend,High
+TXN00112,City Union Bank Limited,2022-23,4.063835815371926,1,20:00-00:00,Small,Weekday,High
+TXN00303,City Union Bank Limited,2022-23,24.93,0,12:00-16:00,Medium,Weekday,Low
+TXN00276,RBL Bank Limited,2022-23,22.38,0,12:00-16:00,Medium,Weekend,High
+TXN00408,DCB Bank Limited,2022-23,14.5,1,00:00-04:00,Medium,Weekday,High
+TXN00479,South Indian Bank Limited,2021-22,25.4,1,00:00-04:00,Medium,Weekday,High
+TXN00360,Yes Bank Limited,2023-24,3.03,0,16:00-20:00,Small,Weekday,Medium
+TXN00053,Karur Vysya Bank Limited,2023-24,17.006047822765645,1,20:00-00:00,Medium,Weekday,High
+TXN00229,Nainital Bank Limited,2021-22,3.83,1,20:00-00:00,Small,Weekend,High
+TXN00262,City Union Bank Limited,2023-24,37.57733066859157,1,00:00-04:00,Medium,Weekday,High
+TXN00176,City Union Bank Limited,2021-22,31.52,0,12:00-16:00,Medium,Weekday,Low
+TXN00167,Kotak Mahindra Bank Limited,2021-22,10.57,0,12:00-16:00,Medium,Weekday,High
+TXN00427,CSB Bank Limited,2023-24,15.75,0,08:00-12:00,Medium,Weekday,High
+TXN00499,Jammu and Kashmir Bank Limited,2021-22,13.43,1,20:00-00:00,Medium,Weekday,High
+TXN00118,City Union Bank Limited,2021-22,37.62,1,20:00-00:00,Medium,Weekday,Medium
+TXN00113,Axis Bank Limited,2023-24,15.08,0,16:00-20:00,Medium,Weekday,Low
+TXN00452,Bandhan Bank Limited,2022-23,27.33,1,04:00-08:00,Medium,Weekday,High
+TXN00230,The Dhanalakshmi Bank Limited,2022-23,2.1,0,12:00-16:00,Small,Weekday,High
+TXN00256,Nainital Bank Limited,2021-22,17.43,1,04:00-08:00,Medium,Weekday,High
+TXN00489,RBL Bank Limited,2021-22,7.53,0,12:00-16:00,Small,Weekday,Medium
+TXN00111,ICICI Bank Limited,2022-23,27.81,0,08:00-12:00,Medium,Weekday,Medium
+TXN00203,Axis Bank Limited,2023-24,4.1,0,08:00-12:00,Small,Weekday,Medium
+TXN00396,DCB Bank Limited,2023-24,16.07,1,20:00-00:00,Medium,Weekday,High
+TXN00365,CSB Bank Limited,2023-24,8.38,0,08:00-12:00,Small,Weekend,Medium
+TXN00201,Nainital Bank Limited,2021-22,14.608237406973005,1,04:00-08:00,Medium,Weekend,High
+TXN00355,Kotak Mahindra Bank Limited,2021-22,18.82,0,16:00-20:00,Medium,Weekday,Low
+TXN00163,Axis Bank Limited,2022-23,14.89916017797992,1,20:00-00:00,Medium,Weekday,Medium
+TXN00003,Kotak Mahindra Bank Limited,2023-24,4.25383310702589,1,20:00-00:00,Small,Weekend,High
+TXN00176,City Union Bank Limited,2021-22,31.52,0,16:00-20:00,Medium,Weekday,Low
+TXN00218,ICICI Bank Limited,2023-24,5.856159935417767,1,00:00-04:00,Small,Weekend,Medium
+TXN00220,South Indian Bank Limited,2021-22,6.531053355874279,1,20:00-00:00,Small,Weekday,High
+TXN00134,HDFC Bank Limited,2023-24,5.48,0,08:00-12:00,Small,Weekday,Low
+TXN00138,CSB Bank Limited,2023-24,20.9,1,04:00-08:00,Medium,Weekday,High
+TXN00052,City Union Bank Limited,2023-24,107.37414124675942,1,00:00-04:00,Large,Weekday,High
+TXN00059,Bandhan Bank Limited,2021-22,94.45,0,16:00-20:00,Large,Weekday,Low
+TXN00057,ICICI Bank Limited,2021-22,7.217303584177405,1,00:00-04:00,Small,Weekday,Medium
+TXN00404,Kotak Mahindra Bank Limited,2023-24,5.24,0,12:00-16:00,Small,Weekday,Low
+TXN00149,The Dhanalakshmi Bank Limited,2023-24,7.32,0,12:00-16:00,Small,Weekday,Low
+TXN00353,IDFC First Bank Limited,2021-22,11.94,1,04:00-08:00,Medium,Weekday,High
+TXN00040,CSB Bank Limited,2021-22,12.44,0,08:00-12:00,Medium,Weekend,Low
+TXN00155,Karnataka Bank Limited,2022-23,7.151706707860623,1,04:00-08:00,Small,Weekend,Medium
+TXN00088,Jammu and Kashmir Bank Limited,2021-22,14.38,0,08:00-12:00,Medium,Weekend,Medium
+TXN00002,The Dhanalakshmi Bank Limited,2023-24,19.78,0,16:00-20:00,Medium,Weekend,Low
+TXN00465,South Indian Bank Limited,2021-22,18.18236076282648,1,04:00-08:00,Medium,Weekday,High
+TXN00329,IndusInd Bank Limited,2022-23,15.547078847419561,1,04:00-08:00,Medium,Weekday,High
+TXN00114,City Union Bank Limited,2023-24,24.82,0,16:00-20:00,Medium,Weekday,Low
+TXN00222,Axis Bank Limited,2023-24,3.6,0,08:00-12:00,Small,Weekday,Low
+TXN00091,Tamilnad Mercantile Bank Limited,2023-24,5.13,1,20:00-00:00,Small,Weekday,High
+TXN00022,Jammu and Kashmir Bank Limited,2023-24,10.52,0,16:00-20:00,Medium,Weekend,Low
+TXN00037,IDBI Bank Limited,2023-24,2.79,1,20:00-00:00,Small,Weekday,High
+TXN00087,Axis Bank Limited,2022-23,17.18,0,12:00-16:00,Medium,Weekday,Low
+TXN00134,HDFC Bank Limited,2023-24,5.48,0,08:00-12:00,Small,Weekday,Low
+TXN00234,Nainital Bank Limited,2022-23,21.47,0,12:00-16:00,Medium,Weekday,Low
+TXN00405,RBL Bank Limited,2023-24,7.4,1,20:00-00:00,Small,Weekday,High
+TXN00192,CSB Bank Limited,2021-22,20.47,1,00:00-04:00,Medium,Weekday,Medium
+TXN00238,IDBI Bank Limited,2023-24,24.48,1,20:00-00:00,Medium,Weekend,High
+TXN00033,DCB Bank Limited,2022-23,14.95,0,16:00-20:00,Medium,Weekday,Low
+TXN00008,Tamilnad Mercantile Bank Limited,2022-23,11.28,0,16:00-20:00,Medium,Weekday,Low
+TXN00135,Karnataka Bank Limited,2023-24,26.77,0,12:00-16:00,Medium,Weekday,High
+TXN00391,Karnataka Bank Limited,2023-24,22.61351716380083,1,04:00-08:00,Medium,Weekday,Medium
+TXN00330,Nainital Bank Limited,2022-23,20.45,0,12:00-16:00,Medium,Weekday,Low
+TXN00164,Tamilnad Mercantile Bank Limited,2023-24,15.92,0,16:00-20:00,Medium,Weekend,Low
+TXN00111,ICICI Bank Limited,2022-23,27.81,0,16:00-20:00,Medium,Weekday,Low
+TXN00032,City Union Bank Limited,2023-24,19.06425174671362,1,20:00-00:00,Medium,Weekend,High
+TXN00498,Tamilnad Mercantile Bank Limited,2022-23,8.64,1,04:00-08:00,Small,Weekday,High
+TXN00121,Karur Vysya Bank Limited,2023-24,8.53,0,12:00-16:00,Small,Weekday,High
+TXN00254,The Dhanalakshmi Bank Limited,2021-22,17.56,1,20:00-00:00,Medium,Weekend,High
+TXN00114,City Union Bank Limited,2023-24,24.82,0,08:00-12:00,Medium,Weekday,Low
+TXN00121,Karur Vysya Bank Limited,2023-24,8.53,0,12:00-16:00,Small,Weekday,Low
+TXN00382,IDBI Bank Limited,2022-23,18.617435279619734,1,04:00-08:00,Medium,Weekday,High
+TXN00203,Axis Bank Limited,2023-24,4.1,0,16:00-20:00,Small,Weekend,Medium
+TXN00461,IDBI Bank Limited,2022-23,27.61,0,08:00-12:00,Medium,Weekend,Low
+TXN00068,Karur Vysya Bank Limited,2022-23,7.77,1,20:00-00:00,Small,Weekday,High
+TXN00346,Tamilnad Mercantile Bank Limited,2023-24,36.75,1,00:00-04:00,Medium,Weekday,Medium
+TXN00338,Karnataka Bank Limited,2022-23,8.44,0,12:00-16:00,Small,Weekday,High
+TXN00084,Axis Bank Limited,2021-22,17.59,1,04:00-08:00,Medium,Weekday,Medium
+TXN00191,Federal Bank Limited,2021-22,36.81,1,20:00-00:00,Medium,Weekday,High
+TXN00355,Kotak Mahindra Bank Limited,2021-22,18.82,0,16:00-20:00,Medium,Weekday,Low
+TXN00083,Karnataka Bank Limited,2021-22,23.74,0,12:00-16:00,Medium,Weekend,Medium
+TXN00461,IDBI Bank Limited,2022-23,27.61,0,12:00-16:00,Medium,Weekday,Low
+TXN00471,IDFC First Bank Limited,2021-22,6.66,0,12:00-16:00,Small,Weekend,Low
+TXN00241,Tamilnad Mercantile Bank Limited,2021-22,49.15612680669227,1,04:00-08:00,Medium,Weekend,High
+TXN00368,The Dhanalakshmi Bank Limited,2023-24,17.84,1,04:00-08:00,Medium,Weekend,Medium
+TXN00052,City Union Bank Limited,2023-24,100.07,1,00:00-04:00,Large,Weekday,Medium
+TXN00048,HDFC Bank Limited,2022-23,4.13,0,08:00-12:00,Small,Weekday,Medium
+TXN00072,Karur Vysya Bank Limited,2023-24,3.47,0,12:00-16:00,Small,Weekday,Low
+TXN00492,Karnataka Bank Limited,2021-22,17.33,1,04:00-08:00,Medium,Weekday,High
+TXN00496,Jammu and Kashmir Bank Limited,2023-24,39.76123825392516,1,00:00-04:00,Medium,Weekday,Medium
+TXN00089,ICICI Bank Limited,2023-24,15.14,1,04:00-08:00,Medium,Weekday,Medium
+TXN00222,Axis Bank Limited,2023-24,3.6,0,12:00-16:00,Small,Weekend,Medium
+TXN00121,Karur Vysya Bank Limited,2023-24,8.53,0,12:00-16:00,Small,Weekend,Low
+TXN00226,City Union Bank Limited,2022-23,11.104440160585401,1,20:00-00:00,Medium,Weekday,High
+TXN00065,Bandhan Bank Limited,2022-23,7.38,0,12:00-16:00,Small,Weekday,High
+TXN00466,Karnataka Bank Limited,2021-22,24.11,0,08:00-12:00,Medium,Weekday,Medium
+TXN00104,Jammu and Kashmir Bank Limited,2023-24,8.31,0,12:00-16:00,Small,Weekend,Medium
+TXN00423,Tamilnad Mercantile Bank Limited,2021-22,16.300006495396598,1,04:00-08:00,Medium,Weekday,High
+TXN00035,HDFC Bank Limited,2023-24,46.17,1,20:00-00:00,Medium,Weekday,Medium
+TXN00147,Jammu and Kashmir Bank Limited,2021-22,7.4,0,12:00-16:00,Small,Weekday,Low
+TXN00134,HDFC Bank Limited,2023-24,5.48,0,12:00-16:00,Small,Weekday,Medium
+TXN00279,Jammu and Kashmir Bank Limited,2023-24,5.62,0,16:00-20:00,Small,Weekday,Low
+TXN00323,IDFC First Bank Limited,2023-24,13.35944967028698,1,20:00-00:00,Medium,Weekday,High
+TXN00297,RBL Bank Limited,2022-23,37.32,0,16:00-20:00,Medium,Weekend,Low
+TXN00223,IndusInd Bank Limited,2022-23,7.21615202882327,1,04:00-08:00,Small,Weekday,High
+TXN00404,Kotak Mahindra Bank Limited,2023-24,5.24,0,08:00-12:00,Small,Weekday,Low
+TXN00022,Jammu and Kashmir Bank Limited,2023-24,10.52,0,16:00-20:00,Medium,Weekday,Medium
+TXN00176,City Union Bank Limited,2021-22,31.52,0,16:00-20:00,Medium,Weekday,Low
+TXN00451,Karur Vysya Bank Limited,2023-24,45.31,0,12:00-16:00,Medium,Weekend,Low
+TXN00051,Kotak Mahindra Bank Limited,2021-22,5.7,1,20:00-00:00,Small,Weekend,Medium
+TXN00149,The Dhanalakshmi Bank Limited,2023-24,7.32,0,16:00-20:00,Small,Weekday,Low
+TXN00197,The Dhanalakshmi Bank Limited,2021-22,16.36,1,00:00-04:00,Medium,Weekday,High
+TXN00351,RBL Bank Limited,2021-22,7.84,1,00:00-04:00,Small,Weekend,High
+TXN00457,ICICI Bank Limited,2021-22,1.5378817187376526,1,04:00-08:00,Small,Weekday,Low
+TXN00191,Federal Bank Limited,2021-22,38.82954691742756,1,00:00-04:00,Medium,Weekend,High
+TXN00365,CSB Bank Limited,2023-24,8.38,0,12:00-16:00,Small,Weekday,Low
+TXN00273,ICICI Bank Limited,2021-22,9.277942234783021,1,04:00-08:00,Small,Weekend,High
+TXN00471,IDFC First Bank Limited,2021-22,6.66,0,16:00-20:00,Small,Weekend,High
+TXN00462,HDFC Bank Limited,2021-22,83.58033299158606,1,04:00-08:00,Large,Weekday,Low
+TXN00126,IDFC First Bank Limited,2023-24,8.869151862071938,1,04:00-08:00,Small,Weekday,Medium
+TXN00155,Karnataka Bank Limited,2022-23,8.144419179353887,1,20:00-00:00,Small,Weekday,High
+TXN00176,City Union Bank Limited,2021-22,31.52,0,16:00-20:00,Medium,Weekday,Medium
+TXN00343,Nainital Bank Limited,2023-24,20.347415663916525,1,00:00-04:00,Medium,Weekday,Medium
+TXN00394,Nainital Bank Limited,2023-24,2.46,1,20:00-00:00,Small,Weekday,High
+TXN00279,Jammu and Kashmir Bank Limited,2023-24,5.62,0,12:00-16:00,Small,Weekday,Low
+TXN00421,The Dhanalakshmi Bank Limited,2021-22,45.0,1,04:00-08:00,Medium,Weekend,High
+TXN00216,IDBI Bank Limited,2022-23,14.23,1,04:00-08:00,Medium,Weekend,High
+TXN00222,Axis Bank Limited,2023-24,3.6,0,16:00-20:00,Small,Weekday,High
+TXN00205,Federal Bank Limited,2023-24,20.42,0,08:00-12:00,Medium,Weekend,Medium
+TXN00403,DCB Bank Limited,2021-22,19.89,0,08:00-12:00,Medium,Weekend,Low
+TXN00348,Bandhan Bank Limited,2022-23,16.72,1,20:00-00:00,Medium,Weekday,High
+TXN00279,Jammu and Kashmir Bank Limited,2023-24,5.62,0,08:00-12:00,Small,Weekday,Low
+TXN00115,DCB Bank Limited,2023-24,11.919656923548944,1,00:00-04:00,Medium,Weekday,Low
+TXN00348,Bandhan Bank Limited,2022-23,17.26794495961574,1,00:00-04:00,Medium,Weekday,Low
+TXN00303,City Union Bank Limited,2022-23,24.93,0,16:00-20:00,Medium,Weekend,Low
+TXN00402,Karur Vysya Bank Limited,2023-24,5.3,1,00:00-04:00,Small,Weekday,Medium
+TXN00424,Axis Bank Limited,2021-22,6.66,0,08:00-12:00,Small,Weekday,Medium
+TXN00264,IDBI Bank Limited,2022-23,51.46,0,08:00-12:00,Large,Weekday,Low
+TXN00181,RBL Bank Limited,2021-22,22.527981676452455,1,00:00-04:00,Medium,Weekday,Medium
+TXN00206,Nainital Bank Limited,2023-24,68.76,1,00:00-04:00,Large,Weekday,High
+TXN00024,RBL Bank Limited,2021-22,16.01559227644137,1,00:00-04:00,Medium,Weekday,Medium
+TXN00104,Jammu and Kashmir Bank Limited,2023-24,8.31,0,12:00-16:00,Small,Weekend,Medium
+TXN00222,Axis Bank Limited,2023-24,3.6,0,12:00-16:00,Small,Weekday,Low
+TXN00146,Federal Bank Limited,2022-23,7.97,1,00:00-04:00,Small,Weekday,Low
+TXN00267,CSB Bank Limited,2021-22,12.930722075973478,1,04:00-08:00,Medium,Weekday,High
+TXN00083,Karnataka Bank Limited,2021-22,23.74,0,12:00-16:00,Medium,Weekday,High
+TXN00002,The Dhanalakshmi Bank Limited,2023-24,19.78,0,16:00-20:00,Medium,Weekday,Low
+TXN00293,Nainital Bank Limited,2022-23,51.32,0,08:00-12:00,Large,Weekday,Low
+TXN00361,Jammu and Kashmir Bank Limited,2021-22,9.12,0,08:00-12:00,Small,Weekday,High
+TXN00319,Karur Vysya Bank Limited,2021-22,11.963588350329735,1,04:00-08:00,Medium,Weekday,Medium
+TXN00383,Jammu and Kashmir Bank Limited,2022-23,27.78,1,20:00-00:00,Medium,Weekday,High
+TXN00455,City Union Bank Limited,2022-23,24.37417870845405,1,20:00-00:00,Medium,Weekday,High
+TXN00227,HDFC Bank Limited,2022-23,7.81,1,00:00-04:00,Small,Weekday,High
+TXN00432,The Dhanalakshmi Bank Limited,2023-24,25.02461435519425,1,00:00-04:00,Medium,Weekday,High
+TXN00316,IDFC First Bank Limited,2023-24,17.246390642724343,1,04:00-08:00,Medium,Weekday,High
+TXN00489,RBL Bank Limited,2021-22,7.53,0,12:00-16:00,Small,Weekend,Low
+TXN00374,Karnataka Bank Limited,2022-23,8.65,1,00:00-04:00,Small,Weekday,Medium
+TXN00276,RBL Bank Limited,2022-23,22.38,0,16:00-20:00,Medium,Weekend,High
+TXN00310,Axis Bank Limited,2023-24,7.02,1,20:00-00:00,Small,Weekday,High
+TXN00230,The Dhanalakshmi Bank Limited,2022-23,2.1,0,12:00-16:00,Small,Weekend,Low
+TXN00203,Axis Bank Limited,2023-24,4.1,0,16:00-20:00,Small,Weekday,Low
+TXN00077,South Indian Bank Limited,2021-22,14.04,1,04:00-08:00,Medium,Weekday,Medium
+TXN00249,RBL Bank Limited,2023-24,4.48,0,16:00-20:00,Small,Weekday,Low
+TXN00033,DCB Bank Limited,2022-23,14.95,0,08:00-12:00,Medium,Weekend,Low
+TXN00287,Bandhan Bank Limited,2021-22,14.39,0,08:00-12:00,Medium,Weekday,Medium
+TXN00354,Federal Bank Limited,2023-24,28.753453505782854,1,04:00-08:00,Medium,Weekday,High
+TXN00276,RBL Bank Limited,2022-23,22.38,0,16:00-20:00,Medium,Weekday,Medium
+TXN00222,Axis Bank Limited,2023-24,3.6,0,12:00-16:00,Small,Weekday,Low
+TXN00461,IDBI Bank Limited,2022-23,27.61,0,08:00-12:00,Medium,Weekday,Low
+TXN00221,ICICI Bank Limited,2023-24,31.69,0,08:00-12:00,Medium,Weekend,Low
+TXN00041,Karur Vysya Bank Limited,2023-24,17.110311477943263,1,04:00-08:00,Medium,Weekday,High
+TXN00486,City Union Bank Limited,2021-22,5.61,1,20:00-00:00,Small,Weekday,Low
+TXN00167,Kotak Mahindra Bank Limited,2021-22,10.57,0,08:00-12:00,Medium,Weekday,Low
+TXN00176,City Union Bank Limited,2021-22,31.52,0,08:00-12:00,Medium,Weekday,Medium
+TXN00085,HDFC Bank Limited,2022-23,11.667235747746064,1,20:00-00:00,Medium,Weekday,High
+TXN00236,DCB Bank Limited,2023-24,7.33009804202572,1,00:00-04:00,Small,Weekend,High
+TXN00404,Kotak Mahindra Bank Limited,2023-24,5.24,0,12:00-16:00,Small,Weekday,High
+TXN00188,Bandhan Bank Limited,2021-22,18.380198042616303,1,20:00-00:00,Medium,Weekday,Medium
+TXN00445,ICICI Bank Limited,2021-22,43.62,0,16:00-20:00,Medium,Weekday,Low
+TXN00489,RBL Bank Limited,2021-22,7.53,0,12:00-16:00,Small,Weekend,Low
+TXN00451,Karur Vysya Bank Limited,2023-24,45.31,0,08:00-12:00,Medium,Weekend,Medium
+TXN00357,DCB Bank Limited,2023-24,21.105600954207446,1,04:00-08:00,Medium,Weekday,High
+TXN00310,Axis Bank Limited,2023-24,6.642318116345747,1,04:00-08:00,Small,Weekday,High
+TXN00325,RBL Bank Limited,2022-23,19.191524708785792,1,04:00-08:00,Medium,Weekday,High
+TXN00054,RBL Bank Limited,2022-23,13.97958817253005,1,20:00-00:00,Medium,Weekday,Medium
+TXN00451,Karur Vysya Bank Limited,2023-24,45.31,0,12:00-16:00,Medium,Weekday,Low
+TXN00476,City Union Bank Limited,2021-22,5.04,0,12:00-16:00,Small,Weekday,Low
+TXN00305,DCB Bank Limited,2022-23,28.21,1,04:00-08:00,Medium,Weekend,High
+TXN00470,CSB Bank Limited,2021-22,10.967735181586725,1,04:00-08:00,Medium,Weekday,Medium
+TXN00428,Nainital Bank Limited,2022-23,18.76485450037626,1,04:00-08:00,Medium,Weekend,High
+TXN00278,Nainital Bank Limited,2021-22,17.12,1,20:00-00:00,Medium,Weekday,High
+TXN00351,RBL Bank Limited,2021-22,8.32527573163902,1,00:00-04:00,Small,Weekday,High
+TXN00237,DCB Bank Limited,2022-23,4.642574430155208,1,04:00-08:00,Small,Weekday,High
+TXN00484,RBL Bank Limited,2022-23,10.18,1,20:00-00:00,Medium,Weekday,High
+TXN00184,DCB Bank Limited,2022-23,9.14,0,12:00-16:00,Small,Weekend,Low
+TXN00404,Kotak Mahindra Bank Limited,2023-24,5.24,0,16:00-20:00,Small,Weekday,High
+TXN00419,CSB Bank Limited,2023-24,20.31,1,00:00-04:00,Medium,Weekend,Medium
+TXN00113,Axis Bank Limited,2023-24,15.08,0,08:00-12:00,Medium,Weekday,Low
+TXN00355,Kotak Mahindra Bank Limited,2021-22,18.82,0,12:00-16:00,Medium,Weekday,Medium
+TXN00412,Yes Bank Limited,2021-22,16.94026116553052,1,00:00-04:00,Medium,Weekend,High
+TXN00306,RBL Bank Limited,2023-24,8.424402420733186,1,04:00-08:00,Small,Weekend,Medium
+TXN00301,Yes Bank Limited,2023-24,21.3,0,16:00-20:00,Medium,Weekday,Low
+TXN00173,Jammu and Kashmir Bank Limited,2022-23,8.812536593313466,1,04:00-08:00,Small,Weekday,Low
+TXN00081,IDBI Bank Limited,2022-23,19.06,1,04:00-08:00,Medium,Weekday,High
+TXN00104,Jammu and Kashmir Bank Limited,2023-24,8.31,0,08:00-12:00,Small,Weekday,Low
+TXN00302,Federal Bank Limited,2022-23,16.69,1,20:00-00:00,Medium,Weekday,High
+TXN00058,CSB Bank Limited,2023-24,13.43,1,20:00-00:00,Medium,Weekday,Medium
+TXN00232,Bandhan Bank Limited,2022-23,8.15,1,20:00-00:00,Small,Weekday,High
+TXN00203,Axis Bank Limited,2023-24,4.1,0,12:00-16:00,Small,Weekend,Low
+TXN00354,Federal Bank Limited,2023-24,32.8859324049056,1,20:00-00:00,Medium,Weekend,Medium
+TXN00384,Yes Bank Limited,2023-24,14.75,1,04:00-08:00,Medium,Weekday,High
+TXN00461,IDBI Bank Limited,2022-23,27.61,0,16:00-20:00,Medium,Weekend,Low
+TXN00397,City Union Bank Limited,2023-24,24.881925645494785,1,04:00-08:00,Medium,Weekend,High
+TXN00461,IDBI Bank Limited,2022-23,27.61,0,08:00-12:00,Medium,Weekday,High
+TXN00403,DCB Bank Limited,2021-22,19.89,0,08:00-12:00,Medium,Weekday,Low
+TXN00338,Karnataka Bank Limited,2022-23,8.44,0,12:00-16:00,Small,Weekend,Medium
+TXN00113,Axis Bank Limited,2023-24,15.08,0,08:00-12:00,Medium,Weekend,Medium
+TXN00135,Karnataka Bank Limited,2023-24,26.77,0,12:00-16:00,Medium,Weekday,Low
+TXN00427,CSB Bank Limited,2023-24,15.75,0,16:00-20:00,Medium,Weekday,Medium
+TXN00491,Nainital Bank Limited,2021-22,3.41,1,00:00-04:00,Small,Weekday,Medium
+TXN00033,DCB Bank Limited,2022-23,14.95,0,08:00-12:00,Medium,Weekend,Low
+TXN00222,Axis Bank Limited,2023-24,3.6,0,12:00-16:00,Small,Weekday,Low
+TXN00449,Karnataka Bank Limited,2022-23,7.391214066003718,1,00:00-04:00,Small,Weekday,High
+TXN00404,Kotak Mahindra Bank Limited,2023-24,5.24,0,08:00-12:00,Small,Weekend,High
+TXN00234,Nainital Bank Limited,2022-23,21.47,0,12:00-16:00,Medium,Weekday,Low
+TXN00476,City Union Bank Limited,2021-22,5.04,0,08:00-12:00,Small,Weekday,Low
+TXN00078,Kotak Mahindra Bank Limited,2021-22,3.929067105081422,1,04:00-08:00,Small,Weekday,Medium
+TXN00456,RBL Bank Limited,2022-23,9.39,1,20:00-00:00,Small,Weekend,High
+TXN00065,Bandhan Bank Limited,2022-23,7.38,0,08:00-12:00,Small,Weekday,Low
+TXN00400,Tamilnad Mercantile Bank Limited,2021-22,10.937917708670792,1,00:00-04:00,Medium,Weekday,High
+TXN00225,IDFC First Bank Limited,2021-22,42.62,1,04:00-08:00,Medium,Weekend,High
+TXN00111,ICICI Bank Limited,2022-23,27.81,0,16:00-20:00,Medium,Weekday,Low
+TXN00378,RBL Bank Limited,2022-23,9.534437519009076,1,04:00-08:00,Small,Weekday,High
+TXN00451,Karur Vysya Bank Limited,2023-24,45.31,0,16:00-20:00,Medium,Weekday,Low
+TXN00413,HDFC Bank Limited,2022-23,79.70120452137849,1,00:00-04:00,Large,Weekday,High
+TXN00053,Karur Vysya Bank Limited,2023-24,18.157677638507003,1,20:00-00:00,Medium,Weekday,High
+TXN00301,Yes Bank Limited,2023-24,21.3,0,16:00-20:00,Medium,Weekday,Low
+TXN00110,Jammu and Kashmir Bank Limited,2021-22,14.297118588086319,1,20:00-00:00,Medium,Weekday,High
+TXN00230,The Dhanalakshmi Bank Limited,2022-23,2.1,0,16:00-20:00,Small,Weekday,Medium
+TXN00168,IDBI Bank Limited,2023-24,6.43,1,00:00-04:00,Small,Weekday,Low
+TXN00083,Karnataka Bank Limited,2021-22,23.74,0,08:00-12:00,Medium,Weekend,Medium
+TXN00004,IndusInd Bank Limited,2022-23,49.59,1,04:00-08:00,Medium,Weekday,High
+TXN00065,Bandhan Bank Limited,2022-23,7.38,0,16:00-20:00,Small,Weekend,Low
+TXN00424,Axis Bank Limited,2021-22,6.66,0,16:00-20:00,Small,Weekday,Low
+TXN00040,CSB Bank Limited,2021-22,12.44,0,08:00-12:00,Medium,Weekend,Low
+TXN00391,Karnataka Bank Limited,2023-24,21.89,1,04:00-08:00,Medium,Weekday,Low
+TXN00147,Jammu and Kashmir Bank Limited,2021-22,7.4,0,12:00-16:00,Small,Weekend,Medium
+TXN00360,Yes Bank Limited,2023-24,3.03,0,12:00-16:00,Small,Weekday,Low
+TXN00380,DCB Bank Limited,2023-24,58.02047234523503,1,04:00-08:00,Large,Weekend,Low
+TXN00309,City Union Bank Limited,2021-22,64.08,1,20:00-00:00,Large,Weekday,High
+TXN00432,The Dhanalakshmi Bank Limited,2023-24,26.34,1,20:00-00:00,Medium,Weekend,High
+TXN00068,Karur Vysya Bank Limited,2022-23,8.095425763464283,1,00:00-04:00,Small,Weekend,High
+TXN00469,Yes Bank Limited,2021-22,13.24,0,08:00-12:00,Medium,Weekend,Medium
+TXN00081,IDBI Bank Limited,2022-23,19.15474029658072,1,20:00-00:00,Medium,Weekday,High
+TXN00317,City Union Bank Limited,2021-22,18.51,1,04:00-08:00,Medium,Weekday,High
+TXN00215,The Dhanalakshmi Bank Limited,2023-24,8.52,1,00:00-04:00,Small,Weekday,Low
+TXN00125,Kotak Mahindra Bank Limited,2023-24,8.400964086532271,1,00:00-04:00,Small,Weekday,Medium
+TXN00283,Federal Bank Limited,2022-23,40.56,1,00:00-04:00,Medium,Weekday,High
+TXN00408,DCB Bank Limited,2022-23,13.837802721148664,1,20:00-00:00,Medium,Weekend,High
+TXN00382,IDBI Bank Limited,2022-23,15.780495392106111,1,00:00-04:00,Medium,Weekday,High
+TXN00209,CSB Bank Limited,2023-24,14.107499855723399,1,00:00-04:00,Medium,Weekend,Medium
+TXN00420,Bandhan Bank Limited,2022-23,4.778373506936018,1,04:00-08:00,Small,Weekend,High
+TXN00072,Karur Vysya Bank Limited,2023-24,3.47,0,08:00-12:00,Small,Weekday,Low
+TXN00466,Karnataka Bank Limited,2021-22,24.11,0,16:00-20:00,Medium,Weekday,Low
+TXN00443,Axis Bank Limited,2021-22,5.516813203547886,1,20:00-00:00,Small,Weekday,High
+TXN00440,DCB Bank Limited,2022-23,14.30142617692829,1,04:00-08:00,Medium,Weekday,High
+TXN00478,CSB Bank Limited,2021-22,37.1,1,20:00-00:00,Medium,Weekend,Low
+TXN00319,Karur Vysya Bank Limited,2021-22,11.95,1,04:00-08:00,Medium,Weekend,High
+TXN00471,IDFC First Bank Limited,2021-22,6.66,0,12:00-16:00,Small,Weekday,Low
+TXN00276,RBL Bank Limited,2022-23,22.38,0,08:00-12:00,Medium,Weekday,Low
+TXN00065,Bandhan Bank Limited,2022-23,7.38,0,16:00-20:00,Small,Weekday,Low
+TXN00290,Kotak Mahindra Bank Limited,2022-23,7.06,1,20:00-00:00,Small,Weekend,High
+TXN00475,RBL Bank Limited,2023-24,5.52,1,20:00-00:00,Small,Weekday,High
+TXN00008,Tamilnad Mercantile Bank Limited,2022-23,11.28,0,08:00-12:00,Medium,Weekday,Low
+TXN00424,Axis Bank Limited,2021-22,6.66,0,16:00-20:00,Small,Weekend,Medium
+TXN00483,Jammu and Kashmir Bank Limited,2023-24,5.397225381457446,1,00:00-04:00,Small,Weekday,Medium
+TXN00359,ICICI Bank Limited,2022-23,30.54,1,20:00-00:00,Medium,Weekday,High
+TXN00305,DCB Bank Limited,2022-23,29.482468189800557,1,20:00-00:00,Medium,Weekday,High
+TXN00437,Axis Bank Limited,2021-22,9.6,1,04:00-08:00,Small,Weekend,High
+TXN00234,Nainital Bank Limited,2022-23,21.47,0,08:00-12:00,Medium,Weekend,Low
+TXN00490,The Dhanalakshmi Bank Limited,2021-22,15.73,1,04:00-08:00,Medium,Weekend,Medium
+TXN00360,Yes Bank Limited,2023-24,3.03,0,16:00-20:00,Small,Weekday,Medium
+TXN00420,Bandhan Bank Limited,2022-23,4.569945352147309,1,00:00-04:00,Small,Weekday,High
+TXN00115,DCB Bank Limited,2023-24,13.946170661536737,1,04:00-08:00,Medium,Weekend,Medium
+TXN00133,DCB Bank Limited,2021-22,41.48557450156246,1,20:00-00:00,Medium,Weekend,High
+TXN00403,DCB Bank Limited,2021-22,19.89,0,12:00-16:00,Medium,Weekend,High
+TXN00468,CSB Bank Limited,2023-24,15.26,1,00:00-04:00,Medium,Weekday,High
+TXN00121,Karur Vysya Bank Limited,2023-24,8.53,0,08:00-12:00,Small,Weekday,Low
+TXN00145,Yes Bank Limited,2023-24,6.731803505270631,1,20:00-00:00,Small,Weekday,High
+TXN00360,Yes Bank Limited,2023-24,3.03,0,08:00-12:00,Small,Weekend,Low
+TXN00395,HDFC Bank Limited,2022-23,24.57440493805803,1,04:00-08:00,Medium,Weekday,Medium
+TXN00312,Yes Bank Limited,2021-22,14.425666244411273,1,04:00-08:00,Medium,Weekday,High
+TXN00234,Nainital Bank Limited,2022-23,21.47,0,12:00-16:00,Medium,Weekday,Low
+TXN00445,ICICI Bank Limited,2021-22,43.62,0,16:00-20:00,Medium,Weekday,Low
+TXN00147,Jammu and Kashmir Bank Limited,2021-22,7.4,0,12:00-16:00,Small,Weekday,Low
+TXN00048,HDFC Bank Limited,2022-23,4.13,0,12:00-16:00,Small,Weekend,Medium
+TXN00213,The Dhanalakshmi Bank Limited,2022-23,19.81,1,04:00-08:00,Medium,Weekend,Medium
+TXN00121,Karur Vysya Bank Limited,2023-24,8.53,0,16:00-20:00,Small,Weekday,High
+TXN00313,Axis Bank Limited,2021-22,7.23,0,12:00-16:00,Small,Weekday,Low
+TXN00199,Federal Bank Limited,2022-23,12.47,1,04:00-08:00,Medium,Weekday,Medium
+TXN00340,Axis Bank Limited,2023-24,11.81,1,20:00-00:00,Medium,Weekday,High
+TXN00046,The Dhanalakshmi Bank Limited,2022-23,3.610796013457779,1,04:00-08:00,Small,Weekday,High
+TXN00116,Kotak Mahindra Bank Limited,2022-23,28.57,0,12:00-16:00,Medium,Weekend,Low
+TXN00482,DCB Bank Limited,2023-24,25.86,0,08:00-12:00,Medium,Weekend,Low
+TXN00147,Jammu and Kashmir Bank Limited,2021-22,7.4,0,08:00-12:00,Small,Weekend,Medium
+TXN00374,Karnataka Bank Limited,2022-23,9.09526358085826,1,04:00-08:00,Small,Weekend,Medium
+TXN00318,ICICI Bank Limited,2023-24,7.7,1,20:00-00:00,Small,Weekday,High
+TXN00022,Jammu and Kashmir Bank Limited,2023-24,10.52,0,12:00-16:00,Medium,Weekday,Low
+TXN00287,Bandhan Bank Limited,2021-22,14.39,0,16:00-20:00,Medium,Weekday,Low
+TXN00234,Nainital Bank Limited,2022-23,21.47,0,08:00-12:00,Medium,Weekday,Medium
+TXN00426,Karnataka Bank Limited,2022-23,15.85,1,20:00-00:00,Medium,Weekday,Low
+TXN00293,Nainital Bank Limited,2022-23,51.32,0,08:00-12:00,Large,Weekday,Low
+TXN00232,Bandhan Bank Limited,2022-23,8.317323300209278,1,00:00-04:00,Small,Weekday,High
+TXN00477,Nainital Bank Limited,2023-24,12.809929141869112,1,04:00-08:00,Medium,Weekday,High
+TXN00439,IndusInd Bank Limited,2022-23,10.067262162569914,1,20:00-00:00,Medium,Weekday,High
+TXN00190,Jammu and Kashmir Bank Limited,2021-22,32.51425318446981,1,00:00-04:00,Medium,Weekday,Low
+TXN00386,Axis Bank Limited,2023-24,10.41,1,04:00-08:00,Medium,Weekday,High
+TXN00292,DCB Bank Limited,2021-22,9.105926092255817,1,20:00-00:00,Small,Weekday,High
+TXN00276,RBL Bank Limited,2022-23,22.38,0,16:00-20:00,Medium,Weekday,Low
+TXN00424,Axis Bank Limited,2021-22,6.66,0,12:00-16:00,Small,Weekday,Low
+TXN00424,Axis Bank Limited,2021-22,6.66,0,12:00-16:00,Small,Weekday,Low
+TXN00018,Federal Bank Limited,2023-24,3.1,1,20:00-00:00,Small,Weekday,Medium
+TXN00235,Jammu and Kashmir Bank Limited,2021-22,15.915789037045423,1,04:00-08:00,Medium,Weekday,High
+TXN00250,ICICI Bank Limited,2022-23,38.52212973408509,1,00:00-04:00,Medium,Weekday,Medium
+TXN00164,Tamilnad Mercantile Bank Limited,2023-24,15.92,0,16:00-20:00,Medium,Weekday,Low
+TXN00040,CSB Bank Limited,2021-22,12.44,0,08:00-12:00,Medium,Weekend,Medium
+TXN00180,RBL Bank Limited,2021-22,25.393292421980387,1,04:00-08:00,Medium,Weekday,Low
+TXN00272,The Dhanalakshmi Bank Limited,2021-22,2.6110058508222442,1,20:00-00:00,Small,Weekend,Medium
+TXN00116,Kotak Mahindra Bank Limited,2022-23,28.57,0,08:00-12:00,Medium,Weekend,Low
+TXN00233,Axis Bank Limited,2021-22,5.38,1,00:00-04:00,Small,Weekday,High
+TXN00149,The Dhanalakshmi Bank Limited,2023-24,7.32,0,16:00-20:00,Small,Weekday,Low
+TXN00482,DCB Bank Limited,2023-24,25.86,0,08:00-12:00,Medium,Weekday,High
+TXN00176,City Union Bank Limited,2021-22,31.52,0,08:00-12:00,Medium,Weekday,Low
+TXN00303,City Union Bank Limited,2022-23,24.93,0,16:00-20:00,Medium,Weekday,Medium
+TXN00257,City Union Bank Limited,2021-22,19.525334163994533,1,00:00-04:00,Medium,Weekday,Low
+TXN00389,Nainital Bank Limited,2023-24,23.729646511843036,1,20:00-00:00,Medium,Weekday,High
+TXN00113,Axis Bank Limited,2023-24,15.08,0,08:00-12:00,Medium,Weekend,Low
+TXN00203,Axis Bank Limited,2023-24,4.1,0,16:00-20:00,Small,Weekday,Low
+TXN00338,Karnataka Bank Limited,2022-23,8.44,0,16:00-20:00,Small,Weekday,Low
+TXN00480,RBL Bank Limited,2021-22,3.3442325404284388,1,20:00-00:00,Small,Weekday,Medium
+TXN00050,ICICI Bank Limited,2021-22,28.3,1,20:00-00:00,Medium,Weekend,High
+TXN00320,South Indian Bank Limited,2021-22,67.61,1,20:00-00:00,Large,Weekend,Medium
+TXN00493,Tamilnad Mercantile Bank Limited,2021-22,11.99,0,08:00-12:00,Medium,Weekend,Low
+TXN00119,Axis Bank Limited,2021-22,76.64,1,04:00-08:00,Large,Weekday,Medium
+TXN00424,Axis Bank Limited,2021-22,6.66,0,12:00-16:00,Small,Weekday,Low
+TXN00083,Karnataka Bank Limited,2021-22,23.74,0,08:00-12:00,Medium,Weekday,Low
+TXN00365,CSB Bank Limited,2023-24,8.38,0,08:00-12:00,Small,Weekday,Low
+TXN00127,Karnataka Bank Limited,2023-24,4.16,1,00:00-04:00,Small,Weekday,High
+TXN00301,Yes Bank Limited,2023-24,21.3,0,12:00-16:00,Medium,Weekday,Low
+TXN00420,Bandhan Bank Limited,2022-23,4.967262388792609,1,20:00-00:00,Small,Weekend,Low
+TXN00176,City Union Bank Limited,2021-22,31.52,0,16:00-20:00,Medium,Weekday,Low
+TXN00468,CSB Bank Limited,2023-24,13.964102399941916,1,04:00-08:00,Medium,Weekday,High
+TXN00155,Karnataka Bank Limited,2022-23,8.40105658631071,1,00:00-04:00,Small,Weekend,High
+TXN00075,Nainital Bank Limited,2022-23,11.166789499868074,1,20:00-00:00,Medium,Weekend,High
+TXN00365,CSB Bank Limited,2023-24,8.38,0,08:00-12:00,Small,Weekday,Low
+TXN00355,Kotak Mahindra Bank Limited,2021-22,18.82,0,12:00-16:00,Medium,Weekday,High
+TXN00307,Karur Vysya Bank Limited,2023-24,35.23316906394216,1,00:00-04:00,Medium,Weekend,Medium
+TXN00469,Yes Bank Limited,2021-22,13.24,0,08:00-12:00,Medium,Weekday,Low
+TXN00082,Kotak Mahindra Bank Limited,2023-24,28.92,1,00:00-04:00,Medium,Weekday,Medium
+TXN00059,Bandhan Bank Limited,2021-22,94.45,0,12:00-16:00,Large,Weekend,High
+TXN00230,The Dhanalakshmi Bank Limited,2022-23,2.1,0,08:00-12:00,Small,Weekday,Low
+TXN00234,Nainital Bank Limited,2022-23,21.47,0,08:00-12:00,Medium,Weekday,Low
+TXN00033,DCB Bank Limited,2022-23,14.95,0,12:00-16:00,Medium,Weekend,Low
+TXN00159,Federal Bank Limited,2023-24,43.21407967922639,1,00:00-04:00,Medium,Weekday,Low
+TXN00469,Yes Bank Limited,2021-22,13.24,0,12:00-16:00,Medium,Weekday,Low
+TXN00413,HDFC Bank Limited,2022-23,86.4299117056962,1,20:00-00:00,Large,Weekday,High
+TXN00184,DCB Bank Limited,2022-23,9.14,0,08:00-12:00,Small,Weekday,Low
+TXN00279,Jammu and Kashmir Bank Limited,2023-24,5.62,0,12:00-16:00,Small,Weekday,Low
+TXN00116,Kotak Mahindra Bank Limited,2022-23,28.57,0,16:00-20:00,Medium,Weekday,Low
+TXN00482,DCB Bank Limited,2023-24,25.86,0,08:00-12:00,Medium,Weekday,Low
+TXN00303,City Union Bank Limited,2022-23,24.93,0,12:00-16:00,Medium,Weekday,Medium
+TXN00493,Tamilnad Mercantile Bank Limited,2021-22,11.99,0,08:00-12:00,Medium,Weekday,Low
+TXN00362,Jammu and Kashmir Bank Limited,2023-24,4.97,1,00:00-04:00,Small,Weekday,High
+TXN00109,City Union Bank Limited,2023-24,35.38788904486372,1,20:00-00:00,Medium,Weekday,Low
+TXN00464,Yes Bank Limited,2022-23,19.13,1,04:00-08:00,Medium,Weekday,High
+TXN00088,Jammu and Kashmir Bank Limited,2021-22,14.38,0,16:00-20:00,Medium,Weekday,Medium
+TXN00059,Bandhan Bank Limited,2021-22,94.45,0,08:00-12:00,Large,Weekday,Low
+TXN00358,Axis Bank Limited,2023-24,1.25,1,20:00-00:00,Small,Weekday,Low
+TXN00262,City Union Bank Limited,2023-24,38.56,1,04:00-08:00,Medium,Weekday,High
+TXN00297,RBL Bank Limited,2022-23,37.32,0,08:00-12:00,Medium,Weekend,High
+TXN00377,Tamilnad Mercantile Bank Limited,2022-23,9.691055471889069,1,00:00-04:00,Small,Weekend,High
+TXN00203,Axis Bank Limited,2023-24,4.1,0,08:00-12:00,Small,Weekday,High
+TXN00088,Jammu and Kashmir Bank Limited,2021-22,14.38,0,16:00-20:00,Medium,Weekday,High
+TXN00230,The Dhanalakshmi Bank Limited,2022-23,2.1,0,12:00-16:00,Small,Weekend,Low
+TXN00175,Bandhan Bank Limited,2023-24,12.02,1,04:00-08:00,Medium,Weekend,Medium
+TXN00116,Kotak Mahindra Bank Limited,2022-23,28.57,0,16:00-20:00,Medium,Weekend,Low
+TXN00072,Karur Vysya Bank Limited,2023-24,3.47,0,08:00-12:00,Small,Weekday,Low
+TXN00228,Nainital Bank Limited,2021-22,54.57022196857805,1,00:00-04:00,Large,Weekend,High
+TXN00171,RBL Bank Limited,2022-23,11.089664914465471,1,04:00-08:00,Medium,Weekday,Medium
+TXN00325,RBL Bank Limited,2022-23,18.512564846092214,1,20:00-00:00,Medium,Weekend,High
+TXN00200,IndusInd Bank Limited,2023-24,30.666242211660133,1,00:00-04:00,Medium,Weekday,High
+TXN00335,Karnataka Bank Limited,2021-22,15.104131419087881,1,00:00-04:00,Medium,Weekend,High
+TXN00134,HDFC Bank Limited,2023-24,5.48,0,08:00-12:00,Small,Weekday,Low
+TXN00002,The Dhanalakshmi Bank Limited,2023-24,19.78,0,12:00-16:00,Medium,Weekend,Low
+TXN00338,Karnataka Bank Limited,2022-23,8.44,0,16:00-20:00,Small,Weekday,High
+TXN00222,Axis Bank Limited,2023-24,3.6,0,12:00-16:00,Small,Weekday,Low
+TXN00059,Bandhan Bank Limited,2021-22,94.45,0,16:00-20:00,Large,Weekend,High
+TXN00333,City Union Bank Limited,2023-24,4.57,1,20:00-00:00,Small,Weekend,High
+TXN00065,Bandhan Bank Limited,2022-23,7.38,0,16:00-20:00,Small,Weekday,Medium
+TXN00313,Axis Bank Limited,2021-22,7.23,0,08:00-12:00,Small,Weekday,High
+TXN00405,RBL Bank Limited,2023-24,6.720740580472535,1,20:00-00:00,Small,Weekday,High
+TXN00359,ICICI Bank Limited,2022-23,27.807538967703138,1,00:00-04:00,Medium,Weekend,Medium
+TXN00121,Karur Vysya Bank Limited,2023-24,8.53,0,12:00-16:00,Small,Weekday,Medium
+TXN00002,The Dhanalakshmi Bank Limited,2023-24,19.78,0,12:00-16:00,Medium,Weekday,Low
+TXN00279,Jammu and Kashmir Bank Limited,2023-24,5.62,0,08:00-12:00,Small,Weekend,High
+TXN00404,Kotak Mahindra Bank Limited,2023-24,5.24,0,12:00-16:00,Small,Weekend,Low
+TXN00365,CSB Bank Limited,2023-24,8.38,0,08:00-12:00,Small,Weekend,High
+TXN00266,Axis Bank Limited,2023-24,3.6309761608671876,1,20:00-00:00,Small,Weekday,Medium
+TXN00216,IDBI Bank Limited,2022-23,13.681034750634014,1,00:00-04:00,Medium,Weekday,High
+TXN00230,The Dhanalakshmi Bank Limited,2022-23,2.1,0,16:00-20:00,Small,Weekday,Medium
+TXN00424,Axis Bank Limited,2021-22,6.66,0,12:00-16:00,Small,Weekday,Low
+TXN00485,Karnataka Bank Limited,2023-24,19.540082244221807,1,00:00-04:00,Medium,Weekday,High
+TXN00199,Federal Bank Limited,2022-23,12.593416362662927,1,00:00-04:00,Medium,Weekend,High
+TXN00330,Nainital Bank Limited,2022-23,20.45,0,12:00-16:00,Medium,Weekday,Low
+TXN00167,Kotak Mahindra Bank Limited,2021-22,10.57,0,16:00-20:00,Medium,Weekday,High
+TXN00114,City Union Bank Limited,2023-24,24.82,0,08:00-12:00,Medium,Weekday,Medium
+TXN00279,Jammu and Kashmir Bank Limited,2023-24,5.62,0,12:00-16:00,Small,Weekday,Low
+TXN00060,Federal Bank Limited,2023-24,11.736906106162735,1,20:00-00:00,Medium,Weekday,High
+TXN00205,Federal Bank Limited,2023-24,20.42,0,08:00-12:00,Medium,Weekend,Low
+TXN00323,IDFC First Bank Limited,2023-24,12.56,1,20:00-00:00,Medium,Weekday,High
+TXN00424,Axis Bank Limited,2021-22,6.66,0,08:00-12:00,Small,Weekday,Low
+TXN00412,Yes Bank Limited,2021-22,16.31,1,20:00-00:00,Medium,Weekday,High
+TXN00147,Jammu and Kashmir Bank Limited,2021-22,7.4,0,12:00-16:00,Small,Weekday,Low
+TXN00273,ICICI Bank Limited,2021-22,8.48,1,00:00-04:00,Small,Weekday,High
+TXN00071,ICICI Bank Limited,2023-24,18.077893752619506,1,04:00-08:00,Medium,Weekday,High
+TXN00466,Karnataka Bank Limited,2021-22,24.11,0,08:00-12:00,Medium,Weekday,Medium
+TXN00264,IDBI Bank Limited,2022-23,51.46,0,12:00-16:00,Large,Weekend,Low
+TXN00243,Nainital Bank Limited,2022-23,3.6,1,04:00-08:00,Small,Weekend,High
+TXN00249,RBL Bank Limited,2023-24,4.48,0,08:00-12:00,Small,Weekend,Medium
+TXN00493,Tamilnad Mercantile Bank Limited,2021-22,11.99,0,16:00-20:00,Medium,Weekend,Low
+TXN00067,CSB Bank Limited,2021-22,21.46,1,04:00-08:00,Medium,Weekend,High
+TXN00152,Axis Bank Limited,2021-22,7.440553375677488,1,20:00-00:00,Small,Weekend,High
+TXN00466,Karnataka Bank Limited,2021-22,24.11,0,12:00-16:00,Medium,Weekday,Medium
+TXN00482,DCB Bank Limited,2023-24,25.86,0,12:00-16:00,Medium,Weekday,Low
+TXN00130,RBL Bank Limited,2021-22,6.59,0,12:00-16:00,Small,Weekday,Medium
+TXN00417,IDFC First Bank Limited,2022-23,29.5,1,04:00-08:00,Medium,Weekday,High
+TXN00056,South Indian Bank Limited,2022-23,22.820052005578823,1,04:00-08:00,Medium,Weekday,High
+TXN00116,Kotak Mahindra Bank Limited,2022-23,28.57,0,16:00-20:00,Medium,Weekday,Low
+TXN00476,City Union Bank Limited,2021-22,5.04,0,16:00-20:00,Small,Weekend,Low
+TXN00167,Kotak Mahindra Bank Limited,2021-22,10.57,0,16:00-20:00,Medium,Weekend,Low
+TXN00230,The Dhanalakshmi Bank Limited,2022-23,2.1,0,16:00-20:00,Small,Weekday,Low
+TXN00445,ICICI Bank Limited,2021-22,43.62,0,08:00-12:00,Medium,Weekend,Low
+TXN00184,DCB Bank Limited,2022-23,9.14,0,08:00-12:00,Small,Weekend,Low
+TXN00445,ICICI Bank Limited,2021-22,43.62,0,08:00-12:00,Medium,Weekend,Medium
+TXN00141,Tamilnad Mercantile Bank Limited,2022-23,13.92,1,04:00-08:00,Medium,Weekday,Medium
+TXN00330,Nainital Bank Limited,2022-23,20.45,0,12:00-16:00,Medium,Weekend,Low
+TXN00489,RBL Bank Limited,2021-22,7.53,0,12:00-16:00,Small,Weekend,Low
+TXN00351,RBL Bank Limited,2021-22,7.939077877565351,1,20:00-00:00,Small,Weekend,Medium
+TXN00358,Axis Bank Limited,2023-24,1.3245797919999918,1,04:00-08:00,Small,Weekday,High
+TXN00094,City Union Bank Limited,2023-24,21.01,1,20:00-00:00,Medium,Weekday,High
+TXN00377,Tamilnad Mercantile Bank Limited,2022-23,9.282193879312333,1,20:00-00:00,Small,Weekday,Low
+TXN00360,Yes Bank Limited,2023-24,3.03,0,12:00-16:00,Small,Weekday,Low
+TXN00436,Axis Bank Limited,2022-23,21.35,1,04:00-08:00,Medium,Weekday,High
+TXN00489,RBL Bank Limited,2021-22,7.53,0,08:00-12:00,Small,Weekday,Low
+TXN00072,Karur Vysya Bank Limited,2023-24,3.47,0,16:00-20:00,Small,Weekday,Medium
+TXN00097,DCB Bank Limited,2023-24,25.81,1,04:00-08:00,Medium,Weekday,High
+TXN00445,ICICI Bank Limited,2021-22,43.62,0,08:00-12:00,Medium,Weekday,High
+TXN00381,Yes Bank Limited,2021-22,16.54,1,04:00-08:00,Medium,Weekday,Medium
+TXN00009,IndusInd Bank Limited,2023-24,7.88,1,00:00-04:00,Small,Weekday,Low
+TXN00351,RBL Bank Limited,2021-22,7.6045422981162165,1,20:00-00:00,Small,Weekend,Medium
+TXN00276,RBL Bank Limited,2022-23,22.38,0,12:00-16:00,Medium,Weekday,Low
+TXN00198,Bandhan Bank Limited,2022-23,9.00363246066853,1,20:00-00:00,Small,Weekday,Medium
+TXN00284,Karnataka Bank Limited,2021-22,23.31133235918048,1,04:00-08:00,Medium,Weekend,High
+TXN00155,Karnataka Bank Limited,2022-23,8.57626713711233,1,00:00-04:00,Small,Weekday,High
+TXN00280,Tamilnad Mercantile Bank Limited,2021-22,11.585738036390273,1,04:00-08:00,Medium,Weekday,Low
+TXN00279,Jammu and Kashmir Bank Limited,2023-24,5.62,0,16:00-20:00,Small,Weekday,High
+TXN00334,South Indian Bank Limited,2022-23,3.78,1,20:00-00:00,Small,Weekend,High
+TXN00397,City Union Bank Limited,2023-24,28.62082031238339,1,00:00-04:00,Medium,Weekday,High
+TXN00088,Jammu and Kashmir Bank Limited,2021-22,14.38,0,16:00-20:00,Medium,Weekend,Low
+TXN00361,Jammu and Kashmir Bank Limited,2021-22,9.12,0,12:00-16:00,Small,Weekday,Low
+TXN00403,DCB Bank Limited,2021-22,19.89,0,12:00-16:00,Medium,Weekend,Low
+TXN00170,RBL Bank Limited,2021-22,6.500798502938526,1,04:00-08:00,Small,Weekday,High
+TXN00008,Tamilnad Mercantile Bank Limited,2022-23,11.28,0,16:00-20:00,Medium,Weekday,Medium
+TXN00167,Kotak Mahindra Bank Limited,2021-22,10.57,0,16:00-20:00,Medium,Weekday,Low
+TXN00176,City Union Bank Limited,2021-22,31.52,0,16:00-20:00,Medium,Weekend,Low
+TXN00404,Kotak Mahindra Bank Limited,2023-24,5.24,0,08:00-12:00,Small,Weekday,Low
+TXN00167,Kotak Mahindra Bank Limited,2021-22,10.57,0,16:00-20:00,Medium,Weekend,Low
+TXN00088,Jammu and Kashmir Bank Limited,2021-22,14.38,0,16:00-20:00,Medium,Weekday,Medium
+TXN00022,Jammu and Kashmir Bank Limited,2023-24,10.52,0,16:00-20:00,Medium,Weekday,Low
+TXN00379,Tamilnad Mercantile Bank Limited,2022-23,9.42,1,04:00-08:00,Small,Weekend,Medium
+TXN00122,HDFC Bank Limited,2023-24,38.374760650454995,1,04:00-08:00,Medium,Weekday,High
+TXN00180,RBL Bank Limited,2021-22,27.697786414519374,1,20:00-00:00,Medium,Weekday,Medium
+TXN00088,Jammu and Kashmir Bank Limited,2021-22,14.38,0,12:00-16:00,Medium,Weekend,Low
+TXN00130,RBL Bank Limited,2021-22,6.59,0,12:00-16:00,Small,Weekend,Low
+TXN00167,Kotak Mahindra Bank Limited,2021-22,10.57,0,08:00-12:00,Medium,Weekday,High
+TXN00208,The Dhanalakshmi Bank Limited,2021-22,14.52,1,04:00-08:00,Medium,Weekday,High
+TXN00116,Kotak Mahindra Bank Limited,2022-23,28.57,0,12:00-16:00,Medium,Weekday,Medium
+TXN00277,Axis Bank Limited,2022-23,24.35251688983978,1,00:00-04:00,Medium,Weekday,Medium
+TXN00099,HDFC Bank Limited,2023-24,13.16,1,00:00-04:00,Medium,Weekday,High
+TXN00482,DCB Bank Limited,2023-24,25.86,0,08:00-12:00,Medium,Weekday,Low
+TXN00338,Karnataka Bank Limited,2022-23,8.44,0,08:00-12:00,Small,Weekday,High
+TXN00341,ICICI Bank Limited,2021-22,10.894214131614033,1,00:00-04:00,Medium,Weekday,High
+TXN00040,CSB Bank Limited,2021-22,12.44,0,12:00-16:00,Medium,Weekday,Medium
+TXN00062,CSB Bank Limited,2023-24,6.94,1,04:00-08:00,Small,Weekday,High
+TXN00424,Axis Bank Limited,2021-22,6.66,0,16:00-20:00,Small,Weekday,Low
+TXN00412,Yes Bank Limited,2021-22,17.239756516179874,1,20:00-00:00,Medium,Weekday,Medium
+TXN00394,Nainital Bank Limited,2023-24,2.51626861634879,1,00:00-04:00,Small,Weekday,High
+TXN00257,City Union Bank Limited,2021-22,20.37,1,04:00-08:00,Medium,Weekday,High
+TXN00136,Kotak Mahindra Bank Limited,2022-23,10.27,1,04:00-08:00,Medium,Weekday,High
+TXN00215,The Dhanalakshmi Bank Limited,2023-24,8.328867919064413,1,00:00-04:00,Small,Weekday,High
+TXN00205,Federal Bank Limited,2023-24,20.42,0,16:00-20:00,Medium,Weekend,Low
+TXN00410,Nainital Bank Limited,2022-23,16.589388481431243,1,20:00-00:00,Medium,Weekday,High
+TXN00204,IDBI Bank Limited,2021-22,22.13,1,04:00-08:00,Medium,Weekend,High
+TXN00358,Axis Bank Limited,2023-24,1.301252023255669,1,20:00-00:00,Small,Weekend,High
+TXN00328,IDBI Bank Limited,2023-24,3.498636499427753,1,00:00-04:00,Small,Weekend,High
+TXN00476,City Union Bank Limited,2021-22,5.04,0,08:00-12:00,Small,Weekday,Medium
+TXN00021,Axis Bank Limited,2021-22,13.97,1,20:00-00:00,Medium,Weekday,Medium
+TXN00487,IDBI Bank Limited,2021-22,13.25,1,04:00-08:00,Medium,Weekday,High
+TXN00114,City Union Bank Limited,2023-24,24.82,0,08:00-12:00,Medium,Weekday,Low
+TXN00332,IDFC First Bank Limited,2022-23,42.91,1,04:00-08:00,Medium,Weekday,Low
+TXN00205,Federal Bank Limited,2023-24,20.42,0,08:00-12:00,Medium,Weekday,Medium
+TXN00494,RBL Bank Limited,2022-23,18.95,1,04:00-08:00,Medium,Weekend,High
+TXN00065,Bandhan Bank Limited,2022-23,7.38,0,12:00-16:00,Small,Weekday,Low
+TXN00114,City Union Bank Limited,2023-24,24.82,0,12:00-16:00,Medium,Weekday,Low
+TXN00133,DCB Bank Limited,2021-22,41.5237542481199,1,04:00-08:00,Medium,Weekday,Medium
+TXN00036,Yes Bank Limited,2023-24,27.43,1,00:00-04:00,Medium,Weekday,High
+TXN00186,Axis Bank Limited,2022-23,26.951467033152387,1,04:00-08:00,Medium,Weekday,High
+TXN00356,IndusInd Bank Limited,2022-23,8.86669235003601,1,20:00-00:00,Small,Weekday,Low
+TXN00044,Yes Bank Limited,2023-24,6.411089433984893,1,00:00-04:00,Small,Weekday,High
+TXN00250,ICICI Bank Limited,2022-23,38.67,1,00:00-04:00,Medium,Weekday,Medium
+TXN00322,Bandhan Bank Limited,2023-24,18.43700928275033,1,00:00-04:00,Medium,Weekday,High
+TXN00378,RBL Bank Limited,2022-23,9.21,1,00:00-04:00,Small,Weekday,High
+TXN00267,CSB Bank Limited,2021-22,13.694227047373024,1,00:00-04:00,Medium,Weekday,Low
+TXN00303,City Union Bank Limited,2022-23,24.93,0,16:00-20:00,Medium,Weekday,Medium
+TXN00426,Karnataka Bank Limited,2022-23,16.726738750125158,1,04:00-08:00,Medium,Weekend,High
+TXN00365,CSB Bank Limited,2023-24,8.38,0,16:00-20:00,Small,Weekday,Low
+TXN00059,Bandhan Bank Limited,2021-22,94.45,0,12:00-16:00,Large,Weekday,Medium
+TXN00393,Axis Bank Limited,2022-23,12.97,1,20:00-00:00,Medium,Weekday,Medium
+TXN00332,IDFC First Bank Limited,2022-23,43.30796676650948,1,20:00-00:00,Medium,Weekend,High
+TXN00174,HDFC Bank Limited,2022-23,14.57,1,20:00-00:00,Medium,Weekday,High
+TXN00065,Bandhan Bank Limited,2022-23,7.38,0,12:00-16:00,Small,Weekday,High
+TXN00414,CSB Bank Limited,2022-23,11.63,1,00:00-04:00,Medium,Weekday,Medium
+TXN00096,Axis Bank Limited,2021-22,12.48,1,04:00-08:00,Medium,Weekend,High
+TXN00055,CSB Bank Limited,2023-24,6.13,1,00:00-04:00,Small,Weekday,High
+TXN00067,CSB Bank Limited,2021-22,19.997705669700135,1,00:00-04:00,Medium,Weekend,High
+TXN00183,Bandhan Bank Limited,2021-22,19.44,1,04:00-08:00,Medium,Weekday,Medium
+TXN00132,CSB Bank Limited,2023-24,13.225529052310485,1,20:00-00:00,Medium,Weekend,Medium
+TXN00471,IDFC First Bank Limited,2021-22,6.66,0,08:00-12:00,Small,Weekday,Medium
+TXN00355,Kotak Mahindra Bank Limited,2021-22,18.82,0,08:00-12:00,Medium,Weekday,Medium
+TXN00147,Jammu and Kashmir Bank Limited,2021-22,7.4,0,12:00-16:00,Small,Weekend,High
+TXN00130,RBL Bank Limited,2021-22,6.59,0,16:00-20:00,Small,Weekend,Medium
+TXN00338,Karnataka Bank Limited,2022-23,8.44,0,16:00-20:00,Small,Weekend,High
+TXN00496,Jammu and Kashmir Bank Limited,2023-24,35.274923264497744,1,20:00-00:00,Medium,Weekday,High
+TXN00287,Bandhan Bank Limited,2021-22,14.39,0,08:00-12:00,Medium,Weekday,Low
+TXN00210,Tamilnad Mercantile Bank Limited,2023-24,43.03,1,00:00-04:00,Medium,Weekday,High
+TXN00264,IDBI Bank Limited,2022-23,51.46,0,12:00-16:00,Large,Weekday,Medium
+TXN00249,RBL Bank Limited,2023-24,4.48,0,12:00-16:00,Small,Weekday,Medium
+TXN00139,Karnataka Bank Limited,2022-23,4.4753325104080774,1,04:00-08:00,Small,Weekday,Medium
+TXN00293,Nainital Bank Limited,2022-23,51.32,0,08:00-12:00,Large,Weekday,Low
+TXN00135,Karnataka Bank Limited,2023-24,26.77,0,12:00-16:00,Medium,Weekend,High
+TXN00247,The Dhanalakshmi Bank Limited,2021-22,10.076564257940964,1,20:00-00:00,Medium,Weekend,High
+TXN00398,Jammu and Kashmir Bank Limited,2023-24,1.2,1,00:00-04:00,Small,Weekday,Low
+TXN00065,Bandhan Bank Limited,2022-23,7.38,0,16:00-20:00,Small,Weekday,Low
+TXN00205,Federal Bank Limited,2023-24,20.42,0,08:00-12:00,Medium,Weekend,Low
+TXN00008,Tamilnad Mercantile Bank Limited,2022-23,11.28,0,12:00-16:00,Medium,Weekend,Medium
+TXN00120,DCB Bank Limited,2023-24,9.11,0,16:00-20:00,Small,Weekday,High
+TXN00116,Kotak Mahindra Bank Limited,2022-23,28.57,0,08:00-12:00,Medium,Weekday,Low
+TXN00058,CSB Bank Limited,2023-24,13.59345102120812,1,00:00-04:00,Medium,Weekday,Low
+TXN00104,Jammu and Kashmir Bank Limited,2023-24,8.31,0,12:00-16:00,Small,Weekday,Medium
+TXN00282,Federal Bank Limited,2022-23,4.82,1,20:00-00:00,Small,Weekday,High
+TXN00002,The Dhanalakshmi Bank Limited,2023-24,19.78,0,12:00-16:00,Medium,Weekday,Low
+TXN00167,Kotak Mahindra Bank Limited,2021-22,10.57,0,16:00-20:00,Medium,Weekday,Medium
+TXN00476,City Union Bank Limited,2021-22,5.04,0,16:00-20:00,Small,Weekend,Medium
+TXN00363,DCB Bank Limited,2021-22,4.32,1,20:00-00:00,Small,Weekday,High
+TXN00122,HDFC Bank Limited,2023-24,37.73977932571086,1,20:00-00:00,Medium,Weekend,High
+TXN00293,Nainital Bank Limited,2022-23,51.32,0,08:00-12:00,Large,Weekday,High
+TXN00147,Jammu and Kashmir Bank Limited,2021-22,7.4,0,12:00-16:00,Small,Weekday,Low
+TXN00357,DCB Bank Limited,2023-24,22.59,1,00:00-04:00,Medium,Weekday,High
+TXN00496,Jammu and Kashmir Bank Limited,2023-24,36.28,1,04:00-08:00,Medium,Weekday,High
+TXN00133,DCB Bank Limited,2021-22,38.04648342343283,1,20:00-00:00,Medium,Weekday,Medium
+TXN00425,DCB Bank Limited,2022-23,11.57,1,00:00-04:00,Medium,Weekday,High
+TXN00311,The Dhanalakshmi Bank Limited,2023-24,44.54365044342205,1,20:00-00:00,Medium,Weekday,High
+TXN00170,RBL Bank Limited,2021-22,7.129051121339709,1,20:00-00:00,Small,Weekend,Medium
+TXN00212,Tamilnad Mercantile Bank Limited,2021-22,15.23,1,04:00-08:00,Medium,Weekday,High
+TXN00114,City Union Bank Limited,2023-24,24.82,0,08:00-12:00,Medium,Weekend,Low
+TXN00051,Kotak Mahindra Bank Limited,2021-22,5.1926380309030336,1,20:00-00:00,Small,Weekend,Medium
+TXN00368,The Dhanalakshmi Bank Limited,2023-24,17.752018440584678,1,20:00-00:00,Medium,Weekday,High
+TXN00008,Tamilnad Mercantile Bank Limited,2022-23,11.28,0,08:00-12:00,Medium,Weekday,Low
+TXN00324,Bandhan Bank Limited,2022-23,14.568061472905544,1,20:00-00:00,Medium,Weekend,High
+TXN00403,DCB Bank Limited,2021-22,19.89,0,12:00-16:00,Medium,Weekday,Low
+TXN00134,HDFC Bank Limited,2023-24,5.48,0,12:00-16:00,Small,Weekend,Low
+TXN00127,Karnataka Bank Limited,2023-24,3.7639441384335734,1,20:00-00:00,Small,Weekday,High
+TXN00493,Tamilnad Mercantile Bank Limited,2021-22,11.99,0,16:00-20:00,Medium,Weekday,Low
+TXN00344,Karur Vysya Bank Limited,2022-23,3.45,1,04:00-08:00,Small,Weekday,High
+TXN00101,HDFC Bank Limited,2023-24,8.052781898254352,1,00:00-04:00,Small,Weekday,High
+TXN00189,Yes Bank Limited,2021-22,27.882067727998695,1,04:00-08:00,Medium,Weekday,Low
+TXN00461,IDBI Bank Limited,2022-23,27.61,0,08:00-12:00,Medium,Weekend,Low
+TXN00121,Karur Vysya Bank Limited,2023-24,8.53,0,08:00-12:00,Small,Weekday,Medium
+TXN00433,Jammu and Kashmir Bank Limited,2021-22,31.55,1,04:00-08:00,Medium,Weekday,High
+TXN00037,IDBI Bank Limited,2023-24,2.9138636224310344,1,20:00-00:00,Small,Weekday,High
+TXN00176,City Union Bank Limited,2021-22,31.52,0,08:00-12:00,Medium,Weekend,Low
+TXN00125,Kotak Mahindra Bank Limited,2023-24,8.7,1,04:00-08:00,Small,Weekday,High
+TXN00151,HDFC Bank Limited,2023-24,37.96,1,00:00-04:00,Medium,Weekday,High
+TXN00424,Axis Bank Limited,2021-22,6.66,0,16:00-20:00,Small,Weekday,Medium
+TXN00349,Bandhan Bank Limited,2023-24,16.97541611611883,1,04:00-08:00,Medium,Weekday,High
+TXN00409,Jammu and Kashmir Bank Limited,2021-22,24.44,1,00:00-04:00,Medium,Weekend,Medium
+TXN00040,CSB Bank Limited,2021-22,12.44,0,08:00-12:00,Medium,Weekday,Medium
+TXN00150,IndusInd Bank Limited,2023-24,33.35420562037376,1,04:00-08:00,Medium,Weekend,High
+TXN00261,Bandhan Bank Limited,2021-22,12.396221773173,1,00:00-04:00,Medium,Weekend,Medium
+TXN00404,Kotak Mahindra Bank Limited,2023-24,5.24,0,16:00-20:00,Small,Weekday,Medium
+TXN00244,City Union Bank Limited,2023-24,7.0,1,04:00-08:00,Small,Weekday,Medium
+TXN00130,RBL Bank Limited,2021-22,6.59,0,08:00-12:00,Small,Weekday,Medium
+TXN00166,Jammu and Kashmir Bank Limited,2023-24,60.83,1,00:00-04:00,Large,Weekend,Low
+TXN00297,RBL Bank Limited,2022-23,37.32,0,08:00-12:00,Medium,Weekday,Low
+TXN00489,RBL Bank Limited,2021-22,7.53,0,08:00-12:00,Small,Weekday,Low
+TXN00104,Jammu and Kashmir Bank Limited,2023-24,8.31,0,08:00-12:00,Small,Weekend,Medium
+TXN00116,Kotak Mahindra Bank Limited,2022-23,28.57,0,16:00-20:00,Medium,Weekday,Medium
+TXN00287,Bandhan Bank Limited,2021-22,14.39,0,12:00-16:00,Medium,Weekday,Low
+TXN00264,IDBI Bank Limited,2022-23,51.46,0,12:00-16:00,Large,Weekday,Low
+TXN00176,City Union Bank Limited,2021-22,31.52,0,08:00-12:00,Medium,Weekday,Low
+TXN00400,Tamilnad Mercantile Bank Limited,2021-22,10.410954066872836,1,20:00-00:00,Medium,Weekday,Medium
+TXN00230,The Dhanalakshmi Bank Limited,2022-23,2.1,0,08:00-12:00,Small,Weekday,Medium
+TXN00457,ICICI Bank Limited,2021-22,1.5801807859693422,1,00:00-04:00,Small,Weekday,High
+TXN00325,RBL Bank Limited,2022-23,20.11917214704448,1,00:00-04:00,Medium,Weekend,Medium
+TXN00013,ICICI Bank Limited,2021-22,13.35,1,04:00-08:00,Medium,Weekday,Medium
+TXN00048,HDFC Bank Limited,2022-23,4.13,0,08:00-12:00,Small,Weekday,Low
+TXN00147,Jammu and Kashmir Bank Limited,2021-22,7.4,0,12:00-16:00,Small,Weekday,Medium
+TXN00328,IDBI Bank Limited,2023-24,3.21,1,04:00-08:00,Small,Weekday,High
+TXN00328,IDBI Bank Limited,2023-24,3.0468514030758564,1,04:00-08:00,Small,Weekday,Medium
+TXN00135,Karnataka Bank Limited,2023-24,26.77,0,08:00-12:00,Medium,Weekday,High
+TXN00339,The Dhanalakshmi Bank Limited,2023-24,28.87,1,20:00-00:00,Medium,Weekend,Medium
+TXN00351,RBL Bank Limited,2021-22,7.784975276562637,1,04:00-08:00,Small,Weekday,Medium
+TXN00127,Karnataka Bank Limited,2023-24,4.328976461268875,1,04:00-08:00,Small,Weekend,High
+TXN00142,Bandhan Bank Limited,2023-24,17.309088558795377,1,00:00-04:00,Medium,Weekday,High
+TXN00334,South Indian Bank Limited,2022-23,3.7019888292037377,1,00:00-04:00,Small,Weekday,High
+TXN00154,The Dhanalakshmi Bank Limited,2021-22,17.76,1,04:00-08:00,Medium,Weekday,Medium
+TXN00121,Karur Vysya Bank Limited,2023-24,8.53,0,12:00-16:00,Small,Weekday,Medium
+TXN00375,South Indian Bank Limited,2021-22,40.47,1,20:00-00:00,Medium,Weekend,Medium
+TXN00355,Kotak Mahindra Bank Limited,2021-22,18.82,0,16:00-20:00,Medium,Weekend,Low
+TXN00138,CSB Bank Limited,2023-24,19.02427441079737,1,04:00-08:00,Medium,Weekday,High
+TXN00150,IndusInd Bank Limited,2023-24,33.967253625214376,1,00:00-04:00,Medium,Weekend,High
+TXN00234,Nainital Bank Limited,2022-23,21.47,0,08:00-12:00,Medium,Weekday,High
+TXN00151,HDFC Bank Limited,2023-24,35.85941601834735,1,00:00-04:00,Medium,Weekday,Low
+TXN00068,Karur Vysya Bank Limited,2022-23,8.43441225184774,1,04:00-08:00,Small,Weekend,High
+TXN00458,IDFC First Bank Limited,2021-22,78.38110588069048,1,20:00-00:00,Large,Weekday,Medium
+TXN00251,CSB Bank Limited,2022-23,11.41,1,20:00-00:00,Medium,Weekday,High
+TXN00365,CSB Bank Limited,2023-24,8.38,0,12:00-16:00,Small,Weekend,Low
+TXN00424,Axis Bank Limited,2021-22,6.66,0,16:00-20:00,Small,Weekday,Medium
+TXN00187,Tamilnad Mercantile Bank Limited,2023-24,23.49,1,00:00-04:00,Medium,Weekday,Medium
+TXN00234,Nainital Bank Limited,2022-23,21.47,0,12:00-16:00,Medium,Weekend,Medium
+TXN00274,HDFC Bank Limited,2023-24,1.5834981100866936,1,20:00-00:00,Small,Weekday,Medium
+TXN00115,DCB Bank Limited,2023-24,13.70126281471099,1,20:00-00:00,Medium,Weekday,High
+TXN00220,South Indian Bank Limited,2021-22,6.784483544147324,1,04:00-08:00,Small,Weekend,High
+TXN00253,ICICI Bank Limited,2023-24,17.42215504564609,1,20:00-00:00,Medium,Weekday,Medium
+TXN00114,City Union Bank Limited,2023-24,24.82,0,08:00-12:00,Medium,Weekday,Medium
+TXN00489,RBL Bank Limited,2021-22,7.53,0,12:00-16:00,Small,Weekday,Medium
+TXN00071,ICICI Bank Limited,2023-24,20.78146307207844,1,20:00-00:00,Medium,Weekday,High
+TXN00228,Nainital Bank Limited,2021-22,54.87,1,00:00-04:00,Large,Weekday,High
+TXN00113,Axis Bank Limited,2023-24,15.08,0,16:00-20:00,Medium,Weekend,Low
+TXN00123,IDBI Bank Limited,2023-24,42.986167028293934,1,00:00-04:00,Medium,Weekend,High
+TXN00472,DCB Bank Limited,2023-24,9.73,1,04:00-08:00,Small,Weekday,Medium
+TXN00110,Jammu and Kashmir Bank Limited,2021-22,14.26,1,20:00-00:00,Medium,Weekday,High
+TXN00403,DCB Bank Limited,2021-22,19.89,0,12:00-16:00,Medium,Weekday,Low
+TXN00088,Jammu and Kashmir Bank Limited,2021-22,14.38,0,08:00-12:00,Medium,Weekday,Low
+TXN00185,Axis Bank Limited,2023-24,19.54,1,20:00-00:00,Medium,Weekday,Medium
+TXN00483,Jammu and Kashmir Bank Limited,2023-24,5.55,1,00:00-04:00,Small,Weekend,High
+TXN00113,Axis Bank Limited,2023-24,15.08,0,08:00-12:00,Medium,Weekday,Low
+TXN00282,Federal Bank Limited,2022-23,4.851111695167072,1,20:00-00:00,Small,Weekday,High
+TXN00451,Karur Vysya Bank Limited,2023-24,45.31,0,12:00-16:00,Medium,Weekday,Low
+TXN00118,City Union Bank Limited,2021-22,38.83856962924786,1,00:00-04:00,Medium,Weekday,Medium
+TXN00471,IDFC First Bank Limited,2021-22,6.66,0,08:00-12:00,Small,Weekday,Low
+TXN00164,Tamilnad Mercantile Bank Limited,2023-24,15.92,0,12:00-16:00,Medium,Weekday,Low
+TXN00476,City Union Bank Limited,2021-22,5.04,0,08:00-12:00,Small,Weekday,Low
+TXN00428,Nainital Bank Limited,2022-23,15.89423793034102,1,00:00-04:00,Medium,Weekday,High
+TXN00093,ICICI Bank Limited,2022-23,12.020027994698893,1,20:00-00:00,Medium,Weekday,Medium
+TXN00209,CSB Bank Limited,2023-24,14.87,1,00:00-04:00,Medium,Weekday,High
+TXN00447,IndusInd Bank Limited,2021-22,5.51,1,20:00-00:00,Small,Weekday,High
+TXN00039,South Indian Bank Limited,2022-23,7.509800727485017,1,00:00-04:00,Small,Weekday,High
+TXN00164,Tamilnad Mercantile Bank Limited,2023-24,15.92,0,08:00-12:00,Medium,Weekday,Low
+TXN00167,Kotak Mahindra Bank Limited,2021-22,10.57,0,08:00-12:00,Medium,Weekday,Low
+TXN00130,RBL Bank Limited,2021-22,6.59,0,08:00-12:00,Small,Weekend,Low
+TXN00008,Tamilnad Mercantile Bank Limited,2022-23,11.28,0,08:00-12:00,Medium,Weekday,Low
+TXN00476,City Union Bank Limited,2021-22,5.04,0,12:00-16:00,Small,Weekday,Low
+TXN00173,Jammu and Kashmir Bank Limited,2022-23,7.780377486010451,1,20:00-00:00,Small,Weekday,Medium
+TXN00104,Jammu and Kashmir Bank Limited,2023-24,8.31,0,08:00-12:00,Small,Weekday,Medium
+TXN00255,City Union Bank Limited,2021-22,18.297561404146187,1,20:00-00:00,Medium,Weekday,High
+TXN00471,IDFC First Bank Limited,2021-22,6.66,0,12:00-16:00,Small,Weekday,High
+TXN00342,Karur Vysya Bank Limited,2023-24,22.795289340520682,1,20:00-00:00,Medium,Weekday,High
+TXN00169,The Dhanalakshmi Bank Limited,2022-23,4.04,1,00:00-04:00,Small,Weekday,High
+TXN00297,RBL Bank Limited,2022-23,37.32,0,12:00-16:00,Medium,Weekday,Medium
+TXN00451,Karur Vysya Bank Limited,2023-24,45.31,0,12:00-16:00,Medium,Weekend,Low
+TXN00178,DCB Bank Limited,2021-22,7.612540778607415,1,20:00-00:00,Small,Weekday,High
+TXN00485,Karnataka Bank Limited,2023-24,18.92,1,04:00-08:00,Medium,Weekend,High
+TXN00440,DCB Bank Limited,2022-23,13.887137167608415,1,00:00-04:00,Medium,Weekend,High
+TXN00427,CSB Bank Limited,2023-24,15.75,0,08:00-12:00,Medium,Weekday,High
+TXN00206,Nainital Bank Limited,2023-24,62.48287736329596,1,00:00-04:00,Large,Weekday,High
+TXN00476,City Union Bank Limited,2021-22,5.04,0,16:00-20:00,Small,Weekend,High
+TXN00217,Axis Bank Limited,2022-23,28.70271893701129,1,00:00-04:00,Medium,Weekday,Medium
+TXN00342,Karur Vysya Bank Limited,2023-24,24.7,1,20:00-00:00,Medium,Weekday,High
+TXN00006,Yes Bank Limited,2022-23,50.34417699008779,1,20:00-00:00,Large,Weekday,High
+TXN00176,City Union Bank Limited,2021-22,31.52,0,12:00-16:00,Medium,Weekday,Low
+TXN00338,Karnataka Bank Limited,2022-23,8.44,0,08:00-12:00,Small,Weekday,Medium
+TXN00101,HDFC Bank Limited,2023-24,8.61,1,04:00-08:00,Small,Weekday,High
+TXN00047,Kotak Mahindra Bank Limited,2021-22,5.82,1,00:00-04:00,Small,Weekend,Medium
+TXN00445,ICICI Bank Limited,2021-22,43.62,0,08:00-12:00,Medium,Weekday,Medium
+TXN00111,ICICI Bank Limited,2022-23,27.81,0,12:00-16:00,Medium,Weekend,Low
+TXN00156,IDBI Bank Limited,2022-23,20.21,1,04:00-08:00,Medium,Weekday,Low
+TXN00113,Axis Bank Limited,2023-24,15.08,0,08:00-12:00,Medium,Weekend,Medium
+TXN00121,Karur Vysya Bank Limited,2023-24,8.53,0,16:00-20:00,Small,Weekday,Low
+TXN00313,Axis Bank Limited,2021-22,7.23,0,12:00-16:00,Small,Weekday,Low
+TXN00403,DCB Bank Limited,2021-22,19.89,0,08:00-12:00,Medium,Weekday,Medium
+TXN00365,CSB Bank Limited,2023-24,8.38,0,08:00-12:00,Small,Weekday,Low
+TXN00113,Axis Bank Limited,2023-24,15.08,0,16:00-20:00,Medium,Weekend,Medium
+TXN00193,IndusInd Bank Limited,2021-22,10.66,1,20:00-00:00,Medium,Weekend,Low
+TXN00487,IDBI Bank Limited,2021-22,12.19162521250873,1,04:00-08:00,Medium,Weekday,High
+TXN00337,CSB Bank Limited,2022-23,46.86,1,04:00-08:00,Medium,Weekday,Low
+TXN00279,Jammu and Kashmir Bank Limited,2023-24,5.62,0,08:00-12:00,Small,Weekday,Low
+TXN00205,Federal Bank Limited,2023-24,20.42,0,12:00-16:00,Medium,Weekday,Medium
+TXN00205,Federal Bank Limited,2023-24,20.42,0,08:00-12:00,Medium,Weekend,Medium
+TXN00445,ICICI Bank Limited,2021-22,43.62,0,08:00-12:00,Medium,Weekday,Low
+TXN00033,DCB Bank Limited,2022-23,14.95,0,08:00-12:00,Medium,Weekday,Medium
+TXN00419,CSB Bank Limited,2023-24,19.467331610841747,1,00:00-04:00,Medium,Weekend,Low
+TXN00211,City Union Bank Limited,2021-22,10.217052229866177,1,20:00-00:00,Medium,Weekday,Medium
+TXN00400,Tamilnad Mercantile Bank Limited,2021-22,10.9,1,04:00-08:00,Medium,Weekday,High
+TXN00469,Yes Bank Limited,2021-22,13.24,0,12:00-16:00,Medium,Weekend,Medium
+TXN00070,Kotak Mahindra Bank Limited,2022-23,27.414382178248836,1,04:00-08:00,Medium,Weekday,Medium
+TXN00061,IDFC First Bank Limited,2021-22,28.62813581731015,1,00:00-04:00,Medium,Weekday,High
+TXN00285,Tamilnad Mercantile Bank Limited,2021-22,9.459299139222258,1,04:00-08:00,Small,Weekend,High
+TXN00083,Karnataka Bank Limited,2021-22,23.74,0,12:00-16:00,Medium,Weekend,High
+TXN00104,Jammu and Kashmir Bank Limited,2023-24,8.31,0,16:00-20:00,Small,Weekday,Low
+TXN00203,Axis Bank Limited,2023-24,4.1,0,16:00-20:00,Small,Weekday,Low
+TXN00403,DCB Bank Limited,2021-22,19.89,0,16:00-20:00,Medium,Weekday,Low
+TXN00002,The Dhanalakshmi Bank Limited,2023-24,19.78,0,08:00-12:00,Medium,Weekend,High
+TXN00161,IDBI Bank Limited,2022-23,7.46,1,20:00-00:00,Small,Weekend,Medium
+TXN00441,Jammu and Kashmir Bank Limited,2021-22,9.728465045276007,1,00:00-04:00,Small,Weekday,High
+TXN00431,RBL Bank Limited,2021-22,10.02,1,20:00-00:00,Medium,Weekend,Medium
+TXN00167,Kotak Mahindra Bank Limited,2021-22,10.57,0,08:00-12:00,Medium,Weekday,Low
+TXN00385,Axis Bank Limited,2021-22,9.9,1,00:00-04:00,Small,Weekday,High
+TXN00404,Kotak Mahindra Bank Limited,2023-24,5.24,0,16:00-20:00,Small,Weekday,High
+TXN00033,DCB Bank Limited,2022-23,14.95,0,08:00-12:00,Medium,Weekday,Medium
+TXN00314,City Union Bank Limited,2023-24,8.27,0,12:00-16:00,Small,Weekday,Low
+TXN00329,IndusInd Bank Limited,2022-23,17.051081075313004,1,00:00-04:00,Medium,Weekday,Low
+TXN00264,IDBI Bank Limited,2022-23,51.46,0,08:00-12:00,Large,Weekday,Medium
+TXN00022,Jammu and Kashmir Bank Limited,2023-24,10.52,0,12:00-16:00,Medium,Weekday,Low
+TXN00167,Kotak Mahindra Bank Limited,2021-22,10.57,0,12:00-16:00,Medium,Weekend,Low
+TXN00276,RBL Bank Limited,2022-23,22.38,0,16:00-20:00,Medium,Weekday,Low
+TXN00134,HDFC Bank Limited,2023-24,5.48,0,08:00-12:00,Small,Weekday,Low
+TXN00066,IDFC First Bank Limited,2023-24,47.64870615133531,1,04:00-08:00,Medium,Weekend,Medium
+TXN00330,Nainital Bank Limited,2022-23,20.45,0,16:00-20:00,Medium,Weekend,High
+TXN00184,DCB Bank Limited,2022-23,9.14,0,12:00-16:00,Small,Weekend,Low
+TXN00380,DCB Bank Limited,2023-24,64.16,1,04:00-08:00,Large,Weekday,Low
+TXN00313,Axis Bank Limited,2021-22,7.23,0,16:00-20:00,Small,Weekday,Medium
+TXN00370,City Union Bank Limited,2023-24,4.36,1,20:00-00:00,Small,Weekend,Medium
+TXN00022,Jammu and Kashmir Bank Limited,2023-24,10.52,0,08:00-12:00,Medium,Weekday,Low
+TXN00121,Karur Vysya Bank Limited,2023-24,8.53,0,08:00-12:00,Small,Weekend,Medium
+TXN00116,Kotak Mahindra Bank Limited,2022-23,28.57,0,16:00-20:00,Medium,Weekday,Low
+TXN00196,DCB Bank Limited,2022-23,6.34,1,20:00-00:00,Small,Weekday,Medium
+TXN00015,Yes Bank Limited,2021-22,9.11,1,20:00-00:00,Small,Weekday,High
+TXN00234,Nainital Bank Limited,2022-23,21.47,0,12:00-16:00,Medium,Weekend,Low
+TXN00200,IndusInd Bank Limited,2023-24,33.88,1,00:00-04:00,Medium,Weekend,High
+TXN00260,South Indian Bank Limited,2021-22,19.811924809527817,1,00:00-04:00,Medium,Weekday,Medium
+TXN00355,Kotak Mahindra Bank Limited,2021-22,18.82,0,08:00-12:00,Medium,Weekday,High
+TXN00304,IDBI Bank Limited,2022-23,20.25,1,20:00-00:00,Medium,Weekday,Low
+TXN00149,The Dhanalakshmi Bank Limited,2023-24,7.32,0,12:00-16:00,Small,Weekday,Low
+TXN00040,CSB Bank Limited,2021-22,12.44,0,12:00-16:00,Medium,Weekday,Medium
+TXN00393,Axis Bank Limited,2022-23,13.19383190739872,1,04:00-08:00,Medium,Weekday,High
+TXN00133,DCB Bank Limited,2021-22,41.402020793509934,1,04:00-08:00,Medium,Weekday,High
+TXN00300,Karur Vysya Bank Limited,2023-24,7.26,1,20:00-00:00,Small,Weekend,Medium
+TXN00223,IndusInd Bank Limited,2022-23,7.95251753248982,1,20:00-00:00,Small,Weekend,Medium
+TXN00441,Jammu and Kashmir Bank Limited,2021-22,10.663260325068688,1,04:00-08:00,Medium,Weekend,High
+TXN00338,Karnataka Bank Limited,2022-23,8.44,0,08:00-12:00,Small,Weekend,Medium
+TXN00163,Axis Bank Limited,2022-23,15.31,1,20:00-00:00,Medium,Weekend,Medium
+TXN00168,IDBI Bank Limited,2023-24,6.4886447007324906,1,20:00-00:00,Small,Weekend,High
+TXN00147,Jammu and Kashmir Bank Limited,2021-22,7.4,0,16:00-20:00,Small,Weekday,Low
+TXN00153,Axis Bank Limited,2021-22,6.098739920049041,1,00:00-04:00,Small,Weekend,High
+TXN00371,ICICI Bank Limited,2023-24,27.03,1,00:00-04:00,Medium,Weekday,Low
+TXN00048,HDFC Bank Limited,2022-23,4.13,0,16:00-20:00,Small,Weekday,Low
+TXN00040,CSB Bank Limited,2021-22,12.44,0,16:00-20:00,Medium,Weekend,High
+TXN00130,RBL Bank Limited,2021-22,6.59,0,08:00-12:00,Small,Weekday,Low
+TXN00434,South Indian Bank Limited,2023-24,4.677534341208389,1,04:00-08:00,Small,Weekday,Medium
+TXN00165,IDFC First Bank Limited,2023-24,20.63,1,20:00-00:00,Medium,Weekday,Medium
+TXN00113,Axis Bank Limited,2023-24,15.08,0,08:00-12:00,Medium,Weekday,Low
+TXN00389,Nainital Bank Limited,2023-24,21.032648451752383,1,04:00-08:00,Medium,Weekend,Medium
+TXN00260,South Indian Bank Limited,2021-22,21.48,1,04:00-08:00,Medium,Weekend,Medium
+TXN00479,South Indian Bank Limited,2021-22,24.32741665104091,1,04:00-08:00,Medium,Weekday,High
+TXN00077,South Indian Bank Limited,2021-22,14.695784007922942,1,04:00-08:00,Medium,Weekday,High
+TXN00022,Jammu and Kashmir Bank Limited,2023-24,10.52,0,08:00-12:00,Medium,Weekday,Low
+TXN00404,Kotak Mahindra Bank Limited,2023-24,5.24,0,16:00-20:00,Small,Weekend,Low
+TXN00470,CSB Bank Limited,2021-22,11.59,1,04:00-08:00,Medium,Weekday,High
+TXN00377,Tamilnad Mercantile Bank Limited,2022-23,9.22,1,00:00-04:00,Small,Weekday,High
+TXN00111,ICICI Bank Limited,2022-23,27.81,0,12:00-16:00,Medium,Weekday,Low
+TXN00347,Kotak Mahindra Bank Limited,2023-24,7.39,1,00:00-04:00,Small,Weekend,High
+TXN00461,IDBI Bank Limited,2022-23,27.61,0,12:00-16:00,Medium,Weekday,Low
+TXN00008,Tamilnad Mercantile Bank Limited,2022-23,11.28,0,08:00-12:00,Medium,Weekday,Low
+TXN00029,Tamilnad Mercantile Bank Limited,2023-24,16.89,1,20:00-00:00,Medium,Weekday,High
+TXN00249,RBL Bank Limited,2023-24,4.48,0,12:00-16:00,Small,Weekend,Low
+TXN00291,Axis Bank Limited,2022-23,5.445848348584553,1,20:00-00:00,Small,Weekday,Medium
+TXN00205,Federal Bank Limited,2023-24,20.42,0,12:00-16:00,Medium,Weekday,Low
+TXN00226,City Union Bank Limited,2022-23,11.56,1,20:00-00:00,Medium,Weekend,High
+TXN00219,HDFC Bank Limited,2021-22,12.806612789218462,1,04:00-08:00,Medium,Weekday,High
+TXN00340,Axis Bank Limited,2023-24,11.70362381267594,1,20:00-00:00,Medium,Weekday,High
+TXN00105,Bandhan Bank Limited,2021-22,33.77560546620464,1,00:00-04:00,Medium,Weekday,High
+TXN00294,Tamilnad Mercantile Bank Limited,2021-22,19.848793753620512,1,00:00-04:00,Medium,Weekday,Medium
+TXN00093,ICICI Bank Limited,2022-23,12.785592971899261,1,00:00-04:00,Medium,Weekday,High
+TXN00465,South Indian Bank Limited,2021-22,19.454389688899507,1,20:00-00:00,Medium,Weekday,High
+TXN00087,Axis Bank Limited,2022-23,17.18,0,08:00-12:00,Medium,Weekday,Medium
+TXN00427,CSB Bank Limited,2023-24,15.75,0,08:00-12:00,Medium,Weekend,Medium
+TXN00176,City Union Bank Limited,2021-22,31.52,0,08:00-12:00,Medium,Weekend,High
+TXN00478,CSB Bank Limited,2021-22,36.77179771123118,1,20:00-00:00,Medium,Weekday,High
+TXN00005,ICICI Bank Limited,2023-24,2.3,1,00:00-04:00,Small,Weekend,High
+TXN00314,City Union Bank Limited,2023-24,8.27,0,12:00-16:00,Small,Weekday,Low
+TXN00059,Bandhan Bank Limited,2021-22,94.45,0,16:00-20:00,Large,Weekend,Medium
+TXN00055,CSB Bank Limited,2023-24,5.552675032915783,1,20:00-00:00,Small,Weekday,High
+TXN00373,Nainital Bank Limited,2021-22,3.51,1,00:00-04:00,Small,Weekend,High
+TXN00007,HDFC Bank Limited,2021-22,14.42,1,20:00-00:00,Medium,Weekday,High
+TXN00258,South Indian Bank Limited,2021-22,35.28,1,00:00-04:00,Medium,Weekday,High
+TXN00303,City Union Bank Limited,2022-23,24.93,0,08:00-12:00,Medium,Weekday,Low
+TXN00011,Yes Bank Limited,2023-24,11.222542169164573,1,20:00-00:00,Medium,Weekday,High
+TXN00265,CSB Bank Limited,2022-23,11.8,1,20:00-00:00,Medium,Weekday,Medium
+TXN00045,Bandhan Bank Limited,2021-22,7.47,1,00:00-04:00,Small,Weekday,High
+TXN00017,Jammu and Kashmir Bank Limited,2022-23,16.506659060437624,1,04:00-08:00,Medium,Weekday,Medium
+TXN00281,Karur Vysya Bank Limited,2022-23,12.15,1,20:00-00:00,Medium,Weekday,Low
+TXN00373,Nainital Bank Limited,2021-22,3.65854088578326,1,20:00-00:00,Small,Weekday,Low
+TXN00022,Jammu and Kashmir Bank Limited,2023-24,10.52,0,08:00-12:00,Medium,Weekday,Low
+TXN00361,Jammu and Kashmir Bank Limited,2021-22,9.12,0,12:00-16:00,Small,Weekday,Medium
+TXN00365,CSB Bank Limited,2023-24,8.38,0,16:00-20:00,Small,Weekend,High
+TXN00218,ICICI Bank Limited,2023-24,5.414666419098545,1,04:00-08:00,Small,Weekday,High
+TXN00121,Karur Vysya Bank Limited,2023-24,8.53,0,08:00-12:00,Small,Weekday,High
+TXN00279,Jammu and Kashmir Bank Limited,2023-24,5.62,0,12:00-16:00,Small,Weekend,Medium
+TXN00461,IDBI Bank Limited,2022-23,27.61,0,08:00-12:00,Medium,Weekday,Low
+TXN00369,Kotak Mahindra Bank Limited,2023-24,12.656453029856293,1,20:00-00:00,Medium,Weekend,High
+TXN00120,DCB Bank Limited,2023-24,9.11,0,16:00-20:00,Small,Weekend,Medium
+TXN00366,Federal Bank Limited,2021-22,16.07,1,04:00-08:00,Medium,Weekday,Medium
+TXN00375,South Indian Bank Limited,2021-22,44.032021503766025,1,20:00-00:00,Medium,Weekend,Medium
+TXN00114,City Union Bank Limited,2023-24,24.82,0,12:00-16:00,Medium,Weekday,Low
+TXN00488,RBL Bank Limited,2023-24,4.19,1,20:00-00:00,Small,Weekday,Medium
+TXN00047,Kotak Mahindra Bank Limited,2021-22,5.401024794292865,1,20:00-00:00,Small,Weekday,Medium
+TXN00072,Karur Vysya Bank Limited,2023-24,3.47,0,16:00-20:00,Small,Weekday,Low
+TXN00070,Kotak Mahindra Bank Limited,2022-23,23.90326608642751,1,20:00-00:00,Medium,Weekday,Medium
+TXN00466,Karnataka Bank Limited,2021-22,24.11,0,12:00-16:00,Medium,Weekend,Low
+TXN00313,Axis Bank Limited,2021-22,7.23,0,12:00-16:00,Small,Weekend,Low
+TXN00263,Nainital Bank Limited,2021-22,7.09,1,00:00-04:00,Small,Weekend,High
+TXN00466,Karnataka Bank Limited,2021-22,24.11,0,12:00-16:00,Medium,Weekend,Low
+TXN00002,The Dhanalakshmi Bank Limited,2023-24,19.78,0,12:00-16:00,Medium,Weekday,Low
+TXN00427,CSB Bank Limited,2023-24,15.75,0,08:00-12:00,Medium,Weekend,Medium
+TXN00076,Karnataka Bank Limited,2023-24,20.02,1,00:00-04:00,Medium,Weekday,High
+TXN00028,Kotak Mahindra Bank Limited,2023-24,5.57,1,20:00-00:00,Small,Weekend,Medium
+TXN00171,RBL Bank Limited,2022-23,11.86,1,00:00-04:00,Medium,Weekday,High
+TXN00252,Federal Bank Limited,2023-24,29.976715216438002,1,20:00-00:00,Medium,Weekday,High
+TXN00030,Jammu and Kashmir Bank Limited,2021-22,3.245194489849291,1,04:00-08:00,Small,Weekday,High
+TXN00287,Bandhan Bank Limited,2021-22,14.39,0,08:00-12:00,Medium,Weekday,Medium
+TXN00098,IDFC First Bank Limited,2023-24,8.06,1,04:00-08:00,Small,Weekday,High
+TXN00313,Axis Bank Limited,2021-22,7.23,0,08:00-12:00,Small,Weekday,Low
+TXN00167,Kotak Mahindra Bank Limited,2021-22,10.57,0,08:00-12:00,Medium,Weekend,Medium
+TXN00065,Bandhan Bank Limited,2022-23,7.38,0,16:00-20:00,Small,Weekday,Medium
+TXN00087,Axis Bank Limited,2022-23,17.18,0,12:00-16:00,Medium,Weekday,Low
+TXN00147,Jammu and Kashmir Bank Limited,2021-22,7.4,0,12:00-16:00,Small,Weekend,Medium
+TXN00476,City Union Bank Limited,2021-22,5.04,0,16:00-20:00,Small,Weekend,Medium
+TXN00416,DCB Bank Limited,2023-24,28.23,1,04:00-08:00,Medium,Weekday,High
+TXN00361,Jammu and Kashmir Bank Limited,2021-22,9.12,0,12:00-16:00,Small,Weekday,Low
+TXN00116,Kotak Mahindra Bank Limited,2022-23,28.57,0,08:00-12:00,Medium,Weekday,Medium
+TXN00476,City Union Bank Limited,2021-22,5.04,0,12:00-16:00,Small,Weekday,Low
+TXN00022,Jammu and Kashmir Bank Limited,2023-24,10.52,0,16:00-20:00,Medium,Weekday,Low
+TXN00360,Yes Bank Limited,2023-24,3.03,0,16:00-20:00,Small,Weekday,Medium
+TXN00234,Nainital Bank Limited,2022-23,21.47,0,12:00-16:00,Medium,Weekday,High
+TXN00493,Tamilnad Mercantile Bank Limited,2021-22,11.99,0,08:00-12:00,Medium,Weekday,Low
+TXN00441,Jammu and Kashmir Bank Limited,2021-22,11.022598464698937,1,20:00-00:00,Medium,Weekday,Medium
+TXN00418,DCB Bank Limited,2022-23,31.49,1,04:00-08:00,Medium,Weekday,High
+TXN00090,IndusInd Bank Limited,2023-24,4.39,1,04:00-08:00,Small,Weekday,Medium
+TXN00031,The Dhanalakshmi Bank Limited,2021-22,27.75,1,20:00-00:00,Medium,Weekday,High
+TXN00040,CSB Bank Limited,2021-22,12.44,0,08:00-12:00,Medium,Weekday,Low
+TXN00291,Axis Bank Limited,2022-23,5.749502856077227,1,00:00-04:00,Small,Weekend,High
+TXN00293,Nainital Bank Limited,2022-23,51.32,0,12:00-16:00,Large,Weekday,Medium
+TXN00063,South Indian Bank Limited,2021-22,11.85,1,00:00-04:00,Medium,Weekday,Medium
+TXN00328,IDBI Bank Limited,2023-24,3.23729897623469,1,04:00-08:00,Small,Weekday,Medium
+TXN00350,Tamilnad Mercantile Bank Limited,2023-24,15.01,1,00:00-04:00,Medium,Weekday,Medium
+TXN00173,Jammu and Kashmir Bank Limited,2022-23,8.769391477720777,1,00:00-04:00,Small,Weekday,Low
+TXN00329,IndusInd Bank Limited,2022-23,16.939426714088576,1,00:00-04:00,Medium,Weekday,High
+TXN00010,IndusInd Bank Limited,2023-24,16.77,1,00:00-04:00,Medium,Weekday,Medium
+TXN00274,HDFC Bank Limited,2023-24,1.7598577658964096,1,20:00-00:00,Small,Weekday,Medium
+TXN00033,DCB Bank Limited,2022-23,14.95,0,08:00-12:00,Medium,Weekday,Low
+TXN00388,Bandhan Bank Limited,2022-23,11.83,1,00:00-04:00,Medium,Weekend,High
+TXN00054,RBL Bank Limited,2022-23,14.12,1,20:00-00:00,Medium,Weekday,High
+TXN00293,Nainital Bank Limited,2022-23,51.32,0,16:00-20:00,Large,Weekday,Medium
+TXN00126,IDFC First Bank Limited,2023-24,9.72,1,20:00-00:00,Small,Weekend,High
+TXN00401,DCB Bank Limited,2023-24,29.56,1,04:00-08:00,Medium,Weekday,High
+TXN00065,Bandhan Bank Limited,2022-23,7.38,0,12:00-16:00,Small,Weekend,Low
+TXN00275,City Union Bank Limited,2023-24,3.43,1,04:00-08:00,Small,Weekend,High
+TXN00248,IndusInd Bank Limited,2022-23,16.15,1,04:00-08:00,Medium,Weekday,Medium
+TXN00365,CSB Bank Limited,2023-24,8.38,0,08:00-12:00,Small,Weekday,Low
+TXN00365,CSB Bank Limited,2023-24,8.38,0,08:00-12:00,Small,Weekend,Medium
+TXN00448,Jammu and Kashmir Bank Limited,2022-23,2.252871391216684,1,20:00-00:00,Small,Weekday,High
+TXN00403,DCB Bank Limited,2021-22,19.89,0,08:00-12:00,Medium,Weekday,Medium
+TXN00361,Jammu and Kashmir Bank Limited,2021-22,9.12,0,16:00-20:00,Small,Weekend,Low
+TXN00297,RBL Bank Limited,2022-23,37.32,0,16:00-20:00,Medium,Weekday,Medium
+TXN00316,IDFC First Bank Limited,2023-24,17.231870647594423,1,04:00-08:00,Medium,Weekend,Low
+TXN00269,Karur Vysya Bank Limited,2023-24,23.87,1,04:00-08:00,Medium,Weekday,Medium
+TXN00231,RBL Bank Limited,2021-22,17.059393925860373,1,04:00-08:00,Medium,Weekday,High
+TXN00149,The Dhanalakshmi Bank Limited,2023-24,7.32,0,16:00-20:00,Small,Weekday,High
+TXN00060,Federal Bank Limited,2023-24,11.063998225460983,1,20:00-00:00,Medium,Weekend,High
+TXN00121,Karur Vysya Bank Limited,2023-24,8.53,0,16:00-20:00,Small,Weekday,Medium
+TXN00443,Axis Bank Limited,2021-22,5.4120148072387435,1,20:00-00:00,Small,Weekend,Medium
+TXN00072,Karur Vysya Bank Limited,2023-24,3.47,0,12:00-16:00,Small,Weekday,Medium
+TXN00072,Karur Vysya Bank Limited,2023-24,3.47,0,08:00-12:00,Small,Weekend,Medium
+TXN00403,DCB Bank Limited,2021-22,19.89,0,08:00-12:00,Medium,Weekend,Medium
+TXN00069,Nainital Bank Limited,2023-24,20.2,1,00:00-04:00,Medium,Weekday,High
+TXN00330,Nainital Bank Limited,2022-23,20.45,0,08:00-12:00,Medium,Weekend,High
+TXN00106,Axis Bank Limited,2021-22,5.96,1,04:00-08:00,Small,Weekend,High
+TXN00442,City Union Bank Limited,2023-24,13.139361498341183,1,20:00-00:00,Medium,Weekday,Medium
+TXN00326,ICICI Bank Limited,2023-24,5.38,1,00:00-04:00,Small,Weekday,Medium
+TXN00203,Axis Bank Limited,2023-24,4.1,0,16:00-20:00,Small,Weekend,Low
+TXN00413,HDFC Bank Limited,2022-23,83.32,1,20:00-00:00,Large,Weekday,High
+TXN00476,City Union Bank Limited,2021-22,5.04,0,12:00-16:00,Small,Weekday,Low
+TXN00114,City Union Bank Limited,2023-24,24.82,0,08:00-12:00,Medium,Weekend,Medium
+TXN00189,Yes Bank Limited,2021-22,27.35954506846796,1,00:00-04:00,Medium,Weekend,Medium
+TXN00230,The Dhanalakshmi Bank Limited,2022-23,2.1,0,16:00-20:00,Small,Weekday,High
+TXN00131,The Dhanalakshmi Bank Limited,2023-24,11.85,1,04:00-08:00,Medium,Weekend,High
+TXN00049,Jammu and Kashmir Bank Limited,2021-22,5.58,1,20:00-00:00,Small,Weekend,High
+TXN00150,IndusInd Bank Limited,2023-24,31.54,1,20:00-00:00,Medium,Weekday,Medium
+TXN00239,IDBI Bank Limited,2023-24,20.49,1,20:00-00:00,Medium,Weekday,Medium
+TXN00060,Federal Bank Limited,2023-24,11.28,1,00:00-04:00,Medium,Weekday,High
+TXN00396,DCB Bank Limited,2023-24,16.654368259247285,1,00:00-04:00,Medium,Weekday,High
+TXN00078,Kotak Mahindra Bank Limited,2021-22,4.19,1,20:00-00:00,Small,Weekday,High
+TXN00469,Yes Bank Limited,2021-22,13.24,0,08:00-12:00,Medium,Weekday,Low
+TXN00048,HDFC Bank Limited,2022-23,4.13,0,16:00-20:00,Small,Weekday,Medium
+TXN00214,HDFC Bank Limited,2022-23,14.14,1,20:00-00:00,Medium,Weekday,High
+TXN00162,DCB Bank Limited,2023-24,8.93,1,20:00-00:00,Small,Weekend,High
+TXN00334,South Indian Bank Limited,2022-23,4.1057521472257585,1,04:00-08:00,Small,Weekday,High
+TXN00458,IDFC First Bank Limited,2021-22,73.26091600562687,1,04:00-08:00,Large,Weekday,High
+TXN00157,City Union Bank Limited,2022-23,14.33,1,00:00-04:00,Medium,Weekend,High
+TXN00093,ICICI Bank Limited,2022-23,11.8,1,04:00-08:00,Medium,Weekend,High
+TXN00404,Kotak Mahindra Bank Limited,2023-24,5.24,0,12:00-16:00,Small,Weekday,Medium
+TXN00466,Karnataka Bank Limited,2021-22,24.11,0,12:00-16:00,Medium,Weekday,Medium
+TXN00185,Axis Bank Limited,2023-24,19.45161022782196,1,00:00-04:00,Medium,Weekday,High
+TXN00065,Bandhan Bank Limited,2022-23,7.38,0,12:00-16:00,Small,Weekday,Medium
+TXN00331,HDFC Bank Limited,2022-23,8.617099678147872,1,04:00-08:00,Small,Weekend,Medium
+TXN00194,RBL Bank Limited,2021-22,13.7,1,00:00-04:00,Medium,Weekend,Medium
+TXN00288,Yes Bank Limited,2022-23,2.38,1,04:00-08:00,Small,Weekday,Medium
+TXN00100,IDBI Bank Limited,2023-24,9.233822927022468,1,00:00-04:00,Small,Weekday,Medium
+TXN00361,Jammu and Kashmir Bank Limited,2021-22,9.12,0,08:00-12:00,Small,Weekday,Low
+TXN00202,Nainital Bank Limited,2023-24,11.963672573344313,1,20:00-00:00,Medium,Weekday,Medium
+TXN00424,Axis Bank Limited,2021-22,6.66,0,08:00-12:00,Small,Weekend,Low
+TXN00112,City Union Bank Limited,2022-23,3.71,1,04:00-08:00,Small,Weekday,High
+TXN00301,Yes Bank Limited,2023-24,21.3,0,12:00-16:00,Medium,Weekday,Low
+TXN00291,Axis Bank Limited,2022-23,5.502229357748817,1,20:00-00:00,Small,Weekday,High
+TXN00469,Yes Bank Limited,2021-22,13.24,0,08:00-12:00,Medium,Weekend,High
+TXN00122,HDFC Bank Limited,2023-24,38.97,1,20:00-00:00,Medium,Weekday,High
+TXN00500,IDBI Bank Limited,2022-23,18.81,1,04:00-08:00,Medium,Weekday,High
+TXN00085,HDFC Bank Limited,2022-23,11.52,1,00:00-04:00,Medium,Weekend,Medium
+TXN00176,City Union Bank Limited,2021-22,31.52,0,16:00-20:00,Medium,Weekend,Medium
+TXN00176,City Union Bank Limited,2021-22,31.52,0,08:00-12:00,Medium,Weekday,High
+TXN00118,City Union Bank Limited,2021-22,33.85872485414617,1,04:00-08:00,Medium,Weekday,Medium
+TXN00002,The Dhanalakshmi Bank Limited,2023-24,19.78,0,12:00-16:00,Medium,Weekday,Medium
+TXN00301,Yes Bank Limited,2023-24,21.3,0,12:00-16:00,Medium,Weekday,Low
+TXN00134,HDFC Bank Limited,2023-24,5.48,0,12:00-16:00,Small,Weekday,Low
+TXN00467,IndusInd Bank Limited,2023-24,22.43211276042647,1,00:00-04:00,Medium,Weekend,High
+TXN00238,IDBI Bank Limited,2023-24,23.224691357176116,1,00:00-04:00,Medium,Weekday,High
+TXN00444,Axis Bank Limited,2023-24,3.85,1,00:00-04:00,Small,Weekday,High
+TXN00272,The Dhanalakshmi Bank Limited,2021-22,2.69,1,20:00-00:00,Small,Weekend,Medium
+TXN00114,City Union Bank Limited,2023-24,24.82,0,16:00-20:00,Medium,Weekday,Medium
+TXN00311,The Dhanalakshmi Bank Limited,2023-24,48.85,1,00:00-04:00,Medium,Weekday,High
+TXN00221,ICICI Bank Limited,2023-24,31.69,0,12:00-16:00,Medium,Weekday,Medium
+TXN00140,HDFC Bank Limited,2023-24,16.54,1,04:00-08:00,Medium,Weekday,High
+TXN00033,DCB Bank Limited,2022-23,14.95,0,16:00-20:00,Medium,Weekday,Low
+TXN00003,Kotak Mahindra Bank Limited,2023-24,4.164961820615552,1,20:00-00:00,Small,Weekday,Medium
+TXN00289,Axis Bank Limited,2021-22,10.0,1,20:00-00:00,Medium,Weekday,High
+TXN00276,RBL Bank Limited,2022-23,22.38,0,12:00-16:00,Medium,Weekend,Low
+TXN00008,Tamilnad Mercantile Bank Limited,2022-23,11.28,0,08:00-12:00,Medium,Weekday,High
+TXN00108,DCB Bank Limited,2023-24,8.57,1,00:00-04:00,Small,Weekday,High
+TXN00038,HDFC Bank Limited,2023-24,4.38,1,20:00-00:00,Small,Weekday,High
+TXN00424,Axis Bank Limited,2021-22,6.66,0,08:00-12:00,Small,Weekday,Low
+TXN00234,Nainital Bank Limited,2022-23,21.47,0,08:00-12:00,Medium,Weekday,Low
+TXN00117,Karur Vysya Bank Limited,2022-23,7.60030309758424,1,04:00-08:00,Small,Weekday,High
+TXN00460,Tamilnad Mercantile Bank Limited,2023-24,3.355911579057331,1,00:00-04:00,Small,Weekend,High
+TXN00008,Tamilnad Mercantile Bank Limited,2022-23,11.28,0,12:00-16:00,Medium,Weekday,Low
+TXN00489,RBL Bank Limited,2021-22,7.53,0,16:00-20:00,Small,Weekday,Medium
+TXN00001,HDFC Bank Limited,2022-23,3.51,1,00:00-04:00,Small,Weekend,Medium
+TXN00088,Jammu and Kashmir Bank Limited,2021-22,14.38,0,16:00-20:00,Medium,Weekday,Low
+TXN00111,ICICI Bank Limited,2022-23,27.81,0,12:00-16:00,Medium,Weekend,Low
+TXN00403,DCB Bank Limited,2021-22,19.89,0,16:00-20:00,Medium,Weekday,Low
+TXN00466,Karnataka Bank Limited,2021-22,24.11,0,16:00-20:00,Medium,Weekday,Low
+TXN00095,City Union Bank Limited,2023-24,12.46,1,04:00-08:00,Medium,Weekday,High
+TXN00493,Tamilnad Mercantile Bank Limited,2021-22,11.99,0,12:00-16:00,Medium,Weekday,High
+TXN00061,IDFC First Bank Limited,2021-22,31.444349563435757,1,20:00-00:00,Medium,Weekday,Medium
+TXN00493,Tamilnad Mercantile Bank Limited,2021-22,11.99,0,16:00-20:00,Medium,Weekend,Low
+TXN00249,RBL Bank Limited,2023-24,4.48,0,12:00-16:00,Small,Weekday,Medium
+TXN00294,Tamilnad Mercantile Bank Limited,2021-22,18.685507080271076,1,20:00-00:00,Medium,Weekday,High
+TXN00002,The Dhanalakshmi Bank Limited,2023-24,19.78,0,12:00-16:00,Medium,Weekend,Low
+TXN00149,The Dhanalakshmi Bank Limited,2023-24,7.32,0,12:00-16:00,Small,Weekday,Low
+TXN00489,RBL Bank Limited,2021-22,7.53,0,08:00-12:00,Small,Weekend,High
+TXN00338,Karnataka Bank Limited,2022-23,8.44,0,16:00-20:00,Small,Weekday,Low
+TXN00463,CSB Bank Limited,2023-24,36.87,1,00:00-04:00,Medium,Weekday,Medium
+TXN00104,Jammu and Kashmir Bank Limited,2023-24,8.31,0,16:00-20:00,Small,Weekday,Low
+TXN00482,DCB Bank Limited,2023-24,25.86,0,12:00-16:00,Medium,Weekday,Medium
+TXN00482,DCB Bank Limited,2023-24,25.86,0,12:00-16:00,Medium,Weekday,Low
+TXN00124,Kotak Mahindra Bank Limited,2022-23,8.02,1,20:00-00:00,Small,Weekend,High
+TXN00231,RBL Bank Limited,2021-22,16.758799510839275,1,04:00-08:00,Medium,Weekday,Medium
+TXN00301,Yes Bank Limited,2023-24,21.3,0,12:00-16:00,Medium,Weekend,Low
+TXN00200,IndusInd Bank Limited,2023-24,36.087897491232006,1,00:00-04:00,Medium,Weekday,High
+TXN00071,ICICI Bank Limited,2023-24,20.03,1,20:00-00:00,Medium,Weekend,High
+TXN00326,ICICI Bank Limited,2023-24,4.98755726090094,1,00:00-04:00,Small,Weekday,High
+TXN00147,Jammu and Kashmir Bank Limited,2021-22,7.4,0,16:00-20:00,Small,Weekend,Low
+TXN00259,Karur Vysya Bank Limited,2021-22,14.26,1,20:00-00:00,Medium,Weekday,High
+TXN00172,The Dhanalakshmi Bank Limited,2023-24,51.2,1,20:00-00:00,Large,Weekday,High
+TXN00234,Nainital Bank Limited,2022-23,21.47,0,08:00-12:00,Medium,Weekday,Low
+TXN00429,Nainital Bank Limited,2022-23,44.3,1,00:00-04:00,Medium,Weekday,High
+TXN00184,DCB Bank Limited,2022-23,9.14,0,08:00-12:00,Small,Weekday,Low
+TXN00222,Axis Bank Limited,2023-24,3.6,0,16:00-20:00,Small,Weekday,High
+TXN00469,Yes Bank Limited,2021-22,13.24,0,08:00-12:00,Medium,Weekday,Low
+TXN00120,DCB Bank Limited,2023-24,9.11,0,08:00-12:00,Small,Weekday,Low
+TXN00147,Jammu and Kashmir Bank Limited,2021-22,7.4,0,16:00-20:00,Small,Weekday,Low
+TXN00116,Kotak Mahindra Bank Limited,2022-23,28.57,0,16:00-20:00,Medium,Weekend,Low
+TXN00012,CSB Bank Limited,2023-24,29.45,1,20:00-00:00,Medium,Weekday,High
+TXN00413,HDFC Bank Limited,2022-23,89.60413032126945,1,20:00-00:00,Large,Weekend,High
+TXN00146,Federal Bank Limited,2022-23,7.61280039443567,1,04:00-08:00,Small,Weekday,High
+TXN00296,City Union Bank Limited,2023-24,19.26,1,00:00-04:00,Medium,Weekend,High
+TXN00467,IndusInd Bank Limited,2023-24,23.339335942964635,1,20:00-00:00,Medium,Weekday,High
+TXN00446,IDFC First Bank Limited,2021-22,6.19,1,20:00-00:00,Small,Weekday,High
+TXN00177,RBL Bank Limited,2021-22,84.4513798810233,1,20:00-00:00,Large,Weekday,Medium
+TXN00122,HDFC Bank Limited,2023-24,35.81312284361203,1,00:00-04:00,Medium,Weekday,High
+TXN00314,City Union Bank Limited,2023-24,8.27,0,16:00-20:00,Small,Weekday,Low
+TXN00065,Bandhan Bank Limited,2022-23,7.38,0,16:00-20:00,Small,Weekday,Medium
+TXN00322,Bandhan Bank Limited,2023-24,16.019537527220667,1,20:00-00:00,Medium,Weekday,Medium
+TXN00008,Tamilnad Mercantile Bank Limited,2022-23,11.28,0,12:00-16:00,Medium,Weekday,Medium
+TXN00476,City Union Bank Limited,2021-22,5.04,0,16:00-20:00,Small,Weekend,Medium
+TXN00087,Axis Bank Limited,2022-23,17.18,0,16:00-20:00,Medium,Weekend,High
+TXN00144,Karnataka Bank Limited,2022-23,86.13867495530639,1,00:00-04:00,Large,Weekday,Medium
+TXN00039,South Indian Bank Limited,2022-23,7.86619515418003,1,00:00-04:00,Small,Weekday,High
+TXN00397,City Union Bank Limited,2023-24,28.891109625699396,1,00:00-04:00,Medium,Weekday,High
+TXN00113,Axis Bank Limited,2023-24,15.08,0,16:00-20:00,Medium,Weekday,Low
+TXN00318,ICICI Bank Limited,2023-24,7.4418784681378956,1,04:00-08:00,Small,Weekday,High
+TXN00499,Jammu and Kashmir Bank Limited,2021-22,13.461876376792093,1,04:00-08:00,Medium,Weekday,High
+TXN00435,City Union Bank Limited,2021-22,19.07034745217316,1,04:00-08:00,Medium,Weekday,Low
+TXN00022,Jammu and Kashmir Bank Limited,2023-24,10.52,0,08:00-12:00,Medium,Weekday,Medium
+TXN00341,ICICI Bank Limited,2021-22,11.13936404935908,1,00:00-04:00,Medium,Weekday,High
+TXN00203,Axis Bank Limited,2023-24,4.1,0,16:00-20:00,Small,Weekday,Low
+TXN00493,Tamilnad Mercantile Bank Limited,2021-22,11.99,0,08:00-12:00,Medium,Weekday,Low
+TXN00461,IDBI Bank Limited,2022-23,27.61,0,08:00-12:00,Medium,Weekday,Medium
+TXN00365,CSB Bank Limited,2023-24,8.38,0,12:00-16:00,Small,Weekday,Low
+TXN00428,Nainital Bank Limited,2022-23,17.07,1,04:00-08:00,Medium,Weekday,High
+TXN00133,DCB Bank Limited,2021-22,46.10853412555111,1,00:00-04:00,Medium,Weekend,High
+TXN00249,RBL Bank Limited,2023-24,4.48,0,12:00-16:00,Small,Weekend,Low
+TXN00411,Nainital Bank Limited,2023-24,13.74,1,04:00-08:00,Medium,Weekday,High
+TXN00273,ICICI Bank Limited,2021-22,8.062246105067787,1,00:00-04:00,Small,Weekday,High
+TXN00242,Nainital Bank Limited,2022-23,5.255693068038962,1,20:00-00:00,Small,Weekend,High
+TXN00115,DCB Bank Limited,2023-24,13.0314762773939,1,00:00-04:00,Medium,Weekday,Low
+TXN00120,DCB Bank Limited,2023-24,9.11,0,08:00-12:00,Small,Weekday,Low
+TXN00317,City Union Bank Limited,2021-22,19.729468389477617,1,00:00-04:00,Medium,Weekend,Medium
+TXN00330,Nainital Bank Limited,2022-23,20.45,0,08:00-12:00,Medium,Weekday,Low
+TXN00314,City Union Bank Limited,2023-24,8.27,0,08:00-12:00,Small,Weekday,Medium
+TXN00104,Jammu and Kashmir Bank Limited,2023-24,8.31,0,16:00-20:00,Small,Weekday,Low
+TXN00264,IDBI Bank Limited,2022-23,51.46,0,08:00-12:00,Large,Weekday,Low
+TXN00111,ICICI Bank Limited,2022-23,27.81,0,16:00-20:00,Medium,Weekend,Low
+TXN00149,The Dhanalakshmi Bank Limited,2023-24,7.32,0,16:00-20:00,Small,Weekend,Low
+TXN00149,The Dhanalakshmi Bank Limited,2023-24,7.32,0,16:00-20:00,Small,Weekday,Low
+TXN00469,Yes Bank Limited,2021-22,13.24,0,12:00-16:00,Medium,Weekday,Low
+TXN00205,Federal Bank Limited,2023-24,20.42,0,16:00-20:00,Medium,Weekday,Low
+TXN00447,IndusInd Bank Limited,2021-22,5.497283403004437,1,00:00-04:00,Small,Weekday,High
+TXN00092,RBL Bank Limited,2022-23,28.29,1,20:00-00:00,Medium,Weekday,Medium
+TXN00130,RBL Bank Limited,2021-22,6.59,0,16:00-20:00,Small,Weekend,Low
+TXN00332,IDFC First Bank Limited,2022-23,39.54514714826809,1,00:00-04:00,Medium,Weekday,High
+TXN00264,IDBI Bank Limited,2022-23,51.46,0,16:00-20:00,Large,Weekday,Low
+TXN00217,Axis Bank Limited,2022-23,27.299171737206386,1,20:00-00:00,Medium,Weekday,High
+TXN00205,Federal Bank Limited,2023-24,20.42,0,12:00-16:00,Medium,Weekend,Low
+TXN00066,IDFC First Bank Limited,2023-24,51.93,1,20:00-00:00,Large,Weekday,High
+TXN00158,HDFC Bank Limited,2022-23,3.62,1,04:00-08:00,Small,Weekend,High
+TXN00149,The Dhanalakshmi Bank Limited,2023-24,7.32,0,16:00-20:00,Small,Weekday,Low
+TXN00487,IDBI Bank Limited,2021-22,12.446286256685495,1,20:00-00:00,Medium,Weekday,High
+TXN00476,City Union Bank Limited,2021-22,5.04,0,12:00-16:00,Small,Weekend,High
+TXN00224,South Indian Bank Limited,2022-23,18.03719422337732,1,20:00-00:00,Medium,Weekday,Low
+TXN00297,RBL Bank Limited,2022-23,37.32,0,16:00-20:00,Medium,Weekday,Low
+TXN00483,Jammu and Kashmir Bank Limited,2023-24,5.4450500763574565,1,04:00-08:00,Small,Weekday,Medium
+TXN00404,Kotak Mahindra Bank Limited,2023-24,5.24,0,08:00-12:00,Small,Weekday,Low
+TXN00399,Nainital Bank Limited,2022-23,64.76,1,20:00-00:00,Large,Weekday,High
+TXN00442,City Union Bank Limited,2023-24,12.34,1,20:00-00:00,Medium,Weekday,High
+TXN00476,City Union Bank Limited,2021-22,5.04,0,08:00-12:00,Small,Weekend,Low
+TXN00425,DCB Bank Limited,2022-23,12.222570068147197,1,04:00-08:00,Medium,Weekend,High
+TXN00186,Axis Bank Limited,2022-23,31.587637015385564,1,00:00-04:00,Medium,Weekday,Medium
+TXN00205,Federal Bank Limited,2023-24,20.42,0,16:00-20:00,Medium,Weekday,Low
+TXN00417,IDFC First Bank Limited,2022-23,26.73668131073856,1,04:00-08:00,Medium,Weekend,High
+TXN00130,RBL Bank Limited,2021-22,6.59,0,12:00-16:00,Small,Weekday,High
+TXN00072,Karur Vysya Bank Limited,2023-24,3.47,0,08:00-12:00,Small,Weekday,High
+TXN00279,Jammu and Kashmir Bank Limited,2023-24,5.62,0,12:00-16:00,Small,Weekday,Low
+TXN00200,IndusInd Bank Limited,2023-24,31.684339790983522,1,20:00-00:00,Medium,Weekend,High
+TXN00201,Nainital Bank Limited,2021-22,14.19,1,04:00-08:00,Medium,Weekend,Low
+TXN00008,Tamilnad Mercantile Bank Limited,2022-23,11.28,0,12:00-16:00,Medium,Weekend,Low
+TXN00044,Yes Bank Limited,2023-24,6.66,1,20:00-00:00,Small,Weekday,High
+TXN00174,HDFC Bank Limited,2022-23,15.922481658359127,1,04:00-08:00,Medium,Weekend,High
+TXN00103,ICICI Bank Limited,2023-24,14.55,1,04:00-08:00,Medium,Weekday,High
+TXN00059,Bandhan Bank Limited,2021-22,94.45,0,16:00-20:00,Large,Weekday,Low
+TXN00230,The Dhanalakshmi Bank Limited,2022-23,2.1,0,08:00-12:00,Small,Weekday,High
+TXN00044,Yes Bank Limited,2023-24,6.518721887894414,1,20:00-00:00,Small,Weekday,Low
+TXN00287,Bandhan Bank Limited,2021-22,14.39,0,16:00-20:00,Medium,Weekend,Low
+TXN00445,ICICI Bank Limited,2021-22,43.62,0,16:00-20:00,Medium,Weekday,Medium
+TXN00276,RBL Bank Limited,2022-23,22.38,0,12:00-16:00,Medium,Weekday,Low
+TXN00424,Axis Bank Limited,2021-22,6.66,0,08:00-12:00,Small,Weekday,Medium
+TXN00301,Yes Bank Limited,2023-24,21.3,0,16:00-20:00,Medium,Weekday,Low
+TXN00313,Axis Bank Limited,2021-22,7.23,0,12:00-16:00,Small,Weekday,Low
+TXN00307,Karur Vysya Bank Limited,2023-24,37.97938807391303,1,00:00-04:00,Medium,Weekend,High
+TXN00390,ICICI Bank Limited,2023-24,12.7,1,04:00-08:00,Medium,Weekday,High
+TXN00301,Yes Bank Limited,2023-24,21.3,0,08:00-12:00,Medium,Weekday,Low
+TXN00032,City Union Bank Limited,2023-24,17.78,1,04:00-08:00,Medium,Weekday,Low
+TXN00111,ICICI Bank Limited,2022-23,27.81,0,16:00-20:00,Medium,Weekend,Low
+TXN00360,Yes Bank Limited,2023-24,3.03,0,16:00-20:00,Small,Weekday,Medium
+TXN00147,Jammu and Kashmir Bank Limited,2021-22,7.4,0,16:00-20:00,Small,Weekend,Medium
+TXN00320,South Indian Bank Limited,2021-22,63.668346532032615,1,20:00-00:00,Large,Weekday,High
+TXN00198,Bandhan Bank Limited,2022-23,8.89,1,20:00-00:00,Small,Weekday,Medium
+TXN00276,RBL Bank Limited,2022-23,22.38,0,08:00-12:00,Medium,Weekday,Medium
+TXN00222,Axis Bank Limited,2023-24,3.6,0,16:00-20:00,Small,Weekday,Low
+TXN00330,Nainital Bank Limited,2022-23,20.45,0,08:00-12:00,Medium,Weekday,Low
+TXN00365,CSB Bank Limited,2023-24,8.38,0,08:00-12:00,Small,Weekday,Low
+TXN00352,The Dhanalakshmi Bank Limited,2022-23,6.88557925292358,1,00:00-04:00,Small,Weekday,High
+TXN00308,Yes Bank Limited,2023-24,15.291884474086528,1,04:00-08:00,Medium,Weekday,High
+TXN00151,HDFC Bank Limited,2023-24,35.567276681817155,1,00:00-04:00,Medium,Weekday,High
+TXN00338,Karnataka Bank Limited,2022-23,8.44,0,08:00-12:00,Small,Weekday,Low
+TXN00059,Bandhan Bank Limited,2021-22,94.45,0,16:00-20:00,Large,Weekday,Medium
+TXN00455,City Union Bank Limited,2022-23,28.046322410328077,1,04:00-08:00,Medium,Weekday,High
+TXN00011,Yes Bank Limited,2023-24,12.567341302795002,1,20:00-00:00,Medium,Weekday,Medium
+TXN00109,City Union Bank Limited,2023-24,38.639994802647735,1,04:00-08:00,Medium,Weekday,High
+TXN00271,Nainital Bank Limited,2023-24,8.53,1,00:00-04:00,Small,Weekend,High
+TXN00178,DCB Bank Limited,2021-22,8.009201800445265,1,04:00-08:00,Small,Weekday,Medium
+TXN00314,City Union Bank Limited,2023-24,8.27,0,08:00-12:00,Small,Weekend,Medium
+TXN00482,DCB Bank Limited,2023-24,25.86,0,16:00-20:00,Medium,Weekday,Low
+TXN00002,The Dhanalakshmi Bank Limited,2023-24,19.78,0,08:00-12:00,Medium,Weekend,Low
+TXN00461,IDBI Bank Limited,2022-23,27.61,0,08:00-12:00,Medium,Weekday,Medium
+TXN00164,Tamilnad Mercantile Bank Limited,2023-24,15.92,0,12:00-16:00,Medium,Weekend,Low
+TXN00314,City Union Bank Limited,2023-24,8.27,0,16:00-20:00,Small,Weekday,Low
+TXN00356,IndusInd Bank Limited,2022-23,9.329159613084299,1,00:00-04:00,Small,Weekend,Low
+TXN00164,Tamilnad Mercantile Bank Limited,2023-24,15.92,0,16:00-20:00,Medium,Weekday,Low
+TXN00404,Kotak Mahindra Bank Limited,2023-24,5.24,0,08:00-12:00,Small,Weekend,Low
+TXN00128,Tamilnad Mercantile Bank Limited,2021-22,5.84,1,00:00-04:00,Small,Weekend,High
+TXN00360,Yes Bank Limited,2023-24,3.03,0,08:00-12:00,Small,Weekday,Low
+TXN00037,IDBI Bank Limited,2023-24,2.6263761343113985,1,00:00-04:00,Small,Weekday,High
+TXN00149,The Dhanalakshmi Bank Limited,2023-24,7.32,0,08:00-12:00,Small,Weekday,Medium
+TXN00264,IDBI Bank Limited,2022-23,51.46,0,08:00-12:00,Large,Weekend,Low
+TXN00372,The Dhanalakshmi Bank Limited,2022-23,7.515313488709989,1,04:00-08:00,Small,Weekday,High
+TXN00066,IDFC First Bank Limited,2023-24,54.10479982637607,1,00:00-04:00,Large,Weekday,Medium
+TXN00361,Jammu and Kashmir Bank Limited,2021-22,9.12,0,12:00-16:00,Small,Weekday,High
+TXN00230,The Dhanalakshmi Bank Limited,2022-23,2.1,0,08:00-12:00,Small,Weekday,Low
+TXN00365,CSB Bank Limited,2023-24,8.38,0,08:00-12:00,Small,Weekday,Low
+TXN00301,Yes Bank Limited,2023-24,21.3,0,08:00-12:00,Medium,Weekend,Low
+TXN00367,Karnataka Bank Limited,2021-22,10.96791886389676,1,00:00-04:00,Medium,Weekday,High
+TXN00048,HDFC Bank Limited,2022-23,4.13,0,08:00-12:00,Small,Weekday,High
+TXN00152,Axis Bank Limited,2021-22,7.896956080424427,1,00:00-04:00,Small,Weekday,Medium
+TXN00345,Jammu and Kashmir Bank Limited,2021-22,36.82416034598474,1,20:00-00:00,Medium,Weekday,High
+TXN00397,City Union Bank Limited,2023-24,25.799380497324563,1,04:00-08:00,Medium,Weekday,High
+TXN00299,Jammu and Kashmir Bank Limited,2021-22,13.829859588756454,1,20:00-00:00,Medium,Weekend,High
+TXN00308,Yes Bank Limited,2023-24,14.27,1,00:00-04:00,Medium,Weekday,High
+TXN00086,IDBI Bank Limited,2022-23,3.23,1,20:00-00:00,Small,Weekday,High
+TXN00287,Bandhan Bank Limited,2021-22,14.39,0,16:00-20:00,Medium,Weekday,Low
+TXN00250,ICICI Bank Limited,2022-23,38.65793535806661,1,04:00-08:00,Medium,Weekday,Low
+TXN00453,Tamilnad Mercantile Bank Limited,2022-23,7.03,1,04:00-08:00,Small,Weekday,High
+TXN00207,City Union Bank Limited,2021-22,9.52,1,00:00-04:00,Small,Weekend,Medium
+TXN00469,Yes Bank Limited,2021-22,13.24,0,08:00-12:00,Medium,Weekday,Low
+TXN00149,The Dhanalakshmi Bank Limited,2023-24,7.32,0,16:00-20:00,Small,Weekday,Low
+TXN00149,The Dhanalakshmi Bank Limited,2023-24,7.32,0,16:00-20:00,Small,Weekend,Low
+TXN00313,Axis Bank Limited,2021-22,7.23,0,08:00-12:00,Small,Weekday,Medium
+TXN00435,City Union Bank Limited,2021-22,19.832134777853828,1,00:00-04:00,Medium,Weekday,High
+TXN00070,Kotak Mahindra Bank Limited,2022-23,26.52,1,00:00-04:00,Medium,Weekday,Low
+TXN00164,Tamilnad Mercantile Bank Limited,2023-24,15.92,0,16:00-20:00,Medium,Weekday,Low
+TXN00346,Tamilnad Mercantile Bank Limited,2023-24,40.172579686449254,1,20:00-00:00,Medium,Weekday,High
+TXN00134,HDFC Bank Limited,2023-24,5.48,0,12:00-16:00,Small,Weekday,Low
+TXN00167,Kotak Mahindra Bank Limited,2021-22,10.57,0,16:00-20:00,Medium,Weekend,Medium
+TXN00324,Bandhan Bank Limited,2022-23,13.41,1,04:00-08:00,Medium,Weekend,High
+TXN00042,South Indian Bank Limited,2022-23,6.82,1,04:00-08:00,Small,Weekend,High
+TXN00279,Jammu and Kashmir Bank Limited,2023-24,5.62,0,08:00-12:00,Small,Weekend,Medium
+TXN00058,CSB Bank Limited,2023-24,14.175768154784668,1,20:00-00:00,Medium,Weekend,High
+TXN00040,CSB Bank Limited,2021-22,12.44,0,12:00-16:00,Medium,Weekday,Medium
+TXN00104,Jammu and Kashmir Bank Limited,2023-24,8.31,0,08:00-12:00,Small,Weekend,Low
+TXN00086,IDBI Bank Limited,2022-23,3.524686325932548,1,00:00-04:00,Small,Weekday,Low
+TXN00424,Axis Bank Limited,2021-22,6.66,0,08:00-12:00,Small,Weekday,Low
+TXN00170,RBL Bank Limited,2021-22,6.874780180357443,1,04:00-08:00,Small,Weekday,Medium
+TXN00224,South Indian Bank Limited,2022-23,16.47,1,00:00-04:00,Medium,Weekday,Medium
+TXN00307,Karur Vysya Bank Limited,2023-24,37.647720593947234,1,20:00-00:00,Medium,Weekday,Medium
+TXN00475,RBL Bank Limited,2023-24,5.5025805607412845,1,20:00-00:00,Small,Weekday,Medium
+TXN00255,City Union Bank Limited,2021-22,17.364370208237037,1,00:00-04:00,Medium,Weekday,High
+TXN00142,Bandhan Bank Limited,2023-24,18.29711773481137,1,04:00-08:00,Medium,Weekday,High
+TXN00338,Karnataka Bank Limited,2022-23,8.44,0,16:00-20:00,Small,Weekend,Low
+TXN00427,CSB Bank Limited,2023-24,15.75,0,12:00-16:00,Medium,Weekend,Low
+TXN00413,HDFC Bank Limited,2022-23,81.82691165446289,1,04:00-08:00,Large,Weekend,Medium
+TXN00474,City Union Bank Limited,2021-22,11.26,1,04:00-08:00,Medium,Weekday,Medium
+TXN00022,Jammu and Kashmir Bank Limited,2023-24,10.52,0,08:00-12:00,Medium,Weekend,Medium
+TXN00019,Bandhan Bank Limited,2022-23,4.52667051745257,1,04:00-08:00,Small,Weekday,Medium
+TXN00403,DCB Bank Limited,2021-22,19.89,0,08:00-12:00,Medium,Weekend,Medium
+TXN00281,Karur Vysya Bank Limited,2022-23,10.976389777626505,1,04:00-08:00,Medium,Weekday,High
+TXN00137,IndusInd Bank Limited,2021-22,11.71,1,20:00-00:00,Medium,Weekday,Medium
+TXN00480,RBL Bank Limited,2021-22,3.47,1,00:00-04:00,Small,Weekday,High
+TXN00427,CSB Bank Limited,2023-24,15.75,0,08:00-12:00,Medium,Weekend,Medium
+TXN00440,DCB Bank Limited,2022-23,14.088787687702666,1,00:00-04:00,Medium,Weekday,Medium
+TXN00257,City Union Bank Limited,2021-22,19.785760599125652,1,20:00-00:00,Medium,Weekday,Medium
+TXN00059,Bandhan Bank Limited,2021-22,94.45,0,16:00-20:00,Large,Weekday,Low
+TXN00102,IDBI Bank Limited,2022-23,9.51,1,00:00-04:00,Small,Weekend,Medium
+TXN00296,City Union Bank Limited,2023-24,19.934956898542037,1,04:00-08:00,Medium,Weekday,Medium
+TXN00482,DCB Bank Limited,2023-24,25.86,0,12:00-16:00,Medium,Weekday,Medium
+TXN00361,Jammu and Kashmir Bank Limited,2021-22,9.12,0,12:00-16:00,Small,Weekend,Low
+TXN00173,Jammu and Kashmir Bank Limited,2022-23,8.383682665049877,1,04:00-08:00,Small,Weekday,High
+TXN00492,Karnataka Bank Limited,2021-22,17.58135232518667,1,04:00-08:00,Medium,Weekday,Medium
+TXN00301,Yes Bank Limited,2023-24,21.3,0,16:00-20:00,Medium,Weekend,Low
+TXN00461,IDBI Bank Limited,2022-23,27.61,0,08:00-12:00,Medium,Weekend,Medium
+TXN00014,City Union Bank Limited,2022-23,13.74,1,00:00-04:00,Medium,Weekday,High
+TXN00454,South Indian Bank Limited,2022-23,73.84,1,20:00-00:00,Large,Weekend,Medium
+TXN00331,HDFC Bank Limited,2022-23,8.28,1,20:00-00:00,Small,Weekday,High
+TXN00149,The Dhanalakshmi Bank Limited,2023-24,7.32,0,08:00-12:00,Small,Weekday,Low
+TXN00469,Yes Bank Limited,2021-22,13.24,0,12:00-16:00,Medium,Weekday,Low
+TXN00249,RBL Bank Limited,2023-24,4.48,0,08:00-12:00,Small,Weekday,Low
+TXN00285,Tamilnad Mercantile Bank Limited,2021-22,10.415751542026623,1,20:00-00:00,Medium,Weekday,High
+TXN00111,ICICI Bank Limited,2022-23,27.81,0,08:00-12:00,Medium,Weekday,High
+TXN00203,Axis Bank Limited,2023-24,4.1,0,08:00-12:00,Small,Weekday,Low
+TXN00478,CSB Bank Limited,2021-22,36.550181202880246,1,00:00-04:00,Medium,Weekend,Medium
+TXN00020,Yes Bank Limited,2021-22,22.42017212000082,1,20:00-00:00,Medium,Weekday,High
+TXN00188,Bandhan Bank Limited,2021-22,18.28,1,20:00-00:00,Medium,Weekend,Medium
+TXN00169,The Dhanalakshmi Bank Limited,2022-23,4.331839464425069,1,20:00-00:00,Small,Weekday,High
+TXN00338,Karnataka Bank Limited,2022-23,8.44,0,08:00-12:00,Small,Weekday,Low
+TXN00299,Jammu and Kashmir Bank Limited,2021-22,12.78,1,20:00-00:00,Medium,Weekday,Medium
+TXN00387,Kotak Mahindra Bank Limited,2023-24,11.5,1,00:00-04:00,Medium,Weekday,High
+TXN00184,DCB Bank Limited,2022-23,9.14,0,12:00-16:00,Small,Weekend,Medium
+TXN00072,Karur Vysya Bank Limited,2023-24,3.47,0,12:00-16:00,Small,Weekday,Low
+TXN00459,Bandhan Bank Limited,2023-24,3.7956926636954518,1,04:00-08:00,Small,Weekday,High
+TXN00476,City Union Bank Limited,2021-22,5.04,0,08:00-12:00,Small,Weekday,Low
+TXN00230,The Dhanalakshmi Bank Limited,2022-23,2.1,0,08:00-12:00,Small,Weekend,Medium
+TXN00123,IDBI Bank Limited,2023-24,43.36325023941644,1,04:00-08:00,Medium,Weekday,Low
+TXN00293,Nainital Bank Limited,2022-23,51.32,0,16:00-20:00,Large,Weekday,Low
+TXN00189,Yes Bank Limited,2021-22,31.38181144396528,1,20:00-00:00,Medium,Weekend,High
+TXN00116,Kotak Mahindra Bank Limited,2022-23,28.57,0,12:00-16:00,Medium,Weekday,High
+TXN00149,The Dhanalakshmi Bank Limited,2023-24,7.32,0,12:00-16:00,Small,Weekday,Low
+TXN00314,City Union Bank Limited,2023-24,8.27,0,08:00-12:00,Small,Weekday,Low
+TXN00048,HDFC Bank Limited,2022-23,4.13,0,12:00-16:00,Small,Weekday,Low
+TXN00402,Karur Vysya Bank Limited,2023-24,5.280595889619795,1,00:00-04:00,Small,Weekday,Medium
+TXN00026,Nainital Bank Limited,2023-24,6.54,1,20:00-00:00,Small,Weekend,Medium
+TXN00410,Nainital Bank Limited,2022-23,18.11,1,04:00-08:00,Medium,Weekday,High
+TXN00167,Kotak Mahindra Bank Limited,2021-22,10.57,0,08:00-12:00,Medium,Weekend,Low
+TXN00040,CSB Bank Limited,2021-22,12.44,0,12:00-16:00,Medium,Weekend,Low
+TXN00134,HDFC Bank Limited,2023-24,5.48,0,08:00-12:00,Small,Weekday,Low
+TXN00392,Yes Bank Limited,2021-22,11.42,1,04:00-08:00,Medium,Weekend,High
+TXN00497,IDBI Bank Limited,2023-24,13.47,1,20:00-00:00,Medium,Weekday,Medium
+TXN00204,IDBI Bank Limited,2021-22,23.94737290759908,1,20:00-00:00,Medium,Weekday,High
+TXN00253,ICICI Bank Limited,2023-24,16.03,1,04:00-08:00,Medium,Weekday,Medium
+TXN00393,Axis Bank Limited,2022-23,12.07223029712826,1,00:00-04:00,Medium,Weekday,High
+TXN00135,Karnataka Bank Limited,2023-24,26.77,0,08:00-12:00,Medium,Weekday,Medium
+TXN00116,Kotak Mahindra Bank Limited,2022-23,28.57,0,12:00-16:00,Medium,Weekday,Low
+TXN00008,Tamilnad Mercantile Bank Limited,2022-23,11.28,0,12:00-16:00,Medium,Weekday,High
+TXN00087,Axis Bank Limited,2022-23,17.18,0,08:00-12:00,Medium,Weekday,Medium
+TXN00107,Nainital Bank Limited,2022-23,10.49,1,00:00-04:00,Medium,Weekend,Medium
+TXN00008,Tamilnad Mercantile Bank Limited,2022-23,11.28,0,12:00-16:00,Medium,Weekday,Low
+TXN00203,Axis Bank Limited,2023-24,4.1,0,08:00-12:00,Small,Weekday,Low
+TXN00476,City Union Bank Limited,2021-22,5.04,0,16:00-20:00,Small,Weekend,Low
+TXN00234,Nainital Bank Limited,2022-23,21.47,0,08:00-12:00,Medium,Weekend,Medium
+TXN00469,Yes Bank Limited,2021-22,13.24,0,16:00-20:00,Medium,Weekday,Low
+TXN00295,CSB Bank Limited,2021-22,7.679213931192847,1,04:00-08:00,Small,Weekday,Medium
+TXN00303,City Union Bank Limited,2022-23,24.93,0,16:00-20:00,Medium,Weekend,Medium
+TXN00335,Karnataka Bank Limited,2021-22,15.689901706130382,1,04:00-08:00,Medium,Weekend,High
+TXN00181,RBL Bank Limited,2021-22,21.02,1,20:00-00:00,Medium,Weekday,High
+TXN00002,The Dhanalakshmi Bank Limited,2023-24,19.78,0,08:00-12:00,Medium,Weekday,Medium
+TXN00230,The Dhanalakshmi Bank Limited,2022-23,2.1,0,08:00-12:00,Small,Weekday,Low
+TXN00365,CSB Bank Limited,2023-24,8.38,0,12:00-16:00,Small,Weekday,Medium
+TXN00322,Bandhan Bank Limited,2023-24,17.20255185331649,1,00:00-04:00,Medium,Weekday,High
+TXN00118,City Union Bank Limited,2021-22,41.10733539694817,1,00:00-04:00,Medium,Weekday,Medium
+TXN00452,Bandhan Bank Limited,2022-23,25.42697154360824,1,00:00-04:00,Medium,Weekday,High
+TXN00249,RBL Bank Limited,2023-24,4.48,0,12:00-16:00,Small,Weekday,Medium
+TXN00365,CSB Bank Limited,2023-24,8.38,0,08:00-12:00,Small,Weekday,Medium
+TXN00083,Karnataka Bank Limited,2021-22,23.74,0,08:00-12:00,Medium,Weekday,Low
+TXN00164,Tamilnad Mercantile Bank Limited,2023-24,15.92,0,12:00-16:00,Medium,Weekday,Medium
+TXN00101,HDFC Bank Limited,2023-24,8.545068322296949,1,04:00-08:00,Small,Weekday,High
+TXN00304,IDBI Bank Limited,2022-23,20.83459292332065,1,20:00-00:00,Medium,Weekday,Medium
+TXN00466,Karnataka Bank Limited,2021-22,24.11,0,08:00-12:00,Medium,Weekday,Low
+TXN00301,Yes Bank Limited,2023-24,21.3,0,12:00-16:00,Medium,Weekday,Low
+TXN00430,Bandhan Bank Limited,2023-24,16.582881424752237,1,04:00-08:00,Medium,Weekday,High
+TXN00302,Federal Bank Limited,2022-23,17.543506190245616,1,20:00-00:00,Medium,Weekday,Medium
+TXN00267,CSB Bank Limited,2021-22,13.375009042702391,1,04:00-08:00,Medium,Weekend,Low
+TXN00451,Karur Vysya Bank Limited,2023-24,45.31,0,12:00-16:00,Medium,Weekday,Low
+TXN00264,IDBI Bank Limited,2022-23,51.46,0,16:00-20:00,Large,Weekday,High
+TXN00134,HDFC Bank Limited,2023-24,5.48,0,08:00-12:00,Small,Weekday,Low
+TXN00022,Jammu and Kashmir Bank Limited,2023-24,10.52,0,08:00-12:00,Medium,Weekend,High
+TXN00351,RBL Bank Limited,2021-22,7.920066498465354,1,00:00-04:00,Small,Weekday,Medium
+TXN00139,Karnataka Bank Limited,2022-23,4.96,1,04:00-08:00,Small,Weekday,High
+TXN00132,CSB Bank Limited,2023-24,13.733683037884996,1,04:00-08:00,Medium,Weekend,Medium
+TXN00221,ICICI Bank Limited,2023-24,31.69,0,08:00-12:00,Medium,Weekday,Low
+TXN00249,RBL Bank Limited,2023-24,4.48,0,12:00-16:00,Small,Weekday,Medium
+TXN00428,Nainital Bank Limited,2022-23,17.6438013554457,1,00:00-04:00,Medium,Weekday,Medium
+TXN00142,Bandhan Bank Limited,2023-24,18.06,1,00:00-04:00,Medium,Weekday,High
+TXN00188,Bandhan Bank Limited,2021-22,17.94691929407801,1,04:00-08:00,Medium,Weekday,High
+TXN00002,The Dhanalakshmi Bank Limited,2023-24,19.78,0,12:00-16:00,Medium,Weekend,Low
+TXN00260,South Indian Bank Limited,2021-22,21.70995402671219,1,04:00-08:00,Medium,Weekend,Medium
+TXN00423,Tamilnad Mercantile Bank Limited,2021-22,15.52,1,00:00-04:00,Medium,Weekday,Medium
+TXN00312,Yes Bank Limited,2021-22,14.27,1,20:00-00:00,Medium,Weekday,Medium
+TXN00429,Nainital Bank Limited,2022-23,48.437464221478294,1,00:00-04:00,Medium,Weekday,High
+TXN00170,RBL Bank Limited,2021-22,6.397487497570293,1,00:00-04:00,Small,Weekday,High
+TXN00039,South Indian Bank Limited,2022-23,7.828109779474343,1,00:00-04:00,Small,Weekend,Medium
+TXN00182,Bandhan Bank Limited,2023-24,56.28297687633603,1,00:00-04:00,Large,Weekday,High
+TXN00053,Karur Vysya Bank Limited,2023-24,18.08,1,04:00-08:00,Medium,Weekend,Medium
+TXN00365,CSB Bank Limited,2023-24,8.38,0,08:00-12:00,Small,Weekday,Low
+TXN00130,RBL Bank Limited,2021-22,6.59,0,12:00-16:00,Small,Weekday,Low
+TXN00253,ICICI Bank Limited,2023-24,16.515954250663608,1,04:00-08:00,Medium,Weekend,High
+TXN00198,Bandhan Bank Limited,2022-23,8.251222844223516,1,00:00-04:00,Small,Weekend,High
+TXN00115,DCB Bank Limited,2023-24,13.315869493873336,1,20:00-00:00,Medium,Weekday,Medium
+TXN00355,Kotak Mahindra Bank Limited,2021-22,18.82,0,12:00-16:00,Medium,Weekend,Medium
+TXN00264,IDBI Bank Limited,2022-23,51.46,0,12:00-16:00,Large,Weekday,Low
+TXN00006,Yes Bank Limited,2022-23,47.33,1,20:00-00:00,Medium,Weekday,High
+TXN00134,HDFC Bank Limited,2023-24,5.48,0,16:00-20:00,Small,Weekend,High
+TXN00147,Jammu and Kashmir Bank Limited,2021-22,7.4,0,12:00-16:00,Small,Weekend,Medium
+TXN00307,Karur Vysya Bank Limited,2023-24,34.95,1,20:00-00:00,Medium,Weekend,High
+TXN00088,Jammu and Kashmir Bank Limited,2021-22,14.38,0,12:00-16:00,Medium,Weekday,Medium
+TXN00221,ICICI Bank Limited,2023-24,31.69,0,08:00-12:00,Medium,Weekend,Low
+TXN00144,Karnataka Bank Limited,2022-23,78.50866900600842,1,04:00-08:00,Large,Weekend,High
+TXN00471,IDFC First Bank Limited,2021-22,6.66,0,16:00-20:00,Small,Weekday,Low
+TXN00482,DCB Bank Limited,2023-24,25.86,0,08:00-12:00,Medium,Weekday,Low
+TXN00400,Tamilnad Mercantile Bank Limited,2021-22,10.695437794466793,1,04:00-08:00,Medium,Weekend,High
+TXN00451,Karur Vysya Bank Limited,2023-24,45.31,0,12:00-16:00,Medium,Weekday,Low
+TXN00352,The Dhanalakshmi Bank Limited,2022-23,7.12,1,00:00-04:00,Small,Weekday,High
+TXN00222,Axis Bank Limited,2023-24,3.6,0,08:00-12:00,Small,Weekend,Medium
+TXN00314,City Union Bank Limited,2023-24,8.27,0,12:00-16:00,Small,Weekend,Low
+TXN00364,HDFC Bank Limited,2022-23,30.84,1,20:00-00:00,Medium,Weekday,Low
+TXN00177,RBL Bank Limited,2021-22,91.98,1,04:00-08:00,Large,Weekend,Medium
+TXN00287,Bandhan Bank Limited,2021-22,14.39,0,16:00-20:00,Medium,Weekday,Medium
+TXN00471,IDFC First Bank Limited,2021-22,6.66,0,16:00-20:00,Small,Weekday,Medium
+TXN00115,DCB Bank Limited,2023-24,14.285997061556087,1,20:00-00:00,Medium,Weekend,High
+TXN00057,ICICI Bank Limited,2021-22,7.69,1,20:00-00:00,Small,Weekday,High
+TXN00404,Kotak Mahindra Bank Limited,2023-24,5.24,0,12:00-16:00,Small,Weekday,Low
+TXN00044,Yes Bank Limited,2023-24,6.347361499737633,1,04:00-08:00,Small,Weekday,Low
+TXN00435,City Union Bank Limited,2021-22,20.87781623419957,1,00:00-04:00,Medium,Weekend,Low
+TXN00230,The Dhanalakshmi Bank Limited,2022-23,2.1,0,08:00-12:00,Small,Weekday,Low
+TXN00104,Jammu and Kashmir Bank Limited,2023-24,8.31,0,12:00-16:00,Small,Weekday,Low
+TXN00279,Jammu and Kashmir Bank Limited,2023-24,5.62,0,08:00-12:00,Small,Weekend,High
+TXN00218,ICICI Bank Limited,2023-24,5.392298416339156,1,20:00-00:00,Small,Weekend,Low
+TXN00219,HDFC Bank Limited,2021-22,13.640494789182114,1,00:00-04:00,Medium,Weekday,High
+TXN00179,RBL Bank Limited,2021-22,8.36198394592029,1,20:00-00:00,Small,Weekend,High
+TXN00457,ICICI Bank Limited,2021-22,1.65,1,04:00-08:00,Small,Weekday,Medium
+TXN00125,Kotak Mahindra Bank Limited,2023-24,9.018115966877762,1,00:00-04:00,Small,Weekday,High
+TXN00372,The Dhanalakshmi Bank Limited,2022-23,8.21,1,04:00-08:00,Small,Weekend,High
+TXN00023,Jammu and Kashmir Bank Limited,2023-24,12.36,1,04:00-08:00,Medium,Weekday,Medium
+TXN00060,Federal Bank Limited,2023-24,10.884292898851351,1,20:00-00:00,Medium,Weekend,High
+TXN00041,Karur Vysya Bank Limited,2023-24,18.43,1,00:00-04:00,Medium,Weekday,High
+TXN00057,ICICI Bank Limited,2021-22,7.9456623265247615,1,00:00-04:00,Small,Weekday,High
+TXN00048,HDFC Bank Limited,2022-23,4.13,0,12:00-16:00,Small,Weekday,Low
+TXN00255,City Union Bank Limited,2021-22,20.63680864495283,1,04:00-08:00,Medium,Weekend,Low
+TXN00072,Karur Vysya Bank Limited,2023-24,3.47,0,08:00-12:00,Small,Weekday,Medium
+TXN00467,IndusInd Bank Limited,2023-24,22.36,1,04:00-08:00,Medium,Weekday,High
+TXN00060,Federal Bank Limited,2023-24,11.375245213477989,1,20:00-00:00,Medium,Weekday,High
+TXN00291,Axis Bank Limited,2022-23,5.665931108805837,1,20:00-00:00,Small,Weekday,High
+TXN00179,RBL Bank Limited,2021-22,7.686583757709006,1,00:00-04:00,Small,Weekday,Medium
+TXN00365,CSB Bank Limited,2023-24,8.38,0,08:00-12:00,Small,Weekday,Low
+TXN00113,Axis Bank Limited,2023-24,15.08,0,12:00-16:00,Medium,Weekend,Medium
+TXN00121,Karur Vysya Bank Limited,2023-24,8.53,0,12:00-16:00,Small,Weekday,Low
+TXN00284,Karnataka Bank Limited,2021-22,24.58,1,00:00-04:00,Medium,Weekday,Medium
+TXN00088,Jammu and Kashmir Bank Limited,2021-22,14.38,0,12:00-16:00,Medium,Weekday,Medium
+TXN00205,Federal Bank Limited,2023-24,20.42,0,08:00-12:00,Medium,Weekday,Low
+TXN00197,The Dhanalakshmi Bank Limited,2021-22,14.90206643133382,1,20:00-00:00,Medium,Weekday,Medium
+TXN00072,Karur Vysya Bank Limited,2023-24,3.47,0,08:00-12:00,Small,Weekday,Low
+TXN00016,Bandhan Bank Limited,2022-23,11.817061887725464,1,00:00-04:00,Medium,Weekend,Low
+TXN00182,Bandhan Bank Limited,2023-24,53.38,1,00:00-04:00,Large,Weekday,Low
+TXN00336,HDFC Bank Limited,2023-24,28.02099889817615,1,04:00-08:00,Medium,Weekday,Medium
+TXN00258,South Indian Bank Limited,2021-22,33.16081806236523,1,00:00-04:00,Medium,Weekday,High
+TXN00469,Yes Bank Limited,2021-22,13.24,0,16:00-20:00,Medium,Weekend,Low
+TXN00031,The Dhanalakshmi Bank Limited,2021-22,26.976247032227427,1,04:00-08:00,Medium,Weekend,High
+TXN00200,IndusInd Bank Limited,2023-24,35.71471931863108,1,04:00-08:00,Medium,Weekday,High
+TXN00222,Axis Bank Limited,2023-24,3.6,0,08:00-12:00,Small,Weekday,Medium
+TXN00054,RBL Bank Limited,2022-23,13.597457850098081,1,00:00-04:00,Medium,Weekday,High
+TXN00065,Bandhan Bank Limited,2022-23,7.38,0,12:00-16:00,Small,Weekday,Low
+TXN00020,Yes Bank Limited,2021-22,22.08,1,20:00-00:00,Medium,Weekday,Medium
+TXN00152,Axis Bank Limited,2021-22,7.72,1,00:00-04:00,Small,Weekday,High
+TXN00203,Axis Bank Limited,2023-24,4.1,0,12:00-16:00,Small,Weekday,Medium
+TXN00164,Tamilnad Mercantile Bank Limited,2023-24,15.92,0,12:00-16:00,Medium,Weekday,High
+TXN00167,Kotak Mahindra Bank Limited,2021-22,10.57,0,16:00-20:00,Medium,Weekday,Low
+TXN00418,DCB Bank Limited,2022-23,29.706419030117768,1,20:00-00:00,Medium,Weekday,High
+TXN00500,IDBI Bank Limited,2022-23,20.535853901489126,1,20:00-00:00,Medium,Weekday,Low
+TXN00293,Nainital Bank Limited,2022-23,51.32,0,16:00-20:00,Large,Weekend,Low
+TXN00223,IndusInd Bank Limited,2022-23,7.79,1,20:00-00:00,Small,Weekday,High
+TXN00313,Axis Bank Limited,2021-22,7.23,0,12:00-16:00,Small,Weekday,Low
+TXN00497,IDBI Bank Limited,2023-24,14.558094433558269,1,00:00-04:00,Medium,Weekend,Low
+TXN00279,Jammu and Kashmir Bank Limited,2023-24,5.62,0,16:00-20:00,Small,Weekday,Low
+TXN00184,DCB Bank Limited,2022-23,9.14,0,08:00-12:00,Small,Weekend,High
+TXN00267,CSB Bank Limited,2021-22,14.009032551414544,1,00:00-04:00,Medium,Weekday,High
+TXN00211,City Union Bank Limited,2021-22,11.29,1,00:00-04:00,Medium,Weekend,High
+TXN00349,Bandhan Bank Limited,2023-24,18.09,1,04:00-08:00,Medium,Weekend,Low
+TXN00105,Bandhan Bank Limited,2021-22,30.477831740289872,1,00:00-04:00,Medium,Weekday,Medium
+TXN00361,Jammu and Kashmir Bank Limited,2021-22,9.12,0,16:00-20:00,Small,Weekday,Medium
+TXN00088,Jammu and Kashmir Bank Limited,2021-22,14.38,0,08:00-12:00,Medium,Weekday,Low
+TXN00104,Jammu and Kashmir Bank Limited,2023-24,8.31,0,12:00-16:00,Small,Weekday,Medium
+TXN00476,City Union Bank Limited,2021-22,5.04,0,12:00-16:00,Small,Weekday,Low
+TXN00050,ICICI Bank Limited,2021-22,30.666367678908806,1,00:00-04:00,Medium,Weekday,Medium
+TXN00293,Nainital Bank Limited,2022-23,51.32,0,08:00-12:00,Large,Weekday,Low
+TXN00297,RBL Bank Limited,2022-23,37.32,0,08:00-12:00,Medium,Weekend,Low
+TXN00062,CSB Bank Limited,2023-24,6.483355974643865,1,00:00-04:00,Small,Weekend,High
+TXN00186,Axis Bank Limited,2022-23,29.58,1,20:00-00:00,Medium,Weekday,High
+TXN00249,RBL Bank Limited,2023-24,4.48,0,16:00-20:00,Small,Weekday,Low
+TXN00088,Jammu and Kashmir Bank Limited,2021-22,14.38,0,12:00-16:00,Medium,Weekday,Low
+TXN00019,Bandhan Bank Limited,2022-23,4.14,1,20:00-00:00,Small,Weekday,High
+TXN00120,DCB Bank Limited,2023-24,9.11,0,08:00-12:00,Small,Weekend,Low
+TXN00314,City Union Bank Limited,2023-24,8.27,0,16:00-20:00,Small,Weekday,Low
+TXN00276,RBL Bank Limited,2022-23,22.38,0,08:00-12:00,Medium,Weekday,Low
+TXN00378,RBL Bank Limited,2022-23,8.579885727710273,1,20:00-00:00,Small,Weekend,Medium
+TXN00482,DCB Bank Limited,2023-24,25.86,0,08:00-12:00,Medium,Weekday,Low
+TXN00269,Karur Vysya Bank Limited,2023-24,21.855973329228732,1,04:00-08:00,Medium,Weekend,High
+TXN00234,Nainital Bank Limited,2022-23,21.47,0,16:00-20:00,Medium,Weekend,Low
+TXN00466,Karnataka Bank Limited,2021-22,24.11,0,08:00-12:00,Medium,Weekday,High
+TXN00116,Kotak Mahindra Bank Limited,2022-23,28.57,0,16:00-20:00,Medium,Weekday,Low
+TXN00451,Karur Vysya Bank Limited,2023-24,45.31,0,12:00-16:00,Medium,Weekend,Medium
+TXN00001,HDFC Bank Limited,2022-23,3.369604053343308,1,00:00-04:00,Small,Weekday,Medium
+TXN00360,Yes Bank Limited,2023-24,3.03,0,12:00-16:00,Small,Weekday,Low
+TXN00329,IndusInd Bank Limited,2022-23,16.77,1,00:00-04:00,Medium,Weekday,Medium
+TXN00152,Axis Bank Limited,2021-22,8.358740089346375,1,20:00-00:00,Small,Weekday,High
+TXN00360,Yes Bank Limited,2023-24,3.03,0,12:00-16:00,Small,Weekday,Low
+TXN00261,Bandhan Bank Limited,2021-22,11.34,1,00:00-04:00,Medium,Weekday,High
+TXN00030,Jammu and Kashmir Bank Limited,2021-22,3.12,1,20:00-00:00,Small,Weekend,High
+TXN00482,DCB Bank Limited,2023-24,25.86,0,08:00-12:00,Medium,Weekday,Low
+TXN00316,IDFC First Bank Limited,2023-24,17.73782498144149,1,00:00-04:00,Medium,Weekend,Medium
+TXN00130,RBL Bank Limited,2021-22,6.59,0,12:00-16:00,Small,Weekend,Medium
+TXN00167,Kotak Mahindra Bank Limited,2021-22,10.57,0,12:00-16:00,Medium,Weekend,Low
+TXN00266,Axis Bank Limited,2023-24,3.88,1,20:00-00:00,Small,Weekend,High
+TXN00043,IDBI Bank Limited,2022-23,14.15,1,00:00-04:00,Medium,Weekday,High
+TXN00188,Bandhan Bank Limited,2021-22,19.75038301698694,1,20:00-00:00,Medium,Weekday,Medium
+TXN00338,Karnataka Bank Limited,2022-23,8.44,0,12:00-16:00,Small,Weekend,Low
+TXN00489,RBL Bank Limited,2021-22,7.53,0,08:00-12:00,Small,Weekend,High
+TXN00198,Bandhan Bank Limited,2022-23,8.020895760479235,1,04:00-08:00,Small,Weekend,High
+TXN00264,IDBI Bank Limited,2022-23,51.46,0,16:00-20:00,Large,Weekend,Low
+TXN00033,DCB Bank Limited,2022-23,14.95,0,16:00-20:00,Medium,Weekday,Medium
+TXN00188,Bandhan Bank Limited,2021-22,18.906986402903335,1,00:00-04:00,Medium,Weekday,High
+TXN00451,Karur Vysya Bank Limited,2023-24,45.31,0,12:00-16:00,Medium,Weekend,Medium
+TXN00143,IDFC First Bank Limited,2022-23,14.944114172183776,1,20:00-00:00,Medium,Weekday,Medium
+TXN00111,ICICI Bank Limited,2022-23,27.81,0,16:00-20:00,Medium,Weekday,Low
+TXN00134,HDFC Bank Limited,2023-24,5.48,0,12:00-16:00,Small,Weekday,Medium
+TXN00008,Tamilnad Mercantile Bank Limited,2022-23,11.28,0,08:00-12:00,Medium,Weekend,Medium
+TXN00360,Yes Bank Limited,2023-24,3.03,0,16:00-20:00,Small,Weekday,Low
+TXN00338,Karnataka Bank Limited,2022-23,8.44,0,08:00-12:00,Small,Weekday,Low
+TXN00489,RBL Bank Limited,2021-22,7.53,0,12:00-16:00,Small,Weekday,Low
+TXN00135,Karnataka Bank Limited,2023-24,26.77,0,08:00-12:00,Medium,Weekday,Low
+TXN00330,Nainital Bank Limited,2022-23,20.45,0,12:00-16:00,Medium,Weekend,High
+TXN00425,DCB Bank Limited,2022-23,12.70753989018785,1,20:00-00:00,Medium,Weekday,High
+TXN00114,City Union Bank Limited,2023-24,24.82,0,08:00-12:00,Medium,Weekday,Medium
+TXN00189,Yes Bank Limited,2021-22,28.6,1,00:00-04:00,Medium,Weekday,Low
+TXN00153,Axis Bank Limited,2021-22,5.9020142265847975,1,04:00-08:00,Small,Weekend,High
+TXN00147,Jammu and Kashmir Bank Limited,2021-22,7.4,0,08:00-12:00,Small,Weekday,Medium
+TXN00005,ICICI Bank Limited,2023-24,2.307592768281239,1,04:00-08:00,Small,Weekend,Low
+TXN00135,Karnataka Bank Limited,2023-24,26.77,0,08:00-12:00,Medium,Weekday,Medium
+TXN00285,Tamilnad Mercantile Bank Limited,2021-22,10.926035830253364,1,00:00-04:00,Medium,Weekday,Low
+TXN00210,Tamilnad Mercantile Bank Limited,2023-24,44.18975246231035,1,20:00-00:00,Medium,Weekday,High
+TXN00180,RBL Bank Limited,2021-22,28.09,1,04:00-08:00,Medium,Weekday,Medium
+TXN00149,The Dhanalakshmi Bank Limited,2023-24,7.32,0,12:00-16:00,Small,Weekday,Low
+TXN00287,Bandhan Bank Limited,2021-22,14.39,0,12:00-16:00,Medium,Weekend,Low
+TXN00446,IDFC First Bank Limited,2021-22,5.580992354969703,1,20:00-00:00,Small,Weekday,Medium
+TXN00072,Karur Vysya Bank Limited,2023-24,3.47,0,08:00-12:00,Small,Weekday,Low
+TXN00048,HDFC Bank Limited,2022-23,4.13,0,12:00-16:00,Small,Weekday,Low
+TXN00033,DCB Bank Limited,2022-23,14.95,0,08:00-12:00,Medium,Weekday,Medium
+TXN00123,IDBI Bank Limited,2023-24,43.11,1,04:00-08:00,Medium,Weekday,Medium
+TXN00293,Nainital Bank Limited,2022-23,51.32,0,16:00-20:00,Large,Weekend,Low
+TXN00330,Nainital Bank Limited,2022-23,20.45,0,12:00-16:00,Medium,Weekday,Medium
+TXN00295,CSB Bank Limited,2021-22,7.461485378143932,1,04:00-08:00,Small,Weekday,High
+TXN00279,Jammu and Kashmir Bank Limited,2023-24,5.62,0,16:00-20:00,Small,Weekend,Low
+TXN00403,DCB Bank Limited,2021-22,19.89,0,16:00-20:00,Medium,Weekend,Low
+TXN00061,IDFC First Bank Limited,2021-22,30.55,1,00:00-04:00,Medium,Weekday,High
+TXN00179,RBL Bank Limited,2021-22,8.24,1,00:00-04:00,Small,Weekend,High
+TXN00462,HDFC Bank Limited,2021-22,85.78,1,00:00-04:00,Large,Weekday,High
+TXN00264,IDBI Bank Limited,2022-23,51.46,0,08:00-12:00,Large,Weekday,Low
+TXN00242,Nainital Bank Limited,2022-23,5.18,1,00:00-04:00,Small,Weekday,High
+TXN00360,Yes Bank Limited,2023-24,3.03,0,08:00-12:00,Small,Weekday,Low
+TXN00451,Karur Vysya Bank Limited,2023-24,45.31,0,08:00-12:00,Medium,Weekday,Low
+TXN00476,City Union Bank Limited,2021-22,5.04,0,08:00-12:00,Small,Weekend,Medium
+TXN00011,Yes Bank Limited,2023-24,11.82,1,00:00-04:00,Medium,Weekday,High
+TXN00134,HDFC Bank Limited,2023-24,5.48,0,12:00-16:00,Small,Weekday,Low
+TXN00033,DCB Bank Limited,2022-23,14.95,0,08:00-12:00,Medium,Weekday,Medium
+TXN00111,ICICI Bank Limited,2022-23,27.81,0,12:00-16:00,Medium,Weekend,Low
+TXN00177,RBL Bank Limited,2021-22,94.57036351310227,1,00:00-04:00,Large,Weekday,High
+TXN00294,Tamilnad Mercantile Bank Limited,2021-22,20.34,1,20:00-00:00,Medium,Weekday,Medium
+TXN00476,City Union Bank Limited,2021-22,5.04,0,08:00-12:00,Small,Weekday,Low
+TXN00105,Bandhan Bank Limited,2021-22,31.31875233384242,1,20:00-00:00,Medium,Weekday,Medium
+TXN00072,Karur Vysya Bank Limited,2023-24,3.47,0,16:00-20:00,Small,Weekday,Medium
+TXN00353,IDFC First Bank Limited,2021-22,12.050336570604724,1,04:00-08:00,Medium,Weekday,High
+TXN00116,Kotak Mahindra Bank Limited,2022-23,28.57,0,08:00-12:00,Medium,Weekday,Low
+TXN00365,CSB Bank Limited,2023-24,8.38,0,12:00-16:00,Small,Weekday,Medium
+TXN00158,HDFC Bank Limited,2022-23,3.6871711745095195,1,00:00-04:00,Small,Weekend,High
+TXN00397,City Union Bank Limited,2023-24,27.07,1,00:00-04:00,Medium,Weekday,Medium
+TXN00365,CSB Bank Limited,2023-24,8.38,0,12:00-16:00,Small,Weekday,Low
+TXN00306,RBL Bank Limited,2023-24,7.94,1,04:00-08:00,Small,Weekday,High
+TXN00471,IDFC First Bank Limited,2021-22,6.66,0,12:00-16:00,Small,Weekend,Low
+TXN00121,Karur Vysya Bank Limited,2023-24,8.53,0,12:00-16:00,Small,Weekday,Low
+TXN00120,DCB Bank Limited,2023-24,9.11,0,16:00-20:00,Small,Weekday,Low
+TXN00178,DCB Bank Limited,2021-22,7.97,1,20:00-00:00,Small,Weekday,High
+TXN00220,South Indian Bank Limited,2021-22,6.72603801732048,1,20:00-00:00,Small,Weekday,High
+TXN00138,CSB Bank Limited,2023-24,21.073780996878927,1,20:00-00:00,Medium,Weekday,High
+TXN00221,ICICI Bank Limited,2023-24,31.69,0,12:00-16:00,Medium,Weekday,Medium
+TXN00130,RBL Bank Limited,2021-22,6.59,0,08:00-12:00,Small,Weekday,Medium
+TXN00160,ICICI Bank Limited,2022-23,49.95767135499421,1,04:00-08:00,Medium,Weekday,High
+TXN00059,Bandhan Bank Limited,2021-22,94.45,0,12:00-16:00,Large,Weekday,Low
+TXN00426,Karnataka Bank Limited,2022-23,17.365388816441538,1,04:00-08:00,Medium,Weekday,High
+TXN00367,Karnataka Bank Limited,2021-22,11.28527675120163,1,04:00-08:00,Medium,Weekend,High
+TXN00264,IDBI Bank Limited,2022-23,51.46,0,08:00-12:00,Large,Weekend,Low
+TXN00022,Jammu and Kashmir Bank Limited,2023-24,10.52,0,12:00-16:00,Medium,Weekday,Low
+TXN00173,Jammu and Kashmir Bank Limited,2022-23,8.05,1,04:00-08:00,Small,Weekend,Medium
+TXN00313,Axis Bank Limited,2021-22,7.23,0,12:00-16:00,Small,Weekday,Medium
+TXN00222,Axis Bank Limited,2023-24,3.6,0,08:00-12:00,Small,Weekend,Low
+TXN00460,Tamilnad Mercantile Bank Limited,2023-24,3.27,1,00:00-04:00,Small,Weekend,High
+TXN00449,Karnataka Bank Limited,2022-23,7.226282728441839,1,00:00-04:00,Small,Weekend,Medium
+TXN00135,Karnataka Bank Limited,2023-24,26.77,0,12:00-16:00,Medium,Weekday,Low
+TXN00210,Tamilnad Mercantile Bank Limited,2023-24,45.88715295775207,1,00:00-04:00,Medium,Weekday,Medium
+TXN00471,IDFC First Bank Limited,2021-22,6.66,0,16:00-20:00,Small,Weekday,Medium
+TXN00025,IDFC First Bank Limited,2021-22,7.4976281961621085,1,00:00-04:00,Small,Weekday,High
+TXN00114,City Union Bank Limited,2023-24,24.82,0,08:00-12:00,Medium,Weekday,Low
+TXN00217,Axis Bank Limited,2022-23,28.76,1,04:00-08:00,Medium,Weekend,High
+TXN00088,Jammu and Kashmir Bank Limited,2021-22,14.38,0,08:00-12:00,Medium,Weekday,Medium
+TXN00230,The Dhanalakshmi Bank Limited,2022-23,2.1,0,12:00-16:00,Small,Weekday,Low
+TXN00169,The Dhanalakshmi Bank Limited,2022-23,4.278777261153132,1,04:00-08:00,Small,Weekday,High
+TXN00170,RBL Bank Limited,2021-22,6.79,1,04:00-08:00,Small,Weekend,High
+TXN00269,Karur Vysya Bank Limited,2023-24,26.17346487065734,1,04:00-08:00,Medium,Weekend,High
+TXN00493,Tamilnad Mercantile Bank Limited,2021-22,11.99,0,12:00-16:00,Medium,Weekend,Medium
+TXN00098,IDFC First Bank Limited,2023-24,8.639638404375786,1,20:00-00:00,Small,Weekend,High
+TXN00231,RBL Bank Limited,2021-22,17.32,1,04:00-08:00,Medium,Weekday,High
+TXN00355,Kotak Mahindra Bank Limited,2021-22,18.82,0,12:00-16:00,Medium,Weekday,High
+TXN00015,Yes Bank Limited,2021-22,9.020081093424261,1,20:00-00:00,Small,Weekend,Low
+TXN00325,RBL Bank Limited,2022-23,19.9,1,20:00-00:00,Medium,Weekend,High
+TXN00341,ICICI Bank Limited,2021-22,10.61,1,04:00-08:00,Medium,Weekend,Medium
+TXN00088,Jammu and Kashmir Bank Limited,2021-22,14.38,0,08:00-12:00,Medium,Weekday,Low
+TXN00458,IDFC First Bank Limited,2021-22,76.15,1,20:00-00:00,Large,Weekday,High
+TXN00145,Yes Bank Limited,2023-24,7.31,1,04:00-08:00,Small,Weekday,High
+TXN00264,IDBI Bank Limited,2022-23,51.46,0,12:00-16:00,Large,Weekday,Low
+TXN00237,DCB Bank Limited,2022-23,4.37,1,00:00-04:00,Small,Weekend,High
+TXN00471,IDFC First Bank Limited,2021-22,6.66,0,12:00-16:00,Small,Weekday,Low
+TXN00042,South Indian Bank Limited,2022-23,6.670264608438696,1,04:00-08:00,Small,Weekend,Medium
+TXN00285,Tamilnad Mercantile Bank Limited,2021-22,10.21,1,04:00-08:00,Medium,Weekday,High
+TXN00072,Karur Vysya Bank Limited,2023-24,3.47,0,08:00-12:00,Small,Weekend,Medium
+TXN00469,Yes Bank Limited,2021-22,13.24,0,16:00-20:00,Medium,Weekend,Medium
+TXN00002,The Dhanalakshmi Bank Limited,2023-24,19.78,0,08:00-12:00,Medium,Weekday,Medium
+TXN00121,Karur Vysya Bank Limited,2023-24,8.53,0,16:00-20:00,Small,Weekday,Low
+TXN00360,Yes Bank Limited,2023-24,3.03,0,08:00-12:00,Small,Weekday,Low
+TXN00008,Tamilnad Mercantile Bank Limited,2022-23,11.28,0,12:00-16:00,Medium,Weekday,Low
+TXN00164,Tamilnad Mercantile Bank Limited,2023-24,15.92,0,16:00-20:00,Medium,Weekday,Low
+TXN00404,Kotak Mahindra Bank Limited,2023-24,5.24,0,12:00-16:00,Small,Weekday,Low
+TXN00440,DCB Bank Limited,2022-23,13.47,1,00:00-04:00,Medium,Weekday,High
+TXN00167,Kotak Mahindra Bank Limited,2021-22,10.57,0,16:00-20:00,Medium,Weekend,Medium
+TXN00061,IDFC First Bank Limited,2021-22,32.33728338263152,1,00:00-04:00,Medium,Weekend,Low
+TXN00365,CSB Bank Limited,2023-24,8.38,0,12:00-16:00,Small,Weekend,Low
+TXN00255,City Union Bank Limited,2021-22,19.22,1,00:00-04:00,Medium,Weekend,High
+TXN00269,Karur Vysya Bank Limited,2023-24,24.57948760043704,1,04:00-08:00,Medium,Weekday,Low
+TXN00003,Kotak Mahindra Bank Limited,2023-24,4.37,1,00:00-04:00,Small,Weekday,High
+TXN00133,DCB Bank Limited,2021-22,42.11,1,04:00-08:00,Medium,Weekend,High
+TXN00325,RBL Bank Limited,2022-23,18.328104503274446,1,00:00-04:00,Medium,Weekday,Medium
+TXN00427,CSB Bank Limited,2023-24,15.75,0,08:00-12:00,Medium,Weekday,Medium
+TXN00369,Kotak Mahindra Bank Limited,2023-24,12.521005878715263,1,00:00-04:00,Medium,Weekday,Medium
+TXN00445,ICICI Bank Limited,2021-22,43.62,0,08:00-12:00,Medium,Weekday,High
+TXN00264,IDBI Bank Limited,2022-23,51.46,0,12:00-16:00,Large,Weekday,Low
+TXN00360,Yes Bank Limited,2023-24,3.03,0,12:00-16:00,Small,Weekday,Low
+TXN00116,Kotak Mahindra Bank Limited,2022-23,28.57,0,16:00-20:00,Medium,Weekday,Medium
+TXN00205,Federal Bank Limited,2023-24,20.42,0,12:00-16:00,Medium,Weekday,Medium
+TXN00230,The Dhanalakshmi Bank Limited,2022-23,2.1,0,08:00-12:00,Small,Weekday,Low
+TXN00111,ICICI Bank Limited,2022-23,27.81,0,16:00-20:00,Medium,Weekday,Medium
+TXN00314,City Union Bank Limited,2023-24,8.27,0,16:00-20:00,Small,Weekday,Low
+TXN00024,RBL Bank Limited,2021-22,15.513797053997697,1,20:00-00:00,Medium,Weekday,Medium
+TXN00116,Kotak Mahindra Bank Limited,2022-23,28.57,0,08:00-12:00,Medium,Weekend,Low
+TXN00476,City Union Bank Limited,2021-22,5.04,0,16:00-20:00,Small,Weekday,Low
+TXN00276,RBL Bank Limited,2022-23,22.38,0,16:00-20:00,Medium,Weekday,Low
+TXN00482,DCB Bank Limited,2023-24,25.86,0,08:00-12:00,Medium,Weekend,Medium
+TXN00059,Bandhan Bank Limited,2021-22,94.45,0,12:00-16:00,Large,Weekday,Low
+TXN00445,ICICI Bank Limited,2021-22,43.62,0,08:00-12:00,Medium,Weekend,Low
+TXN00033,DCB Bank Limited,2022-23,14.95,0,08:00-12:00,Medium,Weekend,High
+TXN00149,The Dhanalakshmi Bank Limited,2023-24,7.32,0,16:00-20:00,Small,Weekend,Low
+TXN00311,The Dhanalakshmi Bank Limited,2023-24,47.56529787307822,1,20:00-00:00,Medium,Weekend,High
+TXN00297,RBL Bank Limited,2022-23,37.32,0,16:00-20:00,Medium,Weekday,Medium
+TXN00222,Axis Bank Limited,2023-24,3.6,0,08:00-12:00,Small,Weekend,Low
+TXN00116,Kotak Mahindra Bank Limited,2022-23,28.57,0,12:00-16:00,Medium,Weekday,Medium
+TXN00065,Bandhan Bank Limited,2022-23,7.38,0,16:00-20:00,Small,Weekend,Low
+TXN00369,Kotak Mahindra Bank Limited,2023-24,12.95,1,20:00-00:00,Medium,Weekend,Medium
+TXN00193,IndusInd Bank Limited,2021-22,11.081890726647881,1,20:00-00:00,Medium,Weekend,Medium
+TXN00287,Bandhan Bank Limited,2021-22,14.39,0,16:00-20:00,Medium,Weekday,Low
+TXN00230,The Dhanalakshmi Bank Limited,2022-23,2.1,0,08:00-12:00,Small,Weekday,High
+TXN00217,Axis Bank Limited,2022-23,29.127595585359636,1,04:00-08:00,Medium,Weekday,Medium
+TXN00104,Jammu and Kashmir Bank Limited,2023-24,8.31,0,12:00-16:00,Small,Weekday,Low
+TXN00469,Yes Bank Limited,2021-22,13.24,0,12:00-16:00,Medium,Weekday,Low
+TXN00224,South Indian Bank Limited,2022-23,16.29804452903101,1,20:00-00:00,Medium,Weekday,High
+TXN00050,ICICI Bank Limited,2021-22,26.228489074835416,1,04:00-08:00,Medium,Weekday,High
+TXN00399,Nainital Bank Limited,2022-23,62.44117549341724,1,04:00-08:00,Large,Weekday,High
+TXN00113,Axis Bank Limited,2023-24,15.08,0,16:00-20:00,Medium,Weekday,Low
+TXN00264,IDBI Bank Limited,2022-23,51.46,0,12:00-16:00,Large,Weekday,Low
+TXN00147,Jammu and Kashmir Bank Limited,2021-22,7.4,0,16:00-20:00,Small,Weekend,Medium
+TXN00205,Federal Bank Limited,2023-24,20.42,0,16:00-20:00,Medium,Weekday,Low
+TXN00130,RBL Bank Limited,2021-22,6.59,0,16:00-20:00,Small,Weekend,Medium
+TXN00404,Kotak Mahindra Bank Limited,2023-24,5.24,0,16:00-20:00,Small,Weekday,Low
+TXN00360,Yes Bank Limited,2023-24,3.03,0,08:00-12:00,Small,Weekday,Low
+TXN00230,The Dhanalakshmi Bank Limited,2022-23,2.1,0,08:00-12:00,Small,Weekend,Medium
+TXN00083,Karnataka Bank Limited,2021-22,23.74,0,08:00-12:00,Medium,Weekend,Low
+TXN00104,Jammu and Kashmir Bank Limited,2023-24,8.31,0,12:00-16:00,Small,Weekday,Low
+TXN00083,Karnataka Bank Limited,2021-22,23.74,0,12:00-16:00,Medium,Weekend,Low
+TXN00065,Bandhan Bank Limited,2022-23,7.38,0,12:00-16:00,Small,Weekday,High
+TXN00120,DCB Bank Limited,2023-24,9.11,0,12:00-16:00,Small,Weekend,Low
+TXN00184,DCB Bank Limited,2022-23,9.14,0,08:00-12:00,Small,Weekend,Low
+TXN00293,Nainital Bank Limited,2022-23,51.32,0,16:00-20:00,Large,Weekday,Medium
+TXN00227,HDFC Bank Limited,2022-23,8.562413458894321,1,00:00-04:00,Small,Weekday,Medium
+TXN00472,DCB Bank Limited,2023-24,9.73447963611532,1,20:00-00:00,Small,Weekday,Medium
+TXN00489,RBL Bank Limited,2021-22,7.53,0,12:00-16:00,Small,Weekday,High
+TXN00330,Nainital Bank Limited,2022-23,20.45,0,16:00-20:00,Medium,Weekday,High
+TXN00481,HDFC Bank Limited,2023-24,5.7398278154439115,1,00:00-04:00,Small,Weekday,High
+TXN00460,Tamilnad Mercantile Bank Limited,2023-24,3.4360112865579415,1,20:00-00:00,Small,Weekday,High
+TXN00248,IndusInd Bank Limited,2022-23,15.249054220111788,1,04:00-08:00,Medium,Weekday,Medium
+TXN00033,DCB Bank Limited,2022-23,14.95,0,08:00-12:00,Medium,Weekday,Low
+TXN00338,Karnataka Bank Limited,2022-23,8.44,0,12:00-16:00,Small,Weekday,Low
+TXN00040,CSB Bank Limited,2021-22,12.44,0,16:00-20:00,Medium,Weekday,Low
+TXN00087,Axis Bank Limited,2022-23,17.18,0,08:00-12:00,Medium,Weekday,Low
+TXN00250,ICICI Bank Limited,2022-23,35.512043297491935,1,20:00-00:00,Medium,Weekday,Low
+TXN00476,City Union Bank Limited,2021-22,5.04,0,12:00-16:00,Small,Weekday,Low
+TXN00046,The Dhanalakshmi Bank Limited,2022-23,3.832967142767448,1,04:00-08:00,Small,Weekend,Low
+TXN00355,Kotak Mahindra Bank Limited,2021-22,18.82,0,12:00-16:00,Medium,Weekday,Medium
+TXN00466,Karnataka Bank Limited,2021-22,24.11,0,12:00-16:00,Medium,Weekday,Low
+TXN00042,South Indian Bank Limited,2022-23,7.320683963551753,1,00:00-04:00,Small,Weekend,Low
+TXN00338,Karnataka Bank Limited,2022-23,8.44,0,12:00-16:00,Small,Weekend,Low
+TXN00287,Bandhan Bank Limited,2021-22,14.39,0,16:00-20:00,Medium,Weekend,Low
+TXN00195,Federal Bank Limited,2021-22,34.73258700457804,1,20:00-00:00,Medium,Weekday,Low
+TXN00040,CSB Bank Limited,2021-22,12.44,0,08:00-12:00,Medium,Weekday,Low
+TXN00109,City Union Bank Limited,2023-24,38.77,1,00:00-04:00,Medium,Weekday,High
+TXN00301,Yes Bank Limited,2023-24,21.3,0,16:00-20:00,Medium,Weekday,Medium
+TXN00159,Federal Bank Limited,2023-24,41.74731789400979,1,20:00-00:00,Medium,Weekday,High
+TXN00149,The Dhanalakshmi Bank Limited,2023-24,7.32,0,16:00-20:00,Small,Weekend,Low
+TXN00422,IDFC First Bank Limited,2022-23,5.126881129868431,1,04:00-08:00,Small,Weekday,High
+TXN00393,Axis Bank Limited,2022-23,12.671598185357565,1,00:00-04:00,Medium,Weekday,Medium
+TXN00048,HDFC Bank Limited,2022-23,4.13,0,08:00-12:00,Small,Weekday,High
+TXN00279,Jammu and Kashmir Bank Limited,2023-24,5.62,0,12:00-16:00,Small,Weekday,Low
+TXN00314,City Union Bank Limited,2023-24,8.27,0,16:00-20:00,Small,Weekend,Low
+TXN00307,Karur Vysya Bank Limited,2023-24,36.66001280876252,1,04:00-08:00,Medium,Weekday,Low
+TXN00111,ICICI Bank Limited,2022-23,27.81,0,12:00-16:00,Medium,Weekend,Medium
+TXN00111,ICICI Bank Limited,2022-23,27.81,0,08:00-12:00,Medium,Weekday,Low
+TXN00241,Tamilnad Mercantile Bank Limited,2021-22,53.37,1,00:00-04:00,Large,Weekend,Medium
+TXN00449,Karnataka Bank Limited,2022-23,7.31,1,04:00-08:00,Small,Weekday,Medium
+TXN00159,Federal Bank Limited,2023-24,45.61482859785996,1,00:00-04:00,Medium,Weekend,High
+TXN00479,South Indian Bank Limited,2021-22,24.80650438846301,1,04:00-08:00,Medium,Weekday,Medium
+TXN00455,City Union Bank Limited,2022-23,26.72,1,00:00-04:00,Medium,Weekday,High
+TXN00483,Jammu and Kashmir Bank Limited,2023-24,5.659834210653304,1,04:00-08:00,Small,Weekday,High
+TXN00264,IDBI Bank Limited,2022-23,51.46,0,12:00-16:00,Large,Weekday,Medium
+TXN00121,Karur Vysya Bank Limited,2023-24,8.53,0,16:00-20:00,Small,Weekday,Medium
+TXN00427,CSB Bank Limited,2023-24,15.75,0,08:00-12:00,Medium,Weekday,Low
+TXN00427,CSB Bank Limited,2023-24,15.75,0,08:00-12:00,Medium,Weekend,Medium
+TXN00300,Karur Vysya Bank Limited,2023-24,6.987253967167379,1,00:00-04:00,Small,Weekday,High
+TXN00222,Axis Bank Limited,2023-24,3.6,0,12:00-16:00,Small,Weekend,Medium
+TXN00015,Yes Bank Limited,2021-22,8.560545206769534,1,00:00-04:00,Small,Weekday,High
+TXN00120,DCB Bank Limited,2023-24,9.11,0,08:00-12:00,Small,Weekday,Low
+TXN00275,City Union Bank Limited,2023-24,3.4737283681788385,1,04:00-08:00,Small,Weekday,Medium
+TXN00493,Tamilnad Mercantile Bank Limited,2021-22,11.99,0,12:00-16:00,Medium,Weekday,Low
+TXN00152,Axis Bank Limited,2021-22,7.2465073991832805,1,00:00-04:00,Small,Weekday,High
+TXN00154,The Dhanalakshmi Bank Limited,2021-22,17.088672820653525,1,00:00-04:00,Medium,Weekend,High
+TXN00115,DCB Bank Limited,2023-24,13.01,1,04:00-08:00,Medium,Weekend,Low
+TXN00186,Axis Bank Limited,2022-23,27.10129730510747,1,20:00-00:00,Medium,Weekday,High
+TXN00087,Axis Bank Limited,2022-23,17.18,0,08:00-12:00,Medium,Weekday,Medium
+TXN00234,Nainital Bank Limited,2022-23,21.47,0,12:00-16:00,Medium,Weekend,High
+TXN00465,South Indian Bank Limited,2021-22,19.61,1,20:00-00:00,Medium,Weekend,Medium
+TXN00240,City Union Bank Limited,2022-23,12.300918112286734,1,00:00-04:00,Medium,Weekend,Medium
+TXN00113,Axis Bank Limited,2023-24,15.08,0,16:00-20:00,Medium,Weekend,Medium
+TXN00120,DCB Bank Limited,2023-24,9.11,0,08:00-12:00,Small,Weekday,Low
+TXN00401,DCB Bank Limited,2023-24,26.91719778778098,1,04:00-08:00,Medium,Weekday,High
+TXN00389,Nainital Bank Limited,2023-24,23.25332408369915,1,20:00-00:00,Medium,Weekend,Medium
+TXN00235,Jammu and Kashmir Bank Limited,2021-22,14.81,1,04:00-08:00,Medium,Weekday,High
+TXN00159,Federal Bank Limited,2023-24,42.01,1,04:00-08:00,Medium,Weekday,Medium
+TXN00048,HDFC Bank Limited,2022-23,4.13,0,16:00-20:00,Small,Weekend,Low
+TXN00046,The Dhanalakshmi Bank Limited,2022-23,3.95,1,20:00-00:00,Small,Weekend,High
+TXN00135,Karnataka Bank Limited,2023-24,26.77,0,12:00-16:00,Medium,Weekday,Low
+TXN00267,CSB Bank Limited,2021-22,13.5,1,00:00-04:00,Medium,Weekday,High
+TXN00469,Yes Bank Limited,2021-22,13.24,0,08:00-12:00,Medium,Weekend,Low
+TXN00279,Jammu and Kashmir Bank Limited,2023-24,5.62,0,16:00-20:00,Small,Weekday,Medium
+TXN00434,South Indian Bank Limited,2023-24,4.56,1,04:00-08:00,Small,Weekday,High
+TXN00335,Karnataka Bank Limited,2021-22,14.58,1,00:00-04:00,Medium,Weekday,High
+TXN00481,HDFC Bank Limited,2023-24,5.52,1,20:00-00:00,Small,Weekday,High
+TXN00476,City Union Bank Limited,2021-22,5.04,0,08:00-12:00,Small,Weekday,High
+TXN00448,Jammu and Kashmir Bank Limited,2022-23,2.18,1,20:00-00:00,Small,Weekday,High
+TXN00017,Jammu and Kashmir Bank Limited,2022-23,15.120625648536688,1,00:00-04:00,Medium,Weekday,High
+TXN00203,Axis Bank Limited,2023-24,4.1,0,16:00-20:00,Small,Weekday,Low
+TXN00222,Axis Bank Limited,2023-24,3.6,0,16:00-20:00,Small,Weekday,Low
+TXN00059,Bandhan Bank Limited,2021-22,94.45,0,12:00-16:00,Large,Weekday,Low
+TXN00338,Karnataka Bank Limited,2022-23,8.44,0,12:00-16:00,Small,Weekday,High
+TXN00369,Kotak Mahindra Bank Limited,2023-24,12.947385415228707,1,04:00-08:00,Medium,Weekday,High
+TXN00466,Karnataka Bank Limited,2021-22,24.11,0,16:00-20:00,Medium,Weekend,Low
+TXN00088,Jammu and Kashmir Bank Limited,2021-22,14.38,0,16:00-20:00,Medium,Weekday,Medium
+TXN00315,South Indian Bank Limited,2022-23,9.603596823372646,1,04:00-08:00,Small,Weekday,Low
+TXN00008,Tamilnad Mercantile Bank Limited,2022-23,11.28,0,16:00-20:00,Medium,Weekday,Low
+TXN00074,Yes Bank Limited,2023-24,9.99,1,20:00-00:00,Small,Weekend,Low
+TXN00087,Axis Bank Limited,2022-23,17.18,0,12:00-16:00,Medium,Weekday,High
+TXN00017,Jammu and Kashmir Bank Limited,2022-23,15.58,1,20:00-00:00,Medium,Weekday,High
+TXN00293,Nainital Bank Limited,2022-23,51.32,0,12:00-16:00,Large,Weekday,Low
+TXN00293,Nainital Bank Limited,2022-23,51.32,0,16:00-20:00,Large,Weekday,High
+TXN00397,City Union Bank Limited,2023-24,26.788116732618718,1,20:00-00:00,Medium,Weekday,Low
+TXN00435,City Union Bank Limited,2021-22,19.65,1,00:00-04:00,Medium,Weekday,High
+TXN00218,ICICI Bank Limited,2023-24,5.36,1,20:00-00:00,Small,Weekday,Medium
+TXN00138,CSB Bank Limited,2023-24,20.02120096735282,1,04:00-08:00,Medium,Weekday,Medium
+TXN00252,Federal Bank Limited,2023-24,29.78,1,00:00-04:00,Medium,Weekend,High
+TXN00462,HDFC Bank Limited,2021-22,91.0344121219774,1,00:00-04:00,Large,Weekday,Low
+TXN00065,Bandhan Bank Limited,2022-23,7.38,0,16:00-20:00,Small,Weekday,Low
+TXN00029,Tamilnad Mercantile Bank Limited,2023-24,15.888799917633843,1,00:00-04:00,Medium,Weekend,High
+TXN00389,Nainital Bank Limited,2023-24,21.8,1,20:00-00:00,Medium,Weekday,Low
+TXN00164,Tamilnad Mercantile Bank Limited,2023-24,15.92,0,12:00-16:00,Medium,Weekday,Low
+TXN00174,HDFC Bank Limited,2022-23,13.828422053451558,1,04:00-08:00,Medium,Weekday,High
+TXN00135,Karnataka Bank Limited,2023-24,26.77,0,08:00-12:00,Medium,Weekday,Low
+TXN00343,Nainital Bank Limited,2023-24,20.53,1,00:00-04:00,Medium,Weekday,High
+TXN00313,Axis Bank Limited,2021-22,7.23,0,08:00-12:00,Small,Weekend,Medium
+TXN00461,IDBI Bank Limited,2022-23,27.61,0,12:00-16:00,Medium,Weekday,Medium
+TXN00287,Bandhan Bank Limited,2021-22,14.39,0,16:00-20:00,Medium,Weekday,Medium
+TXN00489,RBL Bank Limited,2021-22,7.53,0,12:00-16:00,Small,Weekday,Medium
+TXN00222,Axis Bank Limited,2023-24,3.6,0,12:00-16:00,Small,Weekend,Medium
+TXN00395,HDFC Bank Limited,2022-23,24.308825122812348,1,04:00-08:00,Medium,Weekday,High
+TXN00493,Tamilnad Mercantile Bank Limited,2021-22,11.99,0,16:00-20:00,Medium,Weekday,High
+TXN00110,Jammu and Kashmir Bank Limited,2021-22,13.630801839559915,1,04:00-08:00,Medium,Weekend,High
+TXN00002,The Dhanalakshmi Bank Limited,2023-24,19.78,0,16:00-20:00,Medium,Weekday,Low
+TXN00315,South Indian Bank Limited,2022-23,9.43,1,20:00-00:00,Small,Weekday,High
+TXN00117,Karur Vysya Bank Limited,2022-23,7.322723070518394,1,04:00-08:00,Small,Weekend,High
+TXN00236,DCB Bank Limited,2023-24,7.76,1,04:00-08:00,Small,Weekend,Medium
+TXN00190,Jammu and Kashmir Bank Limited,2021-22,31.04,1,04:00-08:00,Medium,Weekday,Medium
+TXN00279,Jammu and Kashmir Bank Limited,2023-24,5.62,0,16:00-20:00,Small,Weekday,Low
+TXN00153,Axis Bank Limited,2021-22,6.00065392251627,1,04:00-08:00,Small,Weekend,High
+TXN00459,Bandhan Bank Limited,2023-24,4.01,1,20:00-00:00,Small,Weekend,Medium
+TXN00231,RBL Bank Limited,2021-22,18.33720411621974,1,20:00-00:00,Medium,Weekend,High
+TXN00002,The Dhanalakshmi Bank Limited,2023-24,19.78,0,08:00-12:00,Medium,Weekend,Medium
+TXN00482,DCB Bank Limited,2023-24,25.86,0,16:00-20:00,Medium,Weekday,Medium
+TXN00040,CSB Bank Limited,2021-22,12.44,0,08:00-12:00,Medium,Weekday,High
+TXN00476,City Union Bank Limited,2021-22,5.04,0,12:00-16:00,Small,Weekday,Low
+TXN00379,Tamilnad Mercantile Bank Limited,2022-23,8.663477005531442,1,20:00-00:00,Small,Weekday,Medium
+TXN00466,Karnataka Bank Limited,2021-22,24.11,0,12:00-16:00,Medium,Weekday,Medium
+TXN00469,Yes Bank Limited,2021-22,13.24,0,08:00-12:00,Medium,Weekday,Medium
+TXN00338,Karnataka Bank Limited,2022-23,8.44,0,16:00-20:00,Small,Weekday,Low
+TXN00476,City Union Bank Limited,2021-22,5.04,0,12:00-16:00,Small,Weekday,Medium
+TXN00314,City Union Bank Limited,2023-24,8.27,0,16:00-20:00,Small,Weekday,Medium
+TXN00482,DCB Bank Limited,2023-24,25.86,0,12:00-16:00,Medium,Weekday,Low
+TXN00113,Axis Bank Limited,2023-24,15.08,0,08:00-12:00,Medium,Weekday,Low
+TXN00240,City Union Bank Limited,2022-23,11.25,1,00:00-04:00,Medium,Weekend,High
+TXN00039,South Indian Bank Limited,2022-23,7.39,1,20:00-00:00,Small,Weekday,Medium
+TXN00400,Tamilnad Mercantile Bank Limited,2021-22,9.886287732846396,1,20:00-00:00,Small,Weekend,High
+TXN00003,Kotak Mahindra Bank Limited,2023-24,4.6875139841485955,1,00:00-04:00,Small,Weekday,High
+TXN00203,Axis Bank Limited,2023-24,4.1,0,08:00-12:00,Small,Weekday,Low
+TXN00445,ICICI Bank Limited,2021-22,43.62,0,16:00-20:00,Medium,Weekday,Low
+TXN00203,Axis Bank Limited,2023-24,4.1,0,12:00-16:00,Small,Weekday,Low
+TXN00059,Bandhan Bank Limited,2021-22,94.45,0,16:00-20:00,Large,Weekday,Low
+TXN00105,Bandhan Bank Limited,2021-22,33.27,1,04:00-08:00,Medium,Weekend,Low
+TXN00149,The Dhanalakshmi Bank Limited,2023-24,7.32,0,08:00-12:00,Small,Weekend,Low
+TXN00407,The Dhanalakshmi Bank Limited,2022-23,9.94021680039721,1,20:00-00:00,Small,Weekday,High
+TXN00235,Jammu and Kashmir Bank Limited,2021-22,15.011687300818384,1,20:00-00:00,Medium,Weekend,Medium
+TXN00249,RBL Bank Limited,2023-24,4.48,0,12:00-16:00,Small,Weekday,Medium
+TXN00459,Bandhan Bank Limited,2023-24,4.334358697453433,1,00:00-04:00,Small,Weekday,High
+TXN00280,Tamilnad Mercantile Bank Limited,2021-22,11.73,1,00:00-04:00,Medium,Weekend,Medium
+TXN00016,Bandhan Bank Limited,2022-23,11.64,1,00:00-04:00,Medium,Weekday,Medium
+TXN00367,Karnataka Bank Limited,2021-22,11.73,1,00:00-04:00,Medium,Weekday,Medium
+TXN00278,Nainital Bank Limited,2021-22,17.050006356798416,1,04:00-08:00,Medium,Weekend,Medium
+TXN00443,Axis Bank Limited,2021-22,5.07,1,00:00-04:00,Small,Weekday,Low
+TXN00461,IDBI Bank Limited,2022-23,27.61,0,08:00-12:00,Medium,Weekend,Low
+TXN00195,Federal Bank Limited,2021-22,31.98,1,04:00-08:00,Medium,Weekday,High
+TXN00108,DCB Bank Limited,2023-24,8.395060401489246,1,00:00-04:00,Small,Weekday,Medium
+TXN00024,RBL Bank Limited,2021-22,16.09,1,20:00-00:00,Medium,Weekday,High
+TXN00161,IDBI Bank Limited,2022-23,7.756735533469029,1,20:00-00:00,Small,Weekday,Medium
+TXN00424,Axis Bank Limited,2021-22,6.66,0,16:00-20:00,Small,Weekend,Low
+TXN00184,DCB Bank Limited,2022-23,9.14,0,12:00-16:00,Small,Weekend,Low
+TXN00008,Tamilnad Mercantile Bank Limited,2022-23,11.28,0,12:00-16:00,Medium,Weekday,Low
+TXN00164,Tamilnad Mercantile Bank Limited,2023-24,15.92,0,16:00-20:00,Medium,Weekday,Low
+TXN00007,HDFC Bank Limited,2021-22,14.210218370575754,1,00:00-04:00,Medium,Weekend,High
+TXN00147,Jammu and Kashmir Bank Limited,2021-22,7.4,0,08:00-12:00,Small,Weekday,Low
+TXN00040,CSB Bank Limited,2021-22,12.44,0,16:00-20:00,Medium,Weekend,Medium
+TXN00121,Karur Vysya Bank Limited,2023-24,8.53,0,12:00-16:00,Small,Weekday,Medium
+TXN00031,The Dhanalakshmi Bank Limited,2021-22,26.828012919196233,1,00:00-04:00,Medium,Weekday,High
+TXN00088,Jammu and Kashmir Bank Limited,2021-22,14.38,0,12:00-16:00,Medium,Weekday,Medium
+TXN00253,ICICI Bank Limited,2023-24,14.52762565842841,1,20:00-00:00,Medium,Weekday,High
+TXN00066,IDFC First Bank Limited,2023-24,49.88015026126779,1,00:00-04:00,Medium,Weekday,High
+TXN00220,South Indian Bank Limited,2021-22,6.96,1,20:00-00:00,Small,Weekend,High
+TXN00203,Axis Bank Limited,2023-24,4.1,0,12:00-16:00,Small,Weekday,Medium
+TXN00400,Tamilnad Mercantile Bank Limited,2021-22,9.815121200168507,1,04:00-08:00,Small,Weekday,Medium
+TXN00376,IDFC First Bank Limited,2023-24,24.562852930627436,1,00:00-04:00,Medium,Weekday,Medium
+TXN00221,ICICI Bank Limited,2023-24,31.69,0,16:00-20:00,Medium,Weekend,Low
+TXN00040,CSB Bank Limited,2021-22,12.44,0,12:00-16:00,Medium,Weekend,Low
+TXN00061,IDFC First Bank Limited,2021-22,28.970424577936825,1,00:00-04:00,Medium,Weekday,High
+TXN00230,The Dhanalakshmi Bank Limited,2022-23,2.1,0,12:00-16:00,Small,Weekend,Medium
+TXN00057,ICICI Bank Limited,2021-22,7.855771041739426,1,00:00-04:00,Small,Weekend,High
+TXN00365,CSB Bank Limited,2023-24,8.38,0,16:00-20:00,Small,Weekday,Low
+TXN00374,Karnataka Bank Limited,2022-23,9.031950794134627,1,04:00-08:00,Small,Weekday,Medium
+TXN00165,IDFC First Bank Limited,2023-24,18.58089654172533,1,00:00-04:00,Medium,Weekday,High
+TXN00292,DCB Bank Limited,2021-22,9.73,1,20:00-00:00,Small,Weekday,High
+TXN00025,IDFC First Bank Limited,2021-22,7.91,1,20:00-00:00,Small,Weekday,High
+TXN00114,City Union Bank Limited,2023-24,24.82,0,16:00-20:00,Medium,Weekday,Low
+TXN00224,South Indian Bank Limited,2022-23,15.023838305677431,1,04:00-08:00,Medium,Weekday,High
+TXN00451,Karur Vysya Bank Limited,2023-24,45.31,0,12:00-16:00,Medium,Weekday,Low
+TXN00322,Bandhan Bank Limited,2023-24,17.27,1,00:00-04:00,Medium,Weekday,Medium
+TXN00453,Tamilnad Mercantile Bank Limited,2022-23,7.570512864682826,1,04:00-08:00,Small,Weekday,Medium
+TXN00230,The Dhanalakshmi Bank Limited,2022-23,2.1,0,16:00-20:00,Small,Weekend,Low
+TXN00441,Jammu and Kashmir Bank Limited,2021-22,10.61,1,20:00-00:00,Medium,Weekday,High
+TXN00043,IDBI Bank Limited,2022-23,15.192132534722187,1,00:00-04:00,Medium,Weekday,Medium
+TXN00249,RBL Bank Limited,2023-24,4.48,0,08:00-12:00,Small,Weekday,Low
+TXN00184,DCB Bank Limited,2022-23,9.14,0,08:00-12:00,Small,Weekday,Medium
+TXN00395,HDFC Bank Limited,2022-23,25.36,1,20:00-00:00,Medium,Weekend,Medium
+TXN00391,Karnataka Bank Limited,2023-24,19.870731894714808,1,04:00-08:00,Medium,Weekend,High
+TXN00461,IDBI Bank Limited,2022-23,27.61,0,12:00-16:00,Medium,Weekday,Low
+TXN00476,City Union Bank Limited,2021-22,5.04,0,16:00-20:00,Small,Weekday,High
+TXN00155,Karnataka Bank Limited,2022-23,7.83,1,00:00-04:00,Small,Weekday,Medium
+TXN00427,CSB Bank Limited,2023-24,15.75,0,08:00-12:00,Medium,Weekend,Low
+TXN00449,Karnataka Bank Limited,2022-23,7.5874616523855005,1,04:00-08:00,Small,Weekday,High
+TXN00048,HDFC Bank Limited,2022-23,4.13,0,16:00-20:00,Small,Weekend,Low
+TXN00083,Karnataka Bank Limited,2021-22,23.74,0,12:00-16:00,Medium,Weekday,Low
+TXN00100,IDBI Bank Limited,2023-24,8.42,1,04:00-08:00,Small,Weekday,Low
+TXN00461,IDBI Bank Limited,2022-23,27.61,0,08:00-12:00,Medium,Weekday,Low
+TXN00382,IDBI Bank Limited,2022-23,17.18,1,00:00-04:00,Medium,Weekday,Medium
+TXN00489,RBL Bank Limited,2021-22,7.53,0,16:00-20:00,Small,Weekday,Low
+TXN00396,DCB Bank Limited,2023-24,16.195083811228454,1,20:00-00:00,Medium,Weekend,High
+TXN00144,Karnataka Bank Limited,2022-23,86.86,1,20:00-00:00,Large,Weekday,Low
+TXN00065,Bandhan Bank Limited,2022-23,7.38,0,16:00-20:00,Small,Weekday,Medium
+TXN00065,Bandhan Bank Limited,2022-23,7.38,0,16:00-20:00,Small,Weekend,High
+TXN00083,Karnataka Bank Limited,2021-22,23.74,0,08:00-12:00,Medium,Weekday,Low
+TXN00249,RBL Bank Limited,2023-24,4.48,0,16:00-20:00,Small,Weekday,Medium
+TXN00002,The Dhanalakshmi Bank Limited,2023-24,19.78,0,08:00-12:00,Medium,Weekday,Low
+TXN00482,DCB Bank Limited,2023-24,25.86,0,16:00-20:00,Medium,Weekday,Medium
+TXN00136,Kotak Mahindra Bank Limited,2022-23,10.505274810292386,1,04:00-08:00,Medium,Weekday,High
+TXN00264,IDBI Bank Limited,2022-23,51.46,0,08:00-12:00,Large,Weekday,Medium
+TXN00313,Axis Bank Limited,2021-22,7.23,0,08:00-12:00,Small,Weekday,Low
